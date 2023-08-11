@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 09 Aug 2023 22:40 UTC
-! Version: 2023.0809.2240.09
+! Last modified: 10 Aug 2023 22:38 UTC
+! Version: 2023.0810.2238.12
 ! Syntax: AdBlock
-! Number of entries: 16096
+! Number of entries: 16071
 !
 ||009972.com^
 ||100-solarni-lampa-cz.com^
@@ -35,7 +35,6 @@
 ||200pills.com^
 ||2021bestcheaponline.com^
 ||discountonline.2021salecheap.ru^
-||2021shoponline.com^
 ||eoutlet.2022factorysale.ru^
 ||2023discountoutlets.com^
 ||2023fanaticofficialshop.com^
@@ -321,8 +320,6 @@
 ||aircraft.travel^
 ||aircraftabrasives.shop^
 ||airguncapital.com^
-||airibal.art^
-||airibal.store^
 ||airjordan.at^
 ||airjordans.live^
 ||airmaxoutlet.net^
@@ -570,7 +567,6 @@
 ||ambesonnehome.com^
 ||ambiar.de^
 ||ambileds.de^
-||amboxfy.com^
 ||ambrettlhof.at^
 ||ambulancesodium.cn^
 ||ambusama.de^
@@ -674,7 +670,6 @@
 ||annivett.com^
 ||announcm.com^
 ||anouksmit.com^
-||anpario.de^
 ||anrshop.shop^
 ||anthonylogrande.com^
 ||antik-kunst-genuss.de^
@@ -1328,7 +1323,6 @@
 ||bekleidungsaleshop.com^
 ||bekleidungsoutlet.com^
 ||bekos.at^
-||belacova.com^
 ||belagus.com^
 ||belebey.com^
 ||belerf.de^
@@ -1383,7 +1377,6 @@
 ||beschlaegeprofi.de^
 ||bespoke-space.com^
 ||bessere-reifen.de^
-||best-apotheke.online^
 ||best-home.store^
 ||best-income-source.com^
 ||best24rxonline.shop^
@@ -1463,7 +1456,6 @@
 ||betefo.shop^
 ||betercscios.com^
 ||beterros.com^
-||betrugsdezernat.org^
 ||betterinbed.shop^
 ||betterlife24.store^
 ||betterse.at^
@@ -1529,7 +1521,6 @@
 ||bike-hagers.de^
 ||bike-poc.com^
 ||bike-shop-market.com^
-||bikeaccessoriesneu.com^
 ||bikeblitz.de^
 ||bikeexploiter.com^
 ||bikefahrradonline.com^
@@ -1727,7 +1718,6 @@
 ||bittrade.ltd^
 ||bituuex.com^
 ||bitxf.com^
-||bitypis.com^
 ||bivouac-new.com^
 ||bivouacsale.com^
 ||bixfin.com^
@@ -2103,11 +2093,9 @@
 ||burlingtonbrowne.com^
 ||burnout-cockpit.de^
 ||burtonoutletstore.com^
-||burtonshop.site^
 ||burtonski.de^
 ||burtonsnowboard.de^
 ||burtschenko.at^
-||busblech-shop.de^
 ||indianshoponlinestore.business.site^
 ||business-analyse.at^
 ||businessempire.fr^
@@ -2129,6 +2117,7 @@
 ||buydax.xyz^
 ||buydubuy.com^
 ||buyelectrictool.com^
+||buyfivestore.com^
 ||buyhealthandcaremeds.com^
 ||buyimplements.com^
 ||buyjordan2021.com^
@@ -2191,7 +2180,6 @@
 ||cambase-berlin.de^
 ||camelfx.com^
 ||camelia-blumen.de^
-||camerasphoto.shop^
 ||cameraverse.de^
 ||camgem.de^
 ||camhamster.at^
@@ -2309,7 +2297,6 @@
 ||caromalife.com^
 ||carpartsdiscount.store^
 ||carpkorda.com^
-||carrelage-paulay.com^
 ||carrhy.com^
 ||carry-shop.com^
 ||carrycotsangebote.de^
@@ -2543,7 +2530,6 @@
 ||chrisgfornevada.com^
 ||chriskkfishing.com^
 ||chrissie.at^
-||christiankoenigmusik.de^
 ||christianlouboutinschuhe.com^
 ||christianpomowski.de^
 ||christine-bongert.de^
@@ -2610,7 +2596,6 @@
 ||claim-justice.com^
 ||claimcoderz.live^
 ||clairedresses.space^
-||claokcutlery.shop^
 ||clara-holz.com^
 ||shop.clarissanails-schweiz.ch^
 ||clarkosale.shop^
@@ -2628,7 +2613,6 @@
 ||classicbagbag.com^
 ||classicbeaglepuppieshome.com^
 ||classiccitychic.com^
-||classictoys.space^
 ||classy-furniture.com^
 ||classy4.de^
 ||claudia-finke.de^
@@ -2819,7 +2803,6 @@
 ||m.coinexeu.vip^
 ||coinibank.co^
 ||coiningsparkmine.com^
-||coiniswap.com^
 ||coiniwelt.com^
 ||coinkavim.shop^
 ||coinmargin.com^
@@ -3013,7 +2996,6 @@
 ||coreglobaltrade.com^
 ||corg.co^
 ||cornavllc.com^
-||corola.travel^
 ||corona-jobfee.de^
 ||corona-testkit.shop^
 ||corona-testzentrum-neubrandenburg.de^
@@ -3100,7 +3082,6 @@
 ||crationsky.com^
 ||crayonling.com^
 ||crazy-cooper.de^
-||crbsteru.shop^
 ||crbux.com^
 ||createdonstar.co^
 ||creatioiet.com^
@@ -3120,7 +3101,6 @@
 ||crktcutlery.com^
 ||crnstore.com^
 ||crocsat.at^
-||crocshopwien.com^
 ||crocsoutletdeutschland.com^
 ||crocssalenz.com^
 ||crookfishing.com^
@@ -3129,7 +3109,6 @@
 ||crosstourer.at^
 ||croutletau.store^
 ||crowdif.com^
-||crowdmining.biz^
 ||webtrader.crptfw.com^
 ||crshct.com^
 ||crtiveauch.com^
@@ -3268,8 +3247,6 @@
 ||m.cxbkex.com^
 ||cyberofficial1.com^
 ||cycery.com^
-||cycle100percent.com^
-||cycleessentiel.com^
 ||cycleorigin.com^
 ||cyclepirelliprofile.com^
 ||cyclepopular.com^
@@ -3277,7 +3254,6 @@
 ||cyclesprint.com^
 ||cyclesretail.com^
 ||cycletirede.com^
-||cycling100percent.com^
 ||cyclingabus.com^
 ||cyclingandbike.com^
 ||cyclinghelmetneu.com^
@@ -5467,7 +5443,6 @@
 ||fxprime.io^
 ||fxprotrade.com^
 ||fxrevenues.com^
-||fxsmartcapitaltrade.com^
 ||fxsuccess.co^
 ||fxsuit.com^
 ||fxtbrokers.com^
@@ -5814,7 +5789,6 @@
 ||global-coin.pro^
 ||global-elektro.com^
 ||global-expressdelivery.com^
-||global-financialmarket.com^
 ||global-posts.com^
 ||global-solution.pro^
 ||global-trade.life^
@@ -7411,6 +7385,7 @@
 ||kangasaving.de^
 ||kaninchenstall-bauen.de^
 ||kankenbageu.com^
+||kantaapnews.com^
 ||kanu-meppen.de^
 ||kanywhere.com^
 ||kanzlei-dahlmanns-witten.de^
@@ -7971,6 +7946,7 @@
 ||learnico.it^
 ||learningtowers-und-mehr.de^
 ||leasns.com^
+||leatheryouth.com^
 ||leavingtheline.com^
 ||lebens-traum.at^
 ||lebensenerqi.at^
@@ -7982,7 +7958,6 @@
 ||leddeckenpanels.de^
 ||ledgerlive.mobi^
 ||ledgerlives.live^
-||ledgerlivewallets.com^
 ||ledgers.network^
 ||leditgreen.fr^
 ||leecogo.com^
@@ -8953,7 +8928,6 @@
 ||miniwelpen.com^
 ||minnamalls.com^
 ||minnetonkaschuhe.com^
-||minymode.shop^
 ||mioded.store^
 ||miofactoryoutlets.shop^
 ||miofactoryoutw.shop^
@@ -10202,6 +10176,7 @@
 ||online-bathrooms.com^
 ||online-gold-shop.de^
 ||online-mode-1.de^
+||online-ph.com^
 ||online-pharmacy365.com^
 ||online-pills.com^
 ||onlineadid.com^
@@ -11070,7 +11045,6 @@
 ||premiumpricepills24hr.com^
 ||premiumqualityblanket.com^
 ||premiumtech24.com^
-||premiumtour-don.com^
 ||premiumwestern.com^
 ||prenblog.com^
 ||prepabtsl.com^
@@ -16014,6 +15988,7 @@
 ||zeynoa.de^
 ||zezeii.com^
 ||zf-blog.de^
+||zfxtrade.com^
 ||zgalaxytee.com^
 ||zh1capital.com^
 ||zhljrsb.com^

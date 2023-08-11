@@ -4637,6 +4637,8 @@
 @@|pages.convertkit.com^
 @@|preferences.convertkit.com^
 @@|unsubscribe.convertkit.com^
+@@|cm.naukri.com^
+@@|l.engage.canva.com^
 
 ! Referral
 @@|aylink.co^
@@ -4661,4 +4663,23 @@
 ! https://github.com/hagezi/dns-blocklists/issues/1399
 @@|4wank.com^
 @@|www.4wank.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/1401
+@@|tracking.agsystems.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/1401
+@@|api.hubapi.com^
+
+! local news stations videos
+@@|htv-streaming-otfp.hearst.io^
+@@|hips.hearstapps.com^
+@@|nitehawk.hearst.io^
+
+! https://github.com/hagezi/dns-blocklists/issues/1402
+@@|thedise.me^
+@@|www.thedise.me^
+
+! https://github.com/hagezi/dns-blocklists/issues/1404
+@@|guhantara.com^
+@@|www.guhantara.com^
 

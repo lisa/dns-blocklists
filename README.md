@@ -4,6 +4,19 @@
 ### *Made with :heartbeat: for a safer and cleaner internet! It always seems impossible until it’s done.*
 *If you like the project and you can benefit from it, leave a :star: (top right) and become a [stargazer](https://github.com/hagezi/dns-blocklists/stargazers)! Thanks for your support!* 
 
+---
+
+**Google** *FILTERS YOUR THOUGHTS*         
+**Apple** *KNOWS WHERE YOUR MOM IS*         
+**Facebook** *CHOOSES WHAT YOU READ*        
+**Amazon** *KNOWS WHAT PRESENTS ARE YOU GETTING*      
+**Microsoft** *FORMATS YOUR KIDS*      
+**Others** *CREATES EXTENSIVE PROFILES AND SELLS YOUR DATA*         
+
+*Privacy is not a crime, protect yourself!*
+
+---	 
+
 ### Table of Contents
 1. [Overview](#overview)
 2. [Multi light](#light) - *Hand brush: Light protection*
@@ -36,11 +49,11 @@
 #### ***Multi blocklist version and size overview:***
 | Version | Domains<br>Compressed | Pro++ | Pro | Normal | Light | [Fake](#fake) | [TIF](#tif) | [Personal](#personal) | [Native](#native) |
 |:--------|---:|:------:|:-----:|:----:|:----:|:---:|:------:|:----------:|:----------:|
-| [Light](#light)             | 573132<br>86580     |  |   |   |  | :green_circle: | :yellow_square: | :green_circle: | :yellow_square: |
-| [Normal](#normal)       | 864992<br>263855     |  |   |  | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :yellow_square: |
-| [Pro](#pro)              | 1032564<br>359459         |  |  | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :yellow_square: |
-| [Pro++](#proplus)    | 1136624<br>384044 |  | :green_circle: | :green_circle: | :green_circle: | :green_circle: |:yellow_square: | :green_circle: | :yellow_square: |
-| [Ultimate](#ultimate)    | 1519266<br>477302 | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :green_circle: |
+| [Light](#light)             | 572023<br>86674     |  |   |   |  | :green_circle: | :yellow_square: | :green_circle: | :yellow_square: |
+| [Normal](#normal)       | 863553<br>263937     |  |   |  | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :yellow_square: |
+| [Pro](#pro)              | 1030235<br>359109         |  |  | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :yellow_square: |
+| [Pro++](#proplus)    | 1134315<br>383322 |  | :green_circle: | :green_circle: | :green_circle: | :green_circle: |:yellow_square: | :green_circle: | :yellow_square: |
+| [Ultimate](#ultimate)    | 1512530<br>475621 | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :green_circle: |
            
 :green_circle: contains the list named in the column caption       
 :yellow_square: partially contains the list named in the column caption       
@@ -51,7 +64,7 @@
       
 *Hand brush - Cleans the Internet and protects your privacy! Blocks Ads, Tracking, Metrics, some Malware and Fake.*
           
-**Entries:** *573132 domains/hosts - 86580 compressed domains*                    
+**Entries:** *572023 domains/hosts - 86674 compressed domains*                    
          
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -68,7 +81,7 @@
       
 *Broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other "Crap".*
          
-**Entries:** *864992 domains/hosts - 263855 compressed domains*                   
+**Entries:** *863553 domains/hosts - 263937 compressed domains*                   
           
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -85,7 +98,7 @@
       
 *Big broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other "Crap".*
          
-**Entries:** *1032564 domains/hosts - 359459 compressed domains*                   
+**Entries:** *1030235 domains/hosts - 359109 compressed domains*                   
            
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -104,7 +117,7 @@
          
 *More aggressive version of the Multi PRO blocklist. It may contain few false positive domains that limit functionality. Therefore it should only be used by experienced users. Furthermore, an admin should be available to unblock incorrectly blocked domains. Reported false positive domains will be removed from the list!*
 
-**Entries:** *1136624 domains/hosts - 384044 compressed domains*               
+**Entries:** *1134315 domains/hosts - 383322 compressed domains*               
                                                 
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -123,7 +136,7 @@
          
 *Stricter version of the Multi PRO++ blocklist. It may contain false positive domains that limit functionality. Therefore it should only be used by experienced users. Furthermore, an admin should be available to unblock incorrectly blocked domains. Reported false positive domains will be removed from the list!*
 
-**Entries:** *1519266 domains/hosts - 477302 compressed domains*               
+**Entries:** *1512530 domains/hosts - 475621 compressed domains*               
                                                 
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -149,7 +162,7 @@
 
 :green_circle: yes :yellow_square: partially :x: no
 		
-**Entries:** *16096 compressed domains*           
+**Entries:** *16071 compressed domains*           
        
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -173,7 +186,7 @@
 
 :green_circle: yes :yellow_square: partially :x: no
               		
-**Entries:** *1189945 domains/hosts - 698489 compressed domains*           
+**Entries:** *1193050 domains/hosts - 700243 compressed domains*           
          
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -204,7 +217,7 @@
 
 :green_circle: yes :yellow_square: partially :x: no
 		
-**Entries:** *2434 compressed domains*           
+**Entries:** *2445 compressed domains*           
             
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -299,7 +312,7 @@
 
 :green_circle: yes :yellow_square: partially :x: no
 		
-**Entries:** *2017 compressed domains*                     
+**Entries:** *2018 compressed domains*                     
             
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -343,7 +356,7 @@
 
 :green_circle: yes :yellow_square: partially :x: no
 		
-**Entries:** *6890 compressed domains*                     
+**Entries:** *6892 compressed domains*                     
             
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -367,7 +380,7 @@
 
 :green_circle: yes :yellow_square: partially :x: no
 		
-**Entries:** *171125 compressed domains*                     
+**Entries:** *171124 compressed domains*                     
             
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -391,7 +404,7 @@
 
 :green_circle: yes :yellow_square: partially :x: no
 		
-**Entries:** *48951 compressed domains*                    
+**Entries:** *48920 compressed domains*                    
        
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -566,5 +579,9 @@ If these are blocked, the first hit links from search results, for example, no l
 ---
 
 ### ***Keep the internet clean!***
+
+---
+
+[![https://gafam.info](https://github.com/hagezi/dns-blocklists/assets/104343908/4eda6a64-ab1c-4866-b8fd-3676b694df3f)](https://gafam.info)
 
 ---

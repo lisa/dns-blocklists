@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 08 Aug 2023 22:27 UTC
-# Version: 2023.0808.2227.34
+# Last modified: 10 Aug 2023 22:28 UTC
+# Version: 2023.0810.2228.34
 # Syntax: DNSMasq
-# Number of entries: 6890
+# Number of entries: 6892
 #
 address=/zer0day.000webhostapp.com/#
 address=/0123456789nonexistent.com/#
@@ -1330,6 +1330,7 @@ address=/icc.com.bd/#
 address=/k1.com.br/#
 address=/movies-watch.com.pk/#
 address=/nagordola.com.bd/#
+address=/tracker.nartlof.com.br/#
 address=/www.nartlof.com.br/#
 address=/netpoint.com.bd/#
 address=/nis.com.bd/#
@@ -2258,6 +2259,7 @@ address=/fmoviestv.site/#
 address=/fn-bd.com/#
 address=/fnetctg.com/#
 address=/fnfonlinebd.com/#
+address=/tracker.fnix.net/#
 address=/focusflix.com/#
 address=/focusonlinectg.com/#
 address=/foff.ru/#

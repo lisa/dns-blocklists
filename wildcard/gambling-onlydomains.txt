@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 09 Aug 2023 22:31 UTC
-# Version: 2023.0809.2231.58
+# Last modified: 10 Aug 2023 22:30 UTC
+# Version: 2023.0810.2230.07
 # Syntax: Domains (without subdomains)
-# Number of entries: 171125
+# Number of entries: 171124
 #
 0-bet.com
 000000.com
@@ -6256,6 +6256,7 @@
 1074yb.com
 10755.net
 10756.org
+1075bets10.com
 1075ky.com
 1076.app
 10760022.com
@@ -11179,7 +11180,6 @@ cdn2.12betso.com
 1381ky.com
 1381n.com
 1381yy.com
-1381yyy.com
 1381zz.com
 13822.vip
 13826.net
@@ -18045,7 +18045,6 @@ cdn2.12betso.com
 1hgdl.com
 1hhgg.com
 1hi88.com
-1hidhdhdihdduudd.com
 1hourfastcash.net
 1houseofpokies.com
 1hptv2.com
@@ -95806,7 +95805,6 @@ a6587.com
 a6588a.com
 a65la.com
 a6646.com
-a6650.com
 a66616.com
 a666yl.com
 a6686.app
@@ -109427,6 +109425,7 @@ casinomachines.info
 casinomartini.com
 casinomatic.com
 casinomax.com
+casinomaxi686.com
 casinomaxonline.info
 casinomcw.com
 casinomech.in
@@ -153064,6 +153063,7 @@ tais7.top
 tais7.vip
 taishangjunjun.com
 taisum.co
+taiuk88.net
 taiuwin.com
 taiuwin.xyz
 taiv8.com
@@ -153789,6 +153789,7 @@ thethao88.bet
 thethao88fun.com
 thethao90.com
 thethao90.net
+thethaob52.org
 thethaobw.com
 thethaodabet.com
 thethaodafa.com
@@ -160430,7 +160431,6 @@ w8537.com
 w8554.com
 w8557.com
 w8559.com
-w856526.com
 w8567.com
 w8591.com
 w8637.com
@@ -161896,7 +161896,6 @@ wns1239.com
 wns1616.com
 wns2005.com
 wns2009.com
-wns2199.com
 wns22.net
 wns222.net
 wns2224.com

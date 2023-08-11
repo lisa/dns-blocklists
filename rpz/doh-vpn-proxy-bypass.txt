@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.doh-vpn-proxy-bypass. hostmaster.hagezi.doh-vpn-proxy-bypass. 1691447100 86400 3600 604800 30
+@ SOA rpz.hagezi.doh-vpn-proxy-bypass. hostmaster.hagezi.doh-vpn-proxy-bypass. 1691706240 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Enyrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 07 Aug 2023 22:25 UTC
-; Version: 2023.0807.2225.28
+; Last modified: 10 Aug 2023 22:24 UTC
+; Version: 2023.0810.2224.09
 ; Syntax: RPZ
-; Number of entries: 4868
+; Number of entries: 4890
 ;
 vpn.ac CNAME .
 *.vpn.ac CNAME .
@@ -297,6 +297,8 @@ betternet.co CNAME .
 *.betternet.co CNAME .
 freeproxyserver.co CNAME .
 *.freeproxyserver.co CNAME .
+freeproxysites.co CNAME .
+*.freeproxysites.co CNAME .
 hideip.co CNAME .
 *.hideip.co CNAME .
 onlineproxy.co CNAME .
@@ -399,6 +401,8 @@ dns.adrianlam.com CNAME .
 *.dns.adrianlam.com CNAME .
 ads-help-link2.com CNAME .
 *.ads-help-link2.com CNAME .
+advancedvpn.com CNAME .
+*.advancedvpn.com CNAME .
 blitz.ahadns.com CNAME .
 *.blitz.ahadns.com CNAME .
 blitz-setup.ahadns.com CNAME .
@@ -913,6 +917,8 @@ freeopenproxy.com CNAME .
 *.freeopenproxy.com CNAME .
 freeproxyaccess.com CNAME .
 *.freeproxyaccess.com CNAME .
+freeproxyupdate.com CNAME .
+*.freeproxyupdate.com CNAME .
 freesafeip.com CNAME .
 *.freesafeip.com CNAME .
 freesupervpn.com CNAME .
@@ -1577,6 +1583,8 @@ proxy-youtube.com CNAME .
 *.proxy-youtube.com CNAME .
 proxy4freedom.com CNAME .
 *.proxy4freedom.com CNAME .
+proxyarab.com CNAME .
+*.proxyarab.com CNAME .
 proxybits.com CNAME .
 *.proxybits.com CNAME .
 proxybros.com CNAME .
@@ -2709,6 +2717,8 @@ vpn.ht CNAME .
 *.vpn.ht CNAME .
 dns.0ooo.icu CNAME .
 *.dns.0ooo.icu CNAME .
+datatech.icu CNAME .
+*.datatech.icu CNAME .
 dns.maybe.icu CNAME .
 *.dns.maybe.icu CNAME .
 akashiro.co.id CNAME .
@@ -3943,6 +3953,8 @@ dns.wakgood.net CNAME .
 *.dns.wakgood.net CNAME .
 webproxyfree.net CNAME .
 *.webproxyfree.net CNAME .
+websiteproxy.net CNAME .
+*.websiteproxy.net CNAME .
 doh.wewitro.net CNAME .
 *.doh.wewitro.net CNAME .
 whatsonthebox.net CNAME .
@@ -4355,6 +4367,8 @@ doh.neowutran.ovh CNAME .
 *.doh.neowutran.ovh CNAME .
 dns.hotta.page CNAME .
 *.dns.hotta.page CNAME .
+proxysite.page CNAME .
+*.proxysite.page CNAME .
 onion.pet CNAME .
 *.onion.pet CNAME .
 surfshark.ph CNAME .
@@ -4377,6 +4391,8 @@ bdns.pro CNAME .
 *.bdns.pro CNAME .
 dns.itdept.pro CNAME .
 *.dns.itdept.pro CNAME .
+proxysite.pro CNAME .
+*.proxysite.pro CNAME .
 unblockit.pro CNAME .
 *.unblockit.pro CNAME .
 doh.xcom.pro CNAME .
@@ -4423,6 +4439,8 @@ vpnproxy.pw CNAME .
 *.vpnproxy.pw CNAME .
 webproxy.pw CNAME .
 *.webproxy.pw CNAME .
+croxy.red CNAME .
+*.croxy.red CNAME .
 pbproxy.red CNAME .
 *.pbproxy.red CNAME .
 proxy.red CNAME .
@@ -4633,6 +4651,8 @@ quickproxy.co.uk CNAME .
 *.quickproxy.co.uk CNAME .
 uk-proxy.co.uk CNAME .
 *.uk-proxy.co.uk CNAME .
+unblocksites.co.uk CNAME .
+*.unblocksites.co.uk CNAME .
 vpncompare.co.uk CNAME .
 *.vpncompare.co.uk CNAME .
 do.dnscrypt.uk CNAME .
@@ -4863,6 +4883,8 @@ proxydude.xyz CNAME .
 *.proxydude.xyz CNAME .
 ag.ssrahul96.xyz CNAME .
 *.ag.ssrahul96.xyz CNAME .
+stackfront.xyz CNAME .
+*.stackfront.xyz CNAME .
 securedns.vendorvista.xyz CNAME .
 *.securedns.vendorvista.xyz CNAME .
 dns.vinnyp.xyz CNAME .

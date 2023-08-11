@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 09 Aug 2023 22:31 UTC
-# Version: 2023.0809.2231.58
+# Last modified: 10 Aug 2023 22:30 UTC
+# Version: 2023.0810.2230.07
 # Syntax: DNSMasq
-# Number of entries: 171125
+# Number of entries: 171124
 #
 address=/0-bet.com/#
 address=/000000.com/#
@@ -6256,6 +6256,7 @@ address=/1074ky.com/#
 address=/1074yb.com/#
 address=/10755.net/#
 address=/10756.org/#
+address=/1075bets10.com/#
 address=/1075ky.com/#
 address=/1076.app/#
 address=/10760022.com/#
@@ -11179,7 +11180,6 @@ address=/1381dh.com/#
 address=/1381ky.com/#
 address=/1381n.com/#
 address=/1381yy.com/#
-address=/1381yyy.com/#
 address=/1381zz.com/#
 address=/13822.vip/#
 address=/13826.net/#
@@ -18045,7 +18045,6 @@ address=/1hgag.com/#
 address=/1hgdl.com/#
 address=/1hhgg.com/#
 address=/1hi88.com/#
-address=/1hidhdhdihdduudd.com/#
 address=/1hourfastcash.net/#
 address=/1houseofpokies.com/#
 address=/1hptv2.com/#
@@ -95806,7 +95805,6 @@ address=/a6587.com/#
 address=/a6588a.com/#
 address=/a65la.com/#
 address=/a6646.com/#
-address=/a6650.com/#
 address=/a66616.com/#
 address=/a666yl.com/#
 address=/a6686.app/#
@@ -109427,6 +109425,7 @@ address=/casinomachines.info/#
 address=/casinomartini.com/#
 address=/casinomatic.com/#
 address=/casinomax.com/#
+address=/casinomaxi686.com/#
 address=/casinomaxonline.info/#
 address=/casinomcw.com/#
 address=/casinomech.in/#
@@ -153064,6 +153063,7 @@ address=/tais7.top/#
 address=/tais7.vip/#
 address=/taishangjunjun.com/#
 address=/taisum.co/#
+address=/taiuk88.net/#
 address=/taiuwin.com/#
 address=/taiuwin.xyz/#
 address=/taiv8.com/#
@@ -153789,6 +153789,7 @@ address=/thethao88.bet/#
 address=/thethao88fun.com/#
 address=/thethao90.com/#
 address=/thethao90.net/#
+address=/thethaob52.org/#
 address=/thethaobw.com/#
 address=/thethaodabet.com/#
 address=/thethaodafa.com/#
@@ -160430,7 +160431,6 @@ address=/w8537.com/#
 address=/w8554.com/#
 address=/w8557.com/#
 address=/w8559.com/#
-address=/w856526.com/#
 address=/w8567.com/#
 address=/w8591.com/#
 address=/w8637.com/#
@@ -161896,7 +161896,6 @@ address=/wns1239.com/#
 address=/wns1616.com/#
 address=/wns2005.com/#
 address=/wns2009.com/#
-address=/wns2199.com/#
 address=/wns22.net/#
 address=/wns222.net/#
 address=/wns2224.com/#

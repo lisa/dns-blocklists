@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1691533620 86400 3600 604800 30
+@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1691706480 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 08 Aug 2023 22:27 UTC
-; Version: 2023.0808.2227.34
+; Last modified: 10 Aug 2023 22:28 UTC
+; Version: 2023.0810.2228.34
 ; Syntax: RPZ
-; Number of entries: 13780
+; Number of entries: 13784
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -412,6 +412,8 @@ hox.com.br CNAME .
 *.hox.com.br CNAME .
 k1.com.br CNAME .
 *.k1.com.br CNAME .
+tracker.nartlof.com.br CNAME .
+*.tracker.nartlof.com.br CNAME .
 www.nartlof.com.br CNAME .
 *.www.nartlof.com.br CNAME .
 1337x.buzz CNAME .
@@ -8262,6 +8264,8 @@ fmoviefree.net CNAME .
 *.fmoviefree.net CNAME .
 fmoviesgo.net CNAME .
 *.fmoviesgo.net CNAME .
+tracker.fnix.net CNAME .
+*.tracker.fnix.net CNAME .
 tv.foorty.net CNAME .
 *.tv.foorty.net CNAME .
 forowarez.net CNAME .

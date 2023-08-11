@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 06 Aug 2023 23:25 UTC
-# Version: 2023.0806.2325.49
+# Last modified: 10 Aug 2023 22:27 UTC
+# Version: 2023.0810.2227.14
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 2017
+# Number of entries: 2018
 #
 *.000a.de
 *.000space.com
@@ -581,6 +581,7 @@
 *.byto.de
 *.c.pl
 *.ca.gp
+*.cafeblog.hu
 *.campanamedicalcenter.it
 *.canalblog.com
 *.canariblogs.com

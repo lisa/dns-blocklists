@@ -4,10 +4,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 7 days
-! Last modified: 07 Aug 2023 22:25 UTC
-! Version: 2023.0807.2225.28
+! Last modified: 10 Aug 2023 22:24 UTC
+! Version: 2023.0810.2224.09
 ! Syntax: AdBlock
-! Number of entries: 2434
+! Number of entries: 2445
 !
 ||0000a-fast-proxy.de^
 ||ns.00dani.me^
@@ -96,6 +96,7 @@
 ||adresseip.com^
 ||dns.adrianlam.com^
 ||ads-help-link2.com^
+||advancedvpn.com^
 ||shield.afixer.app^
 ||ahadns.net^
 ||blitz.ahadns.com^
@@ -427,6 +428,7 @@
 ||surfshark.co.za^
 ||surfvpn.co.cc^
 ||uk-proxy.co.uk^
+||unblocksites.co.uk^
 ||vpn-proxies.co.cc^
 ||vpn-services.co.cc^
 ||vpncompare.co.uk^
@@ -490,6 +492,7 @@
 ||createssh.net^
 ||criarssh.com^
 ||crownproxy.com^
+||croxy.red^
 ||croxyproxy.com^
 ||croxyproxy.rocks^
 ||crushus.com^
@@ -515,6 +518,7 @@
 ||mail.data.haus^
 ||doh.datacore.ch^
 ||doh.datahata.by^
+||datatech.icu^
 ||dns.david888.com^
 ||dns.daw.dev^
 ||jit.ddns.net^
@@ -770,6 +774,8 @@
 ||freeproxy.win^
 ||freeproxyaccess.com^
 ||freeproxyserver.co^
+||freeproxysites.co^
+||freeproxyupdate.com^
 ||freeproxyweb.net^
 ||freesafeip.com^
 ||freesupervpn.com^
@@ -1594,6 +1600,7 @@
 ||proxy4free.me^
 ||proxy4freedom.com^
 ||proxy7.club^
+||proxyarab.com^
 ||proxybits.com^
 ||proxyboost.net^
 ||proxybox.ru^
@@ -1651,6 +1658,8 @@
 ||proxysite.com^
 ||proxysite.io^
 ||proxysite.one^
+||proxysite.page^
+||proxysite.pro^
 ||proxysite.site^
 ||proxysite.top^
 ||proxysite.us^
@@ -1888,6 +1897,7 @@
 ||sslunblocker.com^
 ||doh.ntu.ssooss.win^
 ||ag.ssrahul96.xyz^
+||stackfront.xyz^
 ||stargate.one^
 ||starruby.us^
 ||starrynight.site^
@@ -2342,6 +2352,7 @@
 ||webshare.io^
 ||janvet.website.pl^
 ||websitebypass.com^
+||websiteproxy.net^
 ||websurf.in^
 ||websurfproxy.me^
 ||websynchrony.com^

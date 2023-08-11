@@ -1695,7 +1695,6 @@
 @@||xub.me^
 @@||xurl.es^
 @@||xurls.co^
-@@||xurls.org^
 @@||xvirt.it^
 @@||xxl.frl^
 @@||xy2.eu^

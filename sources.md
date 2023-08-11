@@ -233,6 +233,7 @@ https://raw.githubusercontent.com/bigdargon/hostsVN/master/filters/adservers.txt
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN
 https://raw.githubusercontent.com/bitamind/filter/master/280blocker_domain_mirror.txt
+https://raw.githubusercontent.com/bjornstar/hosts/master/hosts
 https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/hosts
 https://raw.githubusercontent.com/blocklistproject/Lists/master/gambling.txt
 https://raw.githubusercontent.com/blocklistproject/Lists/master/piracy.txt
@@ -447,6 +448,7 @@ https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/torrent-track
 https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/torrent-websites
 https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/usenet
 https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/warez
+https://raw.githubusercontent.com/nickspaargaren/no-google/master/pihole-google.txt
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/domains.txt
@@ -501,6 +503,7 @@ https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-oran
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-orangelog4shell.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-personal.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-positivetech.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-proofpoint.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-recordedfuture.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-sentinelone.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-sophos.txt
@@ -582,6 +585,9 @@ https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-paranoid.t
 https://raw.githubusercontent.com/z44499783/ChinaList2.0/master/ChinaList2.0.txt
 https://rescure.me/covid.txt
 https://rescure.me/rescure_domain_blacklist.txt
+https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
+https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
+https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
 https://secure.fanboy.co.nz/fanboy-annoyance.txt
 https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
 https://secure.fanboy.co.nz/fanboy-social.txt

@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 07 Aug 2023 22:25 UTC
-# Version: 2023.0807.2225.28
+# Last modified: 10 Aug 2023 22:24 UTC
+# Version: 2023.0810.2224.09
 # Syntax: DNSMasq
-# Number of entries: 2434
+# Number of entries: 2445
 #
 address=/0000a-fast-proxy.de/#
 address=/ns.00dani.me/#
@@ -96,6 +96,7 @@ address=/us-east.adhole.org/#
 address=/adresseip.com/#
 address=/dns.adrianlam.com/#
 address=/ads-help-link2.com/#
+address=/advancedvpn.com/#
 address=/shield.afixer.app/#
 address=/ahadns.net/#
 address=/blitz.ahadns.com/#
@@ -427,6 +428,7 @@ address=/dns.spil.co.id/#
 address=/surfshark.co.za/#
 address=/surfvpn.co.cc/#
 address=/uk-proxy.co.uk/#
+address=/unblocksites.co.uk/#
 address=/vpn-proxies.co.cc/#
 address=/vpn-services.co.cc/#
 address=/vpncompare.co.uk/#
@@ -490,6 +492,7 @@ address=/createssh.com/#
 address=/createssh.net/#
 address=/criarssh.com/#
 address=/crownproxy.com/#
+address=/croxy.red/#
 address=/croxyproxy.com/#
 address=/croxyproxy.rocks/#
 address=/crushus.com/#
@@ -515,6 +518,7 @@ address=/proxy.darkvpn.com/#
 address=/mail.data.haus/#
 address=/doh.datacore.ch/#
 address=/doh.datahata.by/#
+address=/datatech.icu/#
 address=/dns.david888.com/#
 address=/dns.daw.dev/#
 address=/jit.ddns.net/#
@@ -770,6 +774,8 @@ address=/freeproxy.me/#
 address=/freeproxy.win/#
 address=/freeproxyaccess.com/#
 address=/freeproxyserver.co/#
+address=/freeproxysites.co/#
+address=/freeproxyupdate.com/#
 address=/freeproxyweb.net/#
 address=/freesafeip.com/#
 address=/freesupervpn.com/#
@@ -1594,6 +1600,7 @@ address=/proxy2014.net/#
 address=/proxy4free.me/#
 address=/proxy4freedom.com/#
 address=/proxy7.club/#
+address=/proxyarab.com/#
 address=/proxybits.com/#
 address=/proxyboost.net/#
 address=/proxybox.ru/#
@@ -1651,6 +1658,8 @@ address=/proxysite.club/#
 address=/proxysite.com/#
 address=/proxysite.io/#
 address=/proxysite.one/#
+address=/proxysite.page/#
+address=/proxysite.pro/#
 address=/proxysite.site/#
 address=/proxysite.top/#
 address=/proxysite.us/#
@@ -1888,6 +1897,7 @@ address=/sslsecureproxy.com/#
 address=/sslunblocker.com/#
 address=/doh.ntu.ssooss.win/#
 address=/ag.ssrahul96.xyz/#
+address=/stackfront.xyz/#
 address=/stargate.one/#
 address=/starruby.us/#
 address=/starrynight.site/#
@@ -2342,6 +2352,7 @@ address=/webproxyusa.com/#
 address=/webshare.io/#
 address=/janvet.website.pl/#
 address=/websitebypass.com/#
+address=/websiteproxy.net/#
 address=/websurf.in/#
 address=/websurfproxy.me/#
 address=/websynchrony.com/#
