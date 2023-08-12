@@ -756,9 +756,13 @@
 ! https://github.com/hagezi/dns-blocklists/issues/3
 @@|licenses.ashampoo.com^
 
-! n-tv Livestream
+! n-tv Web livestream
 @@|te.technical-service.net^
 @@|te.ip-prod.aws-cbc.cloud^
+
+! n-tv / RTL+ App videos
+@@|des.smartclip.net^
+@@|ad-ipd.sxp.smartclip.net^
 
 ! https://github.com/badmojr/1Hosts/issues/553
 @@|api.revenuecat.com^
@@ -904,7 +908,6 @@
 ! tv.ads.spotx.tv
 ! *.2mdn.net
 ! *.smartclip.net
-! ...
 
 ! https://github.com/notracking/hosts-blocklists/issues/788
 @@|dcf.espn.com^
@@ -1760,15 +1763,37 @@
 @@|tracking.dpd.de^
 
 ! Akamai
+@@|akadns.net^
+@@|www.akadns.net^
+@@||akagtm.org^
+@@||akahost.net^
+@@||akam.net^
+@@|akamai.com^
+@@|www.akamai.com^
 @@|akamai.net^
 @@|www.akamai.net^
+@@||akamaiedge-staging.net^
+@@|akamaiedge.net^
+@@|www.akamaiedge.net^
+@@|*-akamaientrypoint.net^
+@@|www.*-akamaientrypoint.net^
 @@|akamaihd.net^
 @@|www.akamaihd.net^
-@@|akamaitechnologies.com^
-@@|www.akamaitechnologies.com^
+@@||akamaistream.net^
+@@||akamaitech.net^
+@@||akamaitechnologies.com^
+@@||akamaitechnologies.fr^
 @@|akamaized.net^
 @@|www.akamaized.net^
+@@||akaquill.net^
+@@||akasecure.net^
+@@||akasripcn.net^
+@@|edgekey.net^
+@@|www.edgekey.net^
+@@|edgesuite.net^
+@@|www.edgesuite.net^
 @@|lastfm-img2.akamaized.net^
+
 @@|widget-cdn.rpxnow.com^
 
 ! uceprotect network
@@ -2135,9 +2160,9 @@
 ! Disney+ Asia will show a No Internet Connection banner
 @@|bifrost-api.hotstar.com^
 
-! Epic Games Launcher / Downloads
-@@|eulatracking-public-service-*.ol.epicgames.com^
-@@|eulatracking-svc-*-pub-*.elb.amazonaws.com^
+! Epic Games Launcher / Downloads / Login
+@@|eulatracking*.epicgames.com^
+@@|eulatracking*.elb.amazonaws.com^
 
 ! Chick-Fil-A App
 @@||tmetrix.my.chick-fil-a.com^
@@ -2324,7 +2349,6 @@
 
 ! TSB Bank mobile banking app
 @@|check2.tsb.co.uk^
-@@|h-tsb.online-metrix.net^
 
 ! https://github.com/hagezi/dns-blocklists/issues/127
 @@|tracking.post.japanpost.jp^
@@ -2978,7 +3002,6 @@
 @@|se-tv4.videoplaza.tv^
 
 ! https://github.com/hagezi/dns-blocklists/issues/338
-@@||ads.brave.com^
 
 ! https://github.com/hagezi/dns-blocklists/issues/339
 @@|neon.ipsator.com^
@@ -4039,7 +4062,6 @@
 ! https://github.com/hagezi/dns-blocklists/issues/1113
 @@|blog.kakaocdn.net^
 
-! NBA App
 @@|stats-trafficcop-prod.nba.com^
 @@|stats-trafficcop-prod.nba.com.edgekey.net^
 
@@ -4478,7 +4500,6 @@
 @@|links.email.crunchbase.com^
 
 ! HP Smart Printing
-@@|clientstream.launchdarkly.com^
 
 ! Grocery delivery app 
 @@|p*.meituan.net^
@@ -4575,7 +4596,6 @@
 @@|worldnomads.com^
 @@|www.worldnomads.com^
 
-! Games
 @@||carx-online.com^
 
 ! Referral links
@@ -4622,9 +4642,8 @@
 
 ! Referral Travel Offers
 @@|ek8.voyage-prive.com^
-@@|eulerian.officiel-des-vacances.com^
 
-! Unsubscribe from newsletters
+! Unsubscribe from various newsletters
 @@|api.convertkit.com^
 @@|assets.convertkit.com^
 @@|cdn.convertkit.com^
@@ -4667,7 +4686,6 @@
 ! https://github.com/hagezi/dns-blocklists/issues/1401
 @@|tracking.agsystems.com^
 
-! https://github.com/hagezi/dns-blocklists/issues/1401
 @@|api.hubapi.com^
 
 ! local news stations videos
@@ -4682,4 +4700,35 @@
 ! https://github.com/hagezi/dns-blocklists/issues/1404
 @@|guhantara.com^
 @@|www.guhantara.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/1407
+@@|builder-assets.unbounce.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/1406
+@@||accesstrade.co.id^
+
+! Government website
+@@|vallettaferryservices.com^
+@@|www.vallettaferryservices.com^
+
+! Open shared recipes
+@@|sharing.kptncook.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/1410
+@@|android.informer.com^
+@@|answers.informer.com^
+@@|e.informer.com^
+@@|feed.informer.com^
+@@|formac.informer.com^
+@@|idea.informer.com^
+@@|img.informer.com^
+@@|informer.com^
+@@|www.informer.com^
+@@|macdownload.informer.com^
+@@|netbeans-ide.informer.com^
+@@|nudi.software.informer.com^
+@@|si.informer.com^
+@@|si5.informer.com^
+@@|softadvice.informer.com^
+@@|software.informer.com^
 
