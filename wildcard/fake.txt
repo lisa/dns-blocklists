@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 11 Aug 2023 22:35 UTC
-# Version: 2023.0811.2235.55
+# Last modified: 12 Aug 2023 22:35 UTC
+# Version: 2023.0812.2235.13
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 15992
+# Number of entries: 15940
 #
 *.009972.com
 *.100-solarni-lampa-cz.com
@@ -221,7 +221,6 @@
 *.adi-trade.com
 *.adictat.com
 *.adidas2018.com
-*.adidashrvatska.com
 *.adidasko.com
 *.adidasnmdschuhe.at
 *.adidasshophrvatska.com
@@ -2877,8 +2876,7 @@
 *.nutripur.com.de
 *.optimusconstructora.com.pe
 *.ozkart.com.au
-*.store.rsaonlinenow.com.au
-*.www.rsaonlinenow.com.au
+*.rsaonlinenow.com.au
 *.smallrig.com.de
 *.sowood.com.au
 *.yuanj.com.cn
@@ -4554,6 +4552,7 @@
 *.ex-sot.com
 *.exaglam.com
 *.excap.org
+*.excelgadgets.co
 *.excellan.de
 *.excellentowk.com
 *.excentral.com
@@ -4858,7 +4857,6 @@
 *.faze6.com
 *.faze7.com
 *.faze77.com
-*.fcirlich.de
 *.fcmarketpro.net
 *.maxxiscoin.fctrading.org
 *.fdeway.com
@@ -5747,7 +5745,6 @@
 *.glaydssale.shop
 *.glazik-bois-energie.com
 *.gledorktrade.com
-*.glendaz.com
 *.glenm.com
 *.glennauto.shop
 *.gleuelspd.de
@@ -5757,7 +5754,7 @@
 *.gllomall.com
 *.glo-balexpress.com
 *.glo-realestate.com
-*.store.gload.info
+*.gload.info
 *.glob-markets.co
 *.glob-markets.com
 *.glob-markets.net
@@ -6382,7 +6379,6 @@
 *.herrentops.de
 *.herrenway.com
 *.herrerafood.shop
-*.herrgarten.com
 *.herrmann-arne.de
 *.herzens-mensch.de
 *.herzensnotiz.de
@@ -6394,7 +6390,6 @@
 *.heydudeschuhe.com
 *.heyewall.de
 *.heyhome.info
-*.heysuccess.com
 *.hfashionshop.com
 *.hfkscp.com
 *.hfl-handel.de
@@ -6963,7 +6958,6 @@
 *.instanttrade.com
 *.instructionsweb.com
 *.insunforex.com
-*.insure-trade.io
 *.int-re.com
 *.int456.com
 *.inteltey.com
@@ -7966,6 +7960,7 @@
 *.leonacraig.shop
 *.leonardo-essen.de
 *.leonor-sonderposten.eu
+*.leonstadler.de
 *.lepinland.com
 *.lericettedifrancy74.com
 *.lernspielzeugneu.de
@@ -8007,6 +8002,7 @@
 *.lichtraumenergetik.at
 *.licoast.com
 *.lidivia.com
+*.lido-pass.org
 *.lieb-schafft.de
 *.liebefotosocken.com
 *.liebehaus.de
@@ -8403,7 +8399,6 @@
 *.male-meds-hub.com
 *.male-new.com
 *.malerbedarf-sales.com
-*.shopat.mall2021.com
 *.maller.io
 *.mallexercise.com
 *.mallorca-center.com
@@ -9776,6 +9771,7 @@
 *.nobullsalewien.me
 *.nobullstoredeutschland.com
 *.nobulosterreich.me
+*.nofotballshop.com
 *.nofotballstore.com
 *.nohiba.com
 *.nojetlagbook.com
@@ -10448,7 +10444,6 @@
 *.tpqcywcx.page.link
 *.page-rangers.de
 *.pageanket.com
-*.jtgsr.pages.dev
 *.painthotsale.com
 *.paintitblackfurniture.com
 *.paintwallstore.com
@@ -10527,7 +10522,6 @@
 *.partgleise.de
 *.particularchristmas.com
 *.partsbicycle.shop
-*.party4kids.at
 *.partyoftenuk.com
 *.pasadenablues.com
 *.pasargadrugs.com
@@ -10631,7 +10625,6 @@
 *.petdoghome.shop
 *.peterhobbies.shop
 *.peterlindenberg.de
-*.petershagen-hotel.de
 *.petfashionhouse.store
 *.petitetica.com
 *.petjason.com
@@ -10767,7 +10760,6 @@
 *.pk.toys
 *.plagifier.com
 *.plan-social.com
-*.planetatrueque.com
 *.planetopia-online.de
 *.planetstore24.de
 *.plantprobuy.com
@@ -10814,7 +10806,6 @@
 *.plus-running.com
 *.plusairsoft.com
 *.plusamiapparel.com
-*.pluscup.net
 *.pluslegos.com
 *.plusoneusstore.co
 *.plusret.com
@@ -11000,7 +10991,6 @@
 *.primebrightinvest.com
 *.primecargotransit.com
 *.primecrypto.io
-*.primecryptocapital.com
 *.primefinanz.com
 *.primefunder.co
 *.primefx.org
@@ -11060,7 +11050,6 @@
 *.profitix.com
 *.profitmarket.org
 *.profitmaster.shop
-*.profitstrade.com
 *.iqsmart.profmaster.store
 *.profund-trade.com
 *.profundseu.com
@@ -11151,7 +11140,6 @@
 *.puntdatac.com
 *.puntoblancoshop.com
 *.punyauang.xyz
-*.pupdoge.finance
 *.puppink.com
 *.people.purecap.xyz
 *.together.purecap.xyz
@@ -11347,7 +11335,6 @@
 *.ranjnagupta.com
 *.ranthambhorekothi.com
 *.rapidmator.com
-*.rapidminefx.com
 *.rapidprotrades.com
 *.rapidrecoveryconsulting.com
 *.rapwaytrade.org
@@ -11458,7 +11445,6 @@
 *.reelatinors.com
 *.reeno1.com
 *.reesewalker.shop
-*.reforest-iita.org
 *.reformationkleiddeutschland.com
 *.refreshedts.online
 *.regencytable.com
@@ -11696,7 +11682,6 @@
 *.rizzeria.at
 *.rjgriffith.com
 *.rjulfinb.com
-*.rkase.com
 *.rkorteo.com
 *.rkw-gmbh.de
 *.rmied.com
@@ -11774,7 +11759,6 @@
 *.ropepflege.de
 *.rosateeshop.com
 *.rosch-maschinenhandel.com
-*.roseliapet.shop
 *.rosenberg-drogerie.net
 *.rosetata.com
 *.rosiecutie.com
@@ -11860,7 +11844,6 @@
 *.russianparty.at
 *.rusticjusticerecords.com
 *.rustoleumspray.com
-*.rutika.de
 *.ruylfeicne.info
 *.ruzsacollection.shop
 *.rvca-surf.com
@@ -11869,7 +11852,6 @@
 *.rx-budapest.com
 *.rx-ezy.com
 *.rx-pharma.net
-*.rx-pharma-cheap.com
 *.rx-sales-store.biz
 *.rxapothekefursie.com
 *.rxappfree.com
@@ -11909,7 +11891,6 @@
 *.safestcamping.com
 *.safetoolzone.com
 *.sageribbon.com
-*.sagitario-travel.com
 *.saglikhekimi.com
 *.sahin-herrmann.de
 *.saintalloiis.net
@@ -11955,7 +11936,6 @@
 *.saleimluxury.com
 *.salejerseysshop.com
 *.salejimshore.com
-*.salejoycarpet.com
 *.saleknitwear.com
 *.saleladyfad.com
 *.saleladywear.com
@@ -12315,7 +12295,6 @@
 *.sesselde.com
 *.sessioon.com
 *.setfahrradtrikot.com
-*.setyours.com
 *.sevengatesconsulting.de
 *.sevranmoove.fr
 *.sewingiiseasy.com
@@ -12735,7 +12714,6 @@
 *.sneakermart.us
 *.sneakernews79.top
 *.sneakers-center.com
-*.sneakersbrook18.com
 *.sneakersforu.com
 *.sneakerspalette-de.com
 *.sneakerz2020.com
@@ -12803,7 +12781,6 @@
 *.solejealous-shop.com
 *.solid-goods.de
 *.solidfxpro.com
-*.solidinvest.co
 *.solidstocks.co
 *.solixal.com
 *.solnadymka-cz.com
@@ -12823,7 +12800,6 @@
 *.somegifts4you.com
 *.sommer-angebote.com
 *.sommeraufdemland.de
-*.sommerbiene.de
 *.sommerekzem.at
 *.somoa.at
 *.sona-med.at
@@ -12939,7 +12915,6 @@
 *.sportbrandshoes.com
 *.sportcutprice.com
 *.sportdamen.de
-*.sportfamily.us
 *.sportfirestore.com
 *.sportgorilla.de
 *.sporth.net
@@ -13032,7 +13007,6 @@
 *.starwarslover.com
 *.stateso.com
 *.stationsparty.de
-*.statonfxc.com
 *.statusmarkets.com
 *.staubsauger24.net
 *.staud-deutschland.com
@@ -13040,7 +13014,6 @@
 *.stavimezavas.cz
 *.stclik.com
 *.stealthhorizonshipping.com
-*.steamers.store
 *.steamfaerie.com
 *.steamgateways.com
 *.steamteamnj.com
@@ -13418,7 +13391,6 @@
 *.swhbs.de
 *.swiftcapitaloption.com
 *.swiftcapitaltrade.com
-*.swiftcfd.com
 *.swiftfxtrade.info
 *.swiftmarketfx.com
 *.swiftpayexchange.com
@@ -13526,7 +13498,6 @@
 *.tanakale.com
 *.tanghf.com
 *.tangobonn.de
-*.tanja-bosch.de
 *.tankovnauhaldy.cz
 *.tanpulse.com
 *.tapemedia.de
@@ -13584,7 +13555,6 @@
 *.teampackdealsshop.com
 *.teampandafilms.com
 *.tech-fox.de
-*.tech-lagerhaus.com
 *.tech-land.de
 *.tech-porta.de
 *.tech-translation.de
@@ -13623,7 +13593,6 @@
 *.teechip.online
 *.teechipshop.com
 *.teeguys.com
-*.teelove88.com
 *.teemax.store
 *.teemortals.com
 *.teenimo.com
@@ -13646,7 +13615,6 @@
 *.telf-energy.de
 *.teller-store.com
 *.tellersale.com
-*.telser-two.site
 *.temaotrade.com
 *.tempe-ro.com
 *.tempeie.com
@@ -13659,7 +13627,6 @@
 *.tendaisy.com
 *.tendieswap.org
 *.tenloly.com
-*.tenndex.com
 *.tennisfinest.com
 *.tennisnew.com
 *.tennistechnical.com
@@ -13695,6 +13662,7 @@
 *.tesler-online.space
 *.tesler2-l.online
 *.tesrin.com
+*.tessentembeddedanalytics.com
 *.tessgnari.com
 *.test122223.info
 *.test4.com
@@ -13722,7 +13690,6 @@
 *.thaliano.de
 *.thamius.com
 *.that-first.de
-*.thaunhomkhahung.com
 *.thayajewels.com
 *.the-best-deal-for-you.com
 *.the-bitcoin-profit.com
@@ -13805,7 +13772,6 @@
 *.thehellyhansen.com
 *.thehideaways.io
 *.thehikingshoe.com
-*.thehistoryopedia.com
 *.thehokaoneone.com
 *.pact.theicoin.com
 *.theinfinitylight.com
@@ -14020,7 +13986,6 @@
 *.origin.tnail.cc
 *.tnewslite.com
 *.tnewsrefresh.com
-*.tnr-home.com
 *.tntroyal.com
 *.toastgrill.de
 *.toastmaster.at
@@ -14138,7 +14103,6 @@
 *.topcapital24.com
 *.topcapitalfx.com
 *.topcious.co
-*.topcmarket.com
 *.topeacycle.com
 *.topedo-shop.de
 *.topeo.cz
@@ -14176,7 +14140,6 @@
 *.toroption.co
 *.tosamalls.com
 *.totalhouseitem.com
-*.totalloseweight.com
 *.totalmenshoe.com
 *.totaltool-pro.com
 *.totamalls.com
@@ -14184,7 +14147,6 @@
 *.totrendybags.com
 *.toucancoins.com
 *.touchtrades.com
-*.tour-de-hell.de
 *.touringclothes.com
 *.touringoutdoors.com
 *.tourneous.top
@@ -14391,7 +14353,6 @@
 *.trophal.de
 *.tropicalbeachtours.de
 *.tropicaltrends.co
-*.tropicfeelosterreich.com
 *.tropimart.co
 *.trottinettenwelt.de
 *.trouvashopping.com
@@ -14617,7 +14578,6 @@
 *.unibail-assets.com
 *.uniblock.finance
 *.unice688.com
-*.unifousa.com
 *.unifully.com
 *.unihash.io
 *.unikatknopf.de
@@ -14703,7 +14663,6 @@
 *.urbanhugo.com
 *.urbanpodspro.com
 *.ureashi.com
-*.ureines.com
 *.urfasionlist.com
 *.urpillssupplier.com
 *.ursulam.com
@@ -14927,7 +14886,6 @@
 *.vasubo.com
 *.vatan.at
 *.vatlab.cc
-*.vaudefahrrad.com
 *.vaudemarket.com
 *.vaughn-baby.shop
 *.vaxotechnik.com
@@ -15156,7 +15114,6 @@
 *.vocalket.com
 *.vocarule.com
 *.vocompany.de
-*.vodafonesustainability.com
 *.vodkatoken.com
 *.vogange.com
 *.vogt-ferienwohnung-kropp.de
@@ -15360,7 +15317,6 @@
 *.wearejaycobrand.com
 *.wearfavorite.com
 *.wearhollister.com
-*.wearmountainsports.com
 *.wearphilliplim.com
 *.wearsdepot.com
 *.wearsessentiel.com
@@ -15371,7 +15327,6 @@
 *.webarchx.top
 *.webbusinessalerts.com
 *.weber-express.com
-*.weber-versand.store
 *.weberoutlet.com
 *.webflix.de
 *.cento-gx.german.webflow.io
@@ -15655,7 +15610,6 @@
 *.wristbandpin.com
 *.wrongian.top
 *.wszen.top
-*.wt-schwentinental.de
 *.wtass.com
 *.wuebbe-office.de
 *.wulooofficial.com
@@ -15717,7 +15671,6 @@
 *.xpressracing.com
 *.xpresstravelbureau.com
 *.xpros-instructor.co
-*.xprrd.com
 *.xprtcoin.com
 *.xray-disk.com
 *.xrayrcpart.com
@@ -15731,10 +15684,8 @@
 *.xtbinv.io
 *.xtectrading.com
 *.xtrader-fx.com
-*.xtraderfx.com
 *.xtraderfx.net
 *.xtrafuel.store
-*.xtyress.com
 *.xuantienarts.com
 *.xuiopv.com
 *.xunlei.it
@@ -15805,7 +15756,6 @@
 *.youtubee.com
 *.youtunbe.com
 *.youutube.com
-*.youwellstrong.store
 *.yoyokicks.me
 *.ypusnj.shop
 *.ysiuccess.shop
@@ -15817,7 +15767,6 @@
 *.yuanpay-group.de
 *.yuanpayapp.com
 *.yuanpaygroup.com
-*.yudi.io
 *.yuguz.com
 *.yuluosha.com
 *.yunshan-crystal.com
@@ -15837,7 +15786,6 @@
 *.zajazd-boryslawice.pl
 *.zakutegift.com
 *.zalandorio.com
-*.zalieroo.de
 *.zalvori.com
 *.zami-gbr.de
 *.zancus.com

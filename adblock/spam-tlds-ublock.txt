@@ -7,8 +7,8 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 02 Aug 2023 21:41 UTC
-! Version: 2023.0802.2141.57
+! Last modified: 12 Aug 2023 22:28 UTC
+! Version: 2023.0812.2228.36
 ! Syntax: uBlock
 !
 ||agency^$doc,domain=~battlefield.agency|~baam.agency|~robotzebra.agency|~uphotel.agency|~ws.agency
@@ -37,7 +37,7 @@
 ||fyi^$doc,domain=~lunar.fyi|~iusearchlinux.fyi
 ||gdn^$doc
 ||gq^$doc,domain=~inege.gq|~tvgelive.gq|~siteproxy.gq|~blockly.gq
-||guru^$doc
+||guru^$doc,domain=~crontab.guru
 ||hair^$doc
 ||haus^$doc
 ||life^$doc,domain=~digitalcitizen.life|~stepone.life|~circles.life|~loveinfaith.life

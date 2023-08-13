@@ -510,6 +510,7 @@ https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-soph
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-stats.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-symantec.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-tag.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-trendmicro.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-unit42-playbook.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-unit42-silverterrier.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-yarix.txt
@@ -613,7 +614,9 @@ https://www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/rizikove.csv
 https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
 https://www.i-dont-care-about-cookies.eu/abp/
 https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
+https://www.usom.gov.tr/url-list.txt
 https://www.void.gr/kargig/void-gr-filters.txt
 https://www.zoso.ro/pages/rolist2.txt
 https://www.zoso.ro/pages/rolist.txt
+http://sysctl.org/cameleon/hosts
 ```

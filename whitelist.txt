@@ -190,6 +190,7 @@ i.instagram.com
 *api.facebook.com
 *star.*.facebook.com
 web.facebook.com
+mqtt*.facebook.com
 
 # Facebook CDN
 *.cdninstagram.com
@@ -4336,4 +4337,25 @@ si.informer.com
 si5.informer.com
 softadvice.informer.com
 software.informer.com
+
+# UEDAS
+*.uedas.com.tr
+
+# https://github.com/hagezi/dns-blocklists/issues/1412
+tracking.pos.com.my
+
+# https://github.com/hagezi/dns-blocklists/issues/1413
+warthunder.com
+
+# https://github.com/hagezi/dns-blocklists/issues/1414
+assetscdn*.paytm.com
+
+# Prevents the FIFA app from launching on webOS
+fifa.demdex.net
+
+# https://github.com/hagezi/dns-blocklists/issues/1417
+emb-api.com
+
+# Referral
+t.indeed.com
 

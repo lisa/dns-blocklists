@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 11 Aug 2023 22:27 UTC
-# Version: 2023.0811.2227.50
+# Last modified: 12 Aug 2023 22:26 UTC
+# Version: 2023.0812.2226.29
 # Syntax: Domains (without subdomains)
-# Number of entries: 171290
+# Number of entries: 171295
 #
 0-bet.com
 000000.com
@@ -11843,7 +11843,6 @@ cdn2.12betso.com
 148800.com
 1488577.com
 148868.app
-148886.biz
 1488ky.com
 1489220.com
 14896.wang
@@ -47039,7 +47038,6 @@ img.2538img.com
 4858m.com
 4858ppp.com
 4858qqq.com
-4858s.com
 4858sss.com
 4858v.com
 4859001.com
@@ -67006,7 +67004,6 @@ shanhe.57577.live
 6932t.com
 69330.shop
 6933076.com
-693323.com
 6933388.com
 69335k.com
 693369.com
@@ -85286,7 +85283,6 @@ slots.888wetten.de
 889516.com
 88952v.com
 88953.vip
-8895359.com
 889536.com
 88957v.com
 88958.vip
@@ -89484,7 +89480,6 @@ slots.888wetten.de
 925442.com
 9254507.com
 925451.com
-925471.biz
 925475.com
 925482.com
 925495.com
@@ -97304,6 +97299,7 @@ an1108.com
 an1388.com
 an13atadosjf.com
 an240.sbs
+anaknaga.xyz
 anchenbag.com
 and3cm.com
 andmobile.space
@@ -109855,6 +109851,8 @@ cenvipclub.info
 ceocus.com
 cepatsbo88.com
 cepl1.com
+cerah88d.com
+cerahpulsa.com
 ceri88.asia
 cermat4d.live
 cermatslot.live
@@ -110169,6 +110167,7 @@ choigame90.com
 choigiaitri.net
 choiiwin79.fun
 choilathang.com
+choilawin.net
 choingay66.com
 choingay88.com
 choingayone88.win
@@ -113197,6 +113196,7 @@ dillards2.com
 dimeaction.com
 dingjianhua9.com
 dingyuanqi.com
+dinobet.online
 dinobingo.com
 dinospin.com
 diole1128.com
@@ -147949,6 +147949,10 @@ raja69.asia
 raja777.asia
 rajabets.com
 rajabets.xyz
+rajacash.site
+rajacash88.asia
+rajacash88.life
+rajacash88.vip
 rajahbet.com
 rajaslot69.asia
 rajaslot77.net
@@ -150930,6 +150934,10 @@ slot68.org
 slot688.org
 slot86.asia
 slot868.org
+slot89.digital
+slot89.news
+slot89.space
+slot89.win
 slot96.asia
 slot988.com
 slotaaf88.com
@@ -151306,6 +151314,11 @@ song888b.com
 songbai123.com
 songbai555.com
 songqian4556.com
+sonic88.guru
+sonic88.one
+sonic88.run
+sonic88.store
+sonic88.win
 sonicslots.net
 sonobetz.com
 sop777mantap.org
@@ -151450,6 +151463,8 @@ sportzbookz.com
 sporvvip88.com
 spotde.xyz
 spreadex.com
+spribe.io
+spribegaming.com
 sproper.xyz
 sps22.com
 spsp04.com
@@ -151971,6 +151986,7 @@ sun496.com
 sun52.bid
 sun52.click
 sun52.fun
+sun52.live
 sun52.tv
 sun5222.com
 sun6.win
@@ -153227,6 +153243,7 @@ tais7.top
 tais7.vip
 taishangjunjun.com
 taisum.co
+taisun52.live
 taiuk88.net
 taiuwin.com
 taiuwin.xyz
@@ -154881,9 +154898,6 @@ tt258.cn
 tt2698.com
 tt2823.com
 tt2china.com
-tt333.one
-tt377.one
-tt388.one
 tt3979.bond
 tt3979.cfd
 tt3979.click
@@ -154900,8 +154914,6 @@ tt3979.website
 tt3979vn.fun
 tt43370.com
 tt43374.com
-tt488.one
-tt555.one
 tt5889.com
 tt63gg.com
 tt706.win
@@ -164752,7 +164764,6 @@ x8943.com
 x89599.com
 x89888.com
 x8mb5p.com
-x8vn.com
 x8vn.top
 x8vn.win
 x90888.com
@@ -170908,12 +170919,6 @@ zhihuicai.info
 zhihuicai.org
 zhijinri.com
 zhitd.win
-zhiyuntqqb11.com
-zhiyuntqqb22.com
-zhiyuntqqb33.com
-zhiyuntqqb34.com
-zhiyuntqqba1.com
-zhiyuntqqbc11.com
 zhizun6.com
 zhizunguoji.net
 zhl8494.com
