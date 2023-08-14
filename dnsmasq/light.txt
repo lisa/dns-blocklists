@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 14 Aug 2023 00:03 UTC
-# Version: 2023.0814.0003.28
+# Last modified: 14 Aug 2023 13:23 UTC
+# Version: 2023.0814.1323.51
 # Syntax: DNSMasq
-# Number of entries: 86776
+# Number of entries: 86801
 #
 address=/0008d6ba2e.com/#
 address=/000space.com/#
@@ -7195,6 +7195,7 @@ address=/applemoon.ru/#
 address=/applenext.de/#
 address=/applesometimes.com/#
 address=/yvdxij.applevacations.com/#
+address=/metric.applewatchse.hk/#
 address=/appliancesclearancesale.store/#
 address=/appliancesshopmall.store/#
 address=/applicantpoachmeat.com/#
@@ -18298,6 +18299,7 @@ address=/dzoumy.co.uk/#
 address=/weblog.e-himart.co.kr/#
 address=/eastfootball.co.uk/#
 address=/backstory.ebay.co.uk/#
+address=/metrics.ebay.co.uk/#
 address=/smetrics.ee.co.uk/#
 address=/metrics.egencia.co.in/#
 address=/metrics.egencia.co.uk/#
@@ -45430,6 +45432,7 @@ address=/kindredplc.com/#
 address=/kindsoftools.com/#
 address=/kinean.online/#
 address=/kineckekyu.com/#
+address=/metric.kinepolis.ch/#
 address=/metric.kinepolis.com/#
 address=/rtb-useast.kinesis-rtb.com/#
 address=/track.kinetiksoft.com/#
@@ -45871,6 +45874,7 @@ address=/komarniskiw.shop/#
 address=/dpi.networkorder.komect.com/#
 address=/metrics.komen.org/#
 address=/komforteinrichter.de/#
+address=/analytics.komm-zur-bundespolizei.de/#
 address=/kommodende.com/#
 address=/komodia.com/#
 address=/komoona.com/#
@@ -46536,6 +46540,7 @@ address=/landkaffee.com/#
 address=/landlorddiscoveringsubscribe.com/#
 address=/landlordmexicansole.com/#
 address=/landlrev.com/#
+address=/metric.landmarkcinemas.com/#
 address=/landnewseasy.com/#
 address=/landntrv.com/#
 address=/smetrics.landolakes.com/#
@@ -48835,6 +48840,7 @@ address=/lunabfashion.com/#
 address=/smartphonepeak.lunakebe.com/#
 address=/lunanaa.top/#
 address=/lunapresent.com/#
+address=/analytics.lunarclientprod.com/#
 address=/lunaticsoledauntless.com/#
 address=/analytics.lunaweb.cloud/#
 address=/lunchpaybackdarcy.com/#
@@ -51718,6 +51724,7 @@ address=/mizzenedgeman.guru/#
 address=/mj12bot.com/#
 address=/mjfxpro.com/#
 address=/beam.mjhlifesciences.com/#
+address=/metric.mjrtheatres.com/#
 address=/mjzyhu.com/#
 address=/mk-stern.de/#
 address=/mkcshop.com/#
@@ -55886,7 +55893,14 @@ address=/nonstopsearch.com/#
 address=/noobilubi.com/#
 address=/nooder.com/#
 address=/noofigat.net/#
+address=/analytic.noon.com/#
+address=/analytics.noon.com/#
+address=/metrics.clojure.noon.com/#
 address=/etracker.noon.com/#
+address=/metrics.gathering.noon.com/#
+address=/metric.noon.com/#
+address=/metrics.noon.com/#
+address=/countly.server.noon.com/#
 address=/nooncommentary.com/#
 address=/noonfrequentpea.com/#
 address=/noonuproarincompetence.com/#
@@ -63802,6 +63816,7 @@ address=/quintaldog.cz/#
 address=/quinuaknife.com/#
 address=/metric.quip.com/#
 address=/quirksglobous.life/#
+address=/analytics.wvwv.quirksmode.org/#
 address=/quisma.com/#
 address=/quitasueno.com/#
 address=/quitesousefu.com/#
@@ -74696,7 +74711,15 @@ address=/tclinkz.com/#
 address=/tclinkz.net/#
 address=/agility.tcm.com/#
 address=/analytics.tcm.com/#
+address=/clarity.tcm.com/#
+address=/countly.tcm.com/#
+address=/google-analytics.tcm.com/#
+address=/kinesis-streams-fan-out-kinesis-analytics.tcm.com/#
+address=/metrics.tcm.com/#
+address=/performance-metrics.tcm.com/#
 address=/sanalytics.tcm.com/#
+address=/smetrics.tcm.com/#
+address=/telemetry.tcm.com/#
 address=/tcmfinancialservices.com/#
 address=/tcmohv.com/#
 address=/tcmpny.com/#
@@ -78359,6 +78382,7 @@ address=/tulingpyton.cn/#
 address=/tulip18.com/#
 address=/tulipsameedge.com/#
 address=/tulnicskun.digital/#
+address=/smetrics.tulsaworld.com/#
 address=/tulumwellnessacademy.com/#
 address=/tumanzana.com/#
 address=/tumberland.com/#
@@ -84312,6 +84336,7 @@ address=/wruwif.com/#
 address=/wrxgee.com/#
 address=/wryj4v0.cn/#
 address=/wrypassenger.com/#
+address=/analytics.95516.com.wscdns.com/#
 address=/wsdfame.com/#
 address=/wsds.cn/#
 address=/wsfcs.net/#

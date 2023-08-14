@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.personal. hostmaster.hagezi.personal. 1691971020 86400 3600 604800 30
+@ SOA rpz.hagezi.personal. hostmaster.hagezi.personal. 1692019080 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Personal DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 13 Aug 2023 23:57 UTC
-; Version: 2023.0813.2357.02
+; Last modified: 14 Aug 2023 13:18 UTC
+; Version: 2023.0814.1318.00
 ; Syntax: RPZ
-; Number of entries: 98074
+; Number of entries: 98080
 ;
 marketing.globalpointofcare.abbott CNAME .
 *.marketing.globalpointofcare.abbott CNAME .
@@ -41822,6 +41822,8 @@ noobilubi.com CNAME .
 *.noobilubi.com CNAME .
 etracker.noon.com CNAME .
 *.etracker.noon.com CNAME .
+countly.server.noon.com CNAME .
+*.countly.server.noon.com CNAME .
 noonuproarincompetence.com CNAME .
 *.noonuproarincompetence.com CNAME .
 nooraunod.com CNAME .
@@ -55884,6 +55886,10 @@ agility.tcm.com CNAME .
 *.agility.tcm.com CNAME .
 analytics.tcm.com CNAME .
 *.analytics.tcm.com CNAME .
+clarity.tcm.com CNAME .
+*.clarity.tcm.com CNAME .
+countly.tcm.com CNAME .
+*.countly.tcm.com CNAME .
 sanalytics.tcm.com CNAME .
 *.sanalytics.tcm.com CNAME .
 tcpcharms.com CNAME .

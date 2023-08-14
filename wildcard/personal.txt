@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 13 Aug 2023 23:57 UTC
-# Version: 2023.0813.2357.02
+# Last modified: 14 Aug 2023 13:18 UTC
+# Version: 2023.0814.1318.00
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 49037
+# Number of entries: 49040
 #
 *.0008d6ba2e.com
 *.000space.com
@@ -31917,6 +31917,7 @@
 *.noobilubi.com
 *.noofigat.net
 *.etracker.noon.com
+*.countly.server.noon.com
 *.noonuproarincompetence.com
 *.nooraunod.com
 *.noosingimmask.com
@@ -42201,6 +42202,8 @@
 *.trk.tckingdminrdtrk.com
 *.agility.tcm.com
 *.analytics.tcm.com
+*.clarity.tcm.com
+*.countly.tcm.com
 *.sanalytics.tcm.com
 *.tcpcharms.com
 *.tcppu.com

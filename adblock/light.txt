@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 14 Aug 2023 00:03 UTC
-! Version: 2023.0814.0003.28
+! Last modified: 14 Aug 2023 13:23 UTC
+! Version: 2023.0814.1323.51
 ! Syntax: AdBlock
-! Number of entries: 86776
+! Number of entries: 86801
 !
 ||0008d6ba2e.com^
 ||000space.com^
@@ -7195,6 +7195,7 @@
 ||applenext.de^
 ||applesometimes.com^
 ||yvdxij.applevacations.com^
+||metric.applewatchse.hk^
 ||appliancesclearancesale.store^
 ||appliancesshopmall.store^
 ||applicantpoachmeat.com^
@@ -18298,6 +18299,7 @@
 ||weblog.e-himart.co.kr^
 ||eastfootball.co.uk^
 ||backstory.ebay.co.uk^
+||metrics.ebay.co.uk^
 ||smetrics.ee.co.uk^
 ||metrics.egencia.co.in^
 ||metrics.egencia.co.uk^
@@ -45430,6 +45432,7 @@
 ||kindsoftools.com^
 ||kinean.online^
 ||kineckekyu.com^
+||metric.kinepolis.ch^
 ||metric.kinepolis.com^
 ||rtb-useast.kinesis-rtb.com^
 ||track.kinetiksoft.com^
@@ -45871,6 +45874,7 @@
 ||dpi.networkorder.komect.com^
 ||metrics.komen.org^
 ||komforteinrichter.de^
+||analytics.komm-zur-bundespolizei.de^
 ||kommodende.com^
 ||komodia.com^
 ||komoona.com^
@@ -46536,6 +46540,7 @@
 ||landlorddiscoveringsubscribe.com^
 ||landlordmexicansole.com^
 ||landlrev.com^
+||metric.landmarkcinemas.com^
 ||landnewseasy.com^
 ||landntrv.com^
 ||smetrics.landolakes.com^
@@ -48835,6 +48840,7 @@
 ||smartphonepeak.lunakebe.com^
 ||lunanaa.top^
 ||lunapresent.com^
+||analytics.lunarclientprod.com^
 ||lunaticsoledauntless.com^
 ||analytics.lunaweb.cloud^
 ||lunchpaybackdarcy.com^
@@ -51718,6 +51724,7 @@
 ||mj12bot.com^
 ||mjfxpro.com^
 ||beam.mjhlifesciences.com^
+||metric.mjrtheatres.com^
 ||mjzyhu.com^
 ||mk-stern.de^
 ||mkcshop.com^
@@ -55886,7 +55893,14 @@
 ||noobilubi.com^
 ||nooder.com^
 ||noofigat.net^
+||analytic.noon.com^
+||analytics.noon.com^
+||metrics.clojure.noon.com^
 ||etracker.noon.com^
+||metrics.gathering.noon.com^
+||metric.noon.com^
+||metrics.noon.com^
+||countly.server.noon.com^
 ||nooncommentary.com^
 ||noonfrequentpea.com^
 ||noonuproarincompetence.com^
@@ -63802,6 +63816,7 @@
 ||quinuaknife.com^
 ||metric.quip.com^
 ||quirksglobous.life^
+||analytics.wvwv.quirksmode.org^
 ||quisma.com^
 ||quitasueno.com^
 ||quitesousefu.com^
@@ -74696,7 +74711,15 @@
 ||tclinkz.net^
 ||agility.tcm.com^
 ||analytics.tcm.com^
+||clarity.tcm.com^
+||countly.tcm.com^
+||google-analytics.tcm.com^
+||kinesis-streams-fan-out-kinesis-analytics.tcm.com^
+||metrics.tcm.com^
+||performance-metrics.tcm.com^
 ||sanalytics.tcm.com^
+||smetrics.tcm.com^
+||telemetry.tcm.com^
 ||tcmfinancialservices.com^
 ||tcmohv.com^
 ||tcmpny.com^
@@ -78359,6 +78382,7 @@
 ||tulip18.com^
 ||tulipsameedge.com^
 ||tulnicskun.digital^
+||smetrics.tulsaworld.com^
 ||tulumwellnessacademy.com^
 ||tumanzana.com^
 ||tumberland.com^
@@ -84312,6 +84336,7 @@
 ||wrxgee.com^
 ||wryj4v0.cn^
 ||wrypassenger.com^
+||analytics.95516.com.wscdns.com^
 ||wsdfame.com^
 ||wsds.cn^
 ||wsfcs.net^
