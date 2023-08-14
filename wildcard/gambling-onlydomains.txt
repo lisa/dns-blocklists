@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 12 Aug 2023 22:26 UTC
-# Version: 2023.0812.2226.29
+# Last modified: 13 Aug 2023 22:37 UTC
+# Version: 2023.0813.2237.47
 # Syntax: Domains (without subdomains)
-# Number of entries: 171295
+# Number of entries: 171296
 #
 0-bet.com
 000000.com
@@ -138148,6 +138148,7 @@ matchbook.com
 mathuong.com
 mato.skin
 matok.bet
+matok.cc
 matok1.bet
 matok2.bet
 matok8.bet

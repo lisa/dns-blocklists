@@ -1393,7 +1393,6 @@
 @@||tgr.ph^
 @@||thatis.me^
 @@||thd.co^
-@@||thebp.site^
 @@||thedo.do^
 @@||thein.fo^
 @@||thesa.us^
@@ -1499,7 +1498,6 @@
 @@||ucla.in^
 @@||ug.cz^
 @@||ugp.io^
-@@||ui8.ru^
 @@||ukf.me^
 @@||ukoeln.de^
 @@||ul.rs^

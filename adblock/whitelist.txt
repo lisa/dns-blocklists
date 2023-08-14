@@ -4756,3 +4756,16 @@
 ! Referral
 @@|t.indeed.com^
 
+! https://github.com/hagezi/dns-blocklists/issues/1421
+@@|list-unsubscribe.eservice.emarsys.net^
+@@|me-client.eservice.emarsys.net^
+@@|me-inbox.eservice.emarsys.net^
+@@|mobile-sdk-config.gservice.emarsys.net^
+@@|push.eservice.emarsys.net^
+@@|redirector.eservice.emarsys.net^
+@@|webchannel-content.eservice.emarsys.net^
+
+! Blocks login to Linktree app
+@@|featuregates.org^
+@@|www.featuregates.org^
+
