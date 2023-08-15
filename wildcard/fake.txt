@@ -3,8 +3,8 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 13 Aug 2023 22:46 UTC
-# Version: 2023.0813.2246.34
+# Last modified: 14 Aug 2023 22:35 UTC
+# Version: 2023.0814.2235.24
 # Syntax: Domains Wildcard (without subdomains)
 # Number of entries: 16257
 #
@@ -839,7 +839,6 @@
 *.armourygear.com
 *.armreifenshop.com
 *.armxn.com
-*.arnold-steimle.de
 *.aromaleben.com
 *.arotrade.com
 *.aroxcapital.com
@@ -1289,7 +1288,6 @@
 *.bcm-shop.de
 *.bcm8.shop
 *.bcmichelbach.de
-*.bcokojidrip.shop
 *.bcpgltd.com
 *.bcstores.net
 *.bct-reifen.de
@@ -2077,6 +2075,7 @@
 *.btc-convert.com
 *.btc-markets.com
 *.nz04bg.btc-sys.com
+*.btc9339.com
 *.btceu.pro
 *.btcminer.website
 *.btcprofitnow.com
@@ -2443,7 +2442,6 @@
 *.ceylonss.com
 *.cezgroup-news.com
 *.cfashionus.com
-*.cfbroker.io
 *.cfdpremium.com
 *.cfdprofx.com
 *.cfdstocks.com
@@ -3829,7 +3827,6 @@
 *.doktor-apotheke.com
 *.doktor-rezeptfrei.com
 *.doktoratonline.cz
-*.doktorekwpodrozy.pl
 *.doktorp.de
 *.doktorpotenzmittel.de
 *.doktrin.cz
@@ -3850,6 +3847,7 @@
 *.donalovehair.de
 *.donnasharpbed.com
 *.donovan.store
+*.donttreadonmeshop.com
 *.dooliverseus.com
 *.dooyshy.com
 *.dopasowani.at
@@ -4439,7 +4437,6 @@
 *.ergoneers.at
 *.ericababy.space
 *.ericachemical.shop
-*.ericalynnhang.com
 *.erika-diepold.at
 *.erikanicklheim.de
 *.erlebnisart.at
@@ -4652,6 +4649,7 @@
 *.expertfxtrading.com
 *.expertisetrader4.net
 *.expertoptiontradings.com
+*.expertrader.me
 *.expertsinmoving.com
 *.exploratione.com
 *.expocrypt.com
@@ -5334,6 +5332,7 @@
 *.fpilahue.com
 *.fr-energie-bois.com
 *.fraeuleinemma.fun
+*.fraktion-bfz-gruene.de
 *.franceshopping.online
 *.frankiemakeupartist.com
 *.frankiesdubai.com
@@ -5433,6 +5432,7 @@
 *.fundspromax.com
 *.funfunlego.com
 *.fungalor.com
+*.funkeln-technik.de
 *.funkelnelektronik.de
 *.funkidsstore.com
 *.funnyhas.com
@@ -6517,7 +6517,6 @@
 *.high-tech-discount.fr
 *.highlandshotels.net
 *.highlevelbody.fr
-*.highlevelmarketing.com
 *.highluxurystore.co
 *.highqualitybagsale.store
 *.hightexworld.at
@@ -6626,7 +6625,6 @@
 *.hollisteronline-shop.at
 *.hollstamps.xyz
 *.holmegaardshop.com
-*.holofor.com
 *.holophore.fr
 *.holsingar.com
 *.holydogwater.de
@@ -6746,6 +6744,7 @@
 *.hotelnamaskarswm.com
 *.hotels-colombo.com
 *.hotels-colorado.net
+*.hotels-in-tyrol.com
 *.hotelsinperm.ru
 *.hotelsofmenorca.com
 *.hotelsofnewyorkcity.net
@@ -6838,7 +6837,6 @@
 *.huntergummistiefelsale.com
 *.huntergummistiefelsale.de
 *.hunterholinky.cc
-*.hunterholinky.cz
 *.hunterholinkysleva.cz
 *.hunterosterreich.at
 *.hunteroutletsale.store
@@ -7237,6 +7235,7 @@
 *.jaimerico.net
 *.jakedstake.com
 *.jakkesalgs.com
+*.jakkesnorge.com
 *.jalpakhabar.com
 *.jampastey.com
 *.janainalbenafsij.com
@@ -7974,6 +7973,7 @@
 *.laspop.top
 *.lasporitiva.com
 *.lasport.top
+*.lasportiva.club
 *.lasportivaat.at
 *.lasportivadeutschland.de
 *.lasportivaeu.top
@@ -8950,7 +8950,6 @@
 *.miangifts.com
 *.miaoowa.com
 *.miatewo.com
-*.mibiento.de
 *.michael-mahr.de
 *.michaela-bendich.de
 *.michaela-thronicke.de
@@ -9136,7 +9135,6 @@
 *.moma.finance
 *.moment24.net
 *.momme-boe.de
-*.momo-reifen.de
 *.momoanty.com
 *.momoftrenton.com
 *.moms-artikel.com
@@ -9187,6 +9185,7 @@
 *.moongotool.com
 *.moonmarket.io
 *.moonnation.org
+*.moonplay.de
 *.moontradefx.com
 *.moonymoodwear.com
 *.moopify.com
@@ -10835,6 +10834,7 @@
 *.phantsmartplatform.com
 *.pharaohstore.com
 *.pharm-24h.com
+*.pharm-discount.com
 *.pharm-store.com
 *.pharma-bonnegrace.com
 *.pharma-versandhandel.de
@@ -11125,7 +11125,6 @@
 *.powfull.com
 *.pozo-agua.com
 *.pr-investissements.com
-*.pr-ruehle.de
 *.practicalstores.com
 *.pradler-media.com
 *.prbcapitals.com
@@ -13563,6 +13562,7 @@
 *.supraschuhedeutsch.de
 *.supraschuheonlineshop.de
 *.suprashoesosterreich.com
+*.supreme-adblocker.net
 *.supreme-choicee.com
 *.supremegenerics.com
 *.supremeosterreich.com
@@ -13673,6 +13673,7 @@
 *.swisscapitaltrade.club
 *.swisschains.com
 *.swissfuture-fx.com
+*.swissfxm.com
 *.swissinv24.com
 *.swissinv24h.com
 *.swissinvestmentsglobal.com
@@ -14280,7 +14281,6 @@
 *.tokenskeep.com
 *.tokissny.com
 *.toko999.net
-*.toko999.shop
 *.tolle-technik.com
 *.tollgr.com
 *.tolosix.com
@@ -15265,7 +15265,6 @@
 *.verssivo.com
 *.vertexfy.com
 *.vertix.tech
-*.verysmartshop.com
 *.vesinhhoatam.com
 *.vespin24.de
 *.vessideutschlands.com
@@ -15365,7 +15364,6 @@
 *.visdu.de
 *.visionfancyclothing.com
 *.visionfx365.com
-*.visitaserbia.com
 *.visoedifica.com
 *.visualpaw.com
 *.vitacola-gratis.de
@@ -15454,6 +15452,7 @@
 *.volcomofficial.com
 *.volcomoutdoor.com
 *.volina.de
+*.volini.de
 *.volk-reifen.com
 *.volkersheim-bockenem.de
 *.volkscapital.com
@@ -15479,6 +15478,7 @@
 *.lp.voucheras.com
 *.vovlady.com
 *.voyagexplorer.com
+*.voyamall.com
 *.voyance-voyance.com
 *.voyboutique.com
 *.vozuda-shop.de

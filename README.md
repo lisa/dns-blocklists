@@ -49,11 +49,11 @@
 #### ***Multi blocklist version and size overview:***
 | Version | Domains<br>Compressed | Pro++ | Pro | Normal | Light | [Fake](#fake) | [TIF](#tif) | [Personal](#personal) | [Native](#native) |
 |:--------|---:|:------:|:-----:|:----:|:----:|:---:|:------:|:----------:|:----------:|
-| [Light](#light)             | 572207<br>86801     |  |   |   |  | :green_circle: | :yellow_square: | :green_circle: | :yellow_square: |
-| [Normal](#normal)       | 863846<br>264389     |  |   |  | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :yellow_square: |
-| [Pro](#pro)              | 1027439<br>357830         |  |  | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :yellow_square: |
-| [Pro++](#proplus)    | 1130352<br>382378 |  | :green_circle: | :green_circle: | :green_circle: | :green_circle: |:yellow_square: | :green_circle: | :yellow_square: |
-| [Ultimate](#ultimate)    | 1513643<br>476803 | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :green_circle: |
+| [Light](#light)             | 545562<br>72568     |  |   |   |  | :green_circle: | :yellow_square: | :green_circle: | :yellow_square: |
+| [Normal](#normal)       | 865231<br>265295     |  |   |  | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :yellow_square: |
+| [Pro](#pro)              | 1029925<br>359300         |  |  | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :yellow_square: |
+| [Pro++](#proplus)    | 1132911<br>383659 |  | :green_circle: | :green_circle: | :green_circle: | :green_circle: |:yellow_square: | :green_circle: | :yellow_square: |
+| [Ultimate](#ultimate)    | 1516291<br>478079 | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :green_circle: |
            
 :green_circle: contains the list named in the column caption       
 :yellow_square: partially contains the list named in the column caption       
@@ -64,7 +64,7 @@
       
 *Hand brush - Cleans the Internet and protects your privacy! Blocks Ads, Tracking, Metrics, some Malware and Fake.*
           
-**Entries:** *572207 domains/hosts - 86801 compressed domains*                    
+**Entries:** *545562 domains/hosts - 72568 compressed domains*                    
          
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -82,7 +82,7 @@
       
 *Broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other "Crap".*
          
-**Entries:** *863846 domains/hosts - 264389 compressed domains*                   
+**Entries:** *865231 domains/hosts - 265295 compressed domains*                   
           
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -99,7 +99,7 @@
       
 *Big broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other "Crap".*
          
-**Entries:** *1027439 domains/hosts - 357830 compressed domains*                   
+**Entries:** *1029925 domains/hosts - 359300 compressed domains*                   
            
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -118,7 +118,7 @@
          
 *More aggressive version of the Multi PRO blocklist. It may contain few false positive domains that limit functionality. Therefore it should only be used by experienced users. Furthermore, an admin should be available to unblock incorrectly blocked domains. Reported false positive domains will be removed from the list!*
 
-**Entries:** *1130352 domains/hosts - 382378 compressed domains*               
+**Entries:** *1132911 domains/hosts - 383659 compressed domains*               
                                                 
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -139,7 +139,7 @@
          
 ***NOTE:*** *META graph trackers are blocked in Ultimate. This restricts the use of Facebook/Instagram and Facebook Messenger. To use Facebook/Instagram with Ultimate, unblock the following domains: [META Tracker](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/share/facebook.txt)*
        
-**Entries:** *1513643 domains/hosts - 476803 compressed domains*               
+**Entries:** *1516291 domains/hosts - 478079 compressed domains*               
                                                 
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -189,7 +189,7 @@
 
 :green_circle: yes :yellow_square: partially :x: no
               		
-**Entries:** *1266714 domains/hosts - 742384 compressed domains*           
+**Entries:** *1234476 domains/hosts - 725298 compressed domains*           
          
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -407,7 +407,7 @@
 
 :green_circle: yes :yellow_square: partially :x: no
 		
-**Entries:** *49040 compressed domains*                    
+**Entries:** *49203 compressed domains*                    
        
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|

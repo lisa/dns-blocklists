@@ -4371,3 +4371,19 @@ webchannel-content.eservice.emarsys.net
 # Blocks login to Linktree app
 featuregates.org
 
+# https://github.com/hagezi/dns-blocklists/issues/1425
+fmhy.net
+
+# https://github.com/hagezi/dns-blocklists/issues/1426
+*.lekane.net
+
+# MaleExtra
+maleextra.com
+
+# https://github.com/hagezi/dns-blocklists/issues/1428
+ccms.shopee.io
+patronus.idata.shopeemobile.com
+c-api-bit.shopeemobile.com
+endpoint.mms.shopee.co.id
+pdamtbwkotasmi.co.id
+

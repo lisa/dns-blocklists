@@ -7,8 +7,8 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 13 Aug 2023 22:39 UTC
-! Version: 2023.0813.2239.55
+! Last modified: 14 Aug 2023 22:28 UTC
+! Version: 2023.0814.2228.46
 ! Syntax: AdGuard
 !
 ||agency^$denyallow=battlefield.agency|baam.agency|robotzebra.agency|uphotel.agency|ws.agency
@@ -37,12 +37,12 @@
 ||fyi^$denyallow=lunar.fyi|iusearchlinux.fyi
 ||*.gdn^
 ||gq^$denyallow=inege.gq|tvgelive.gq|siteproxy.gq|blockly.gq
-||guru^$denyallow=crontab.guru
+||guru^$denyallow=crontab.guru|jav.guru
 ||*.hair^
 ||*.haus^
 ||life^$denyallow=digitalcitizen.life|stepone.life|circles.life|loveinfaith.life
 ||*.loan^
-||loans^$denyallow=nic.loans
+||*.loans^
 ||market^$denyallow=otto.market
 ||ml^$denyallow=aire.ml|amap.ml|beatbump.ml|birdkey.ml|debula.ml|dmml.ml|esparrec.ml|exp0.ml|fedi.ml|fmhy.ml|ghostcloud.ml|google.ml|guya.ml|info-matin.ml|kawauso.ml|leam.ml|lemmy.ml|lemmygrad.ml|lingva.ml|loma.ml|masto.ml|mastodon.ml|mastodonte.ml|melody.ml|nothingprivate.ml|precure.ml|prompt.ml|stilic.ml|sumanko.ml|we-moon.ml
 ||*.mom^
@@ -59,7 +59,6 @@
 ||rest^$denyallow=crystals.rest
 ||*.review^
 ||*.sbs^
-||site^$denyallow=aana.site|adamxtweaking.company.site|alexforsale.site|amatriain.site|anitube.site|athousandwords.site|august-don.site|birb.site|blocklist.site|business.site|cdmstudy.site|chagratt.site|dannythe.site|dodi-repacks.site|enby.site|fediunam.site|finsup.site|first-party.site|fitgirl-repacks.site|fmoviesto.site|fomin.site|franv.site|gt-mod.site|heimdall.site|hellsite.site|ichinyo.site|ipv6-only.site|is4.site|iztasocial.site|kamima.site|lamer-ethos.site|lavenby.site|loophole.site|louisematic.site|melonsoda.site|metrolagu.site|miri.site|mstdn-jp.site|nic.site|notabird.site|notion.site|notube.site|platformsh.site|rebelbase.site|saimaa.site|secluded.site|secreto.site|shoddy.site|skilltoy.site|srht.site|starkov.site|sully.site|theantisocial.site|thex.site|third-party.site|thisisjoes.site|tighnari.site|toot.site|triplering.site|vtubers.site|welsea.site
 ||*.skin^
 ||*.space^
 ||surf^$denyallow=bloom.surf|fedi.surf|glowing.surf|kayaking.surf|nic.surf|quran.surf|s-wings.surf|surfstation.surf
@@ -73,7 +72,7 @@
 ||work^$denyallow=frame.work
 ||wtf^$denyallow=plooshiesaresocute.wtf
 ||zip^$denyallow=community.zip|financialstatement.zip|lemmy.zip|url.zip
-||zone^$denyallow=albion.zone|amity.zone|aussie.zone|autonomous.zone|blahaj.zone|bookwyrm.tilde.zone|borborema.zone|buttplug.zone|carbonnotes.zone|chillpeep.zone|disinfo.zone|dogg.zone|dormi.zone|elk.zone|europlus.zone|fioverse.zone|firebird.zone|freeradical.zone|freja.zone|frikiverse.zone|froth.zone|gimon.zone|grafo.zone|greenhill.zone|hda.zone|hotgarbage.zone|hyperboreal.zone|itsm.zone|kidtopia.zone|kinogo.zone|kvlt.zone|lizard.zone|martech.zone|mellow.zone|moth.zone|myhobby.zone|myhome.zone|nelson.zone|nic.zone|nobert.zone|nogafam.zone|ounce.zone|pixelfed.zone|pnw.zone|sakuradancer.zone|saoirse.zone|speedrun.zone|stctp.zone|stoat.zone|strode.zone|subnivean.zone|subversive.zone|taur.zone|tda.zone|teapot.zone|the-cool.zone|thechimp.zone|thecum.zone|thekitty.zone|themystrd.zone|thetake.zone|thewired.zone|tilde.zone|tls.zone|typinggames.zone|ursal.zone|vixen.zone|vulpini.zone|xcloud.zone|xoxo.zone|y2k.zone|zig.zone
+||*.zone^
 ||*.рус^
 ||*.कॉम^
 ||*.セール^
