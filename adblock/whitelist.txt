@@ -4803,3 +4803,12 @@
 @@|techbargains.com^
 @@|www.techbargains.com^
 
+! https://github.com/hagezi/dns-blocklists/issues/1435
+@@|cdn.voscast.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/1434
+@@|ctl.prd.bi.getbux.com^
+
+! Sky Decoder
+@@|metrics.sky.com^
+@@|analytics.global.sky.com^

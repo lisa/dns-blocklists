@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 Aug 2023 23:57 UTC
-# Version: 2023.0815.2357.12
+# Last modified: 16 Aug 2023 08:10 UTC
+# Version: 2023.0816.0810.56
 # Syntax: Domains (without subdomains)
-# Number of entries: 49102
+# Number of entries: 49136
 #
 0008d6ba2e.com
 000space.com
@@ -169,6 +169,7 @@ xml-v4.100conversions.com
 102bezdep.club
 102topwin.com
 103-applefibernet.com
+103092804.com
 106515.com
 1090pjopm.de
 109c957fb6.com
@@ -1757,9 +1758,11 @@ bungomanorthtvc.ac.ke
 enterpriseresearch.ac.uk
 iainsorong.ac.id
 imit.ac.in
+www.jagannathuniversityncr.ac.in
 kanlayanee.ac.th
 mite.ac.in
 metrics.nhm.ac.uk
+virtual.nit.ac.ke
 smetrics.nottingham.ac.uk
 clarity.sheffield.ac.uk
 stareheboyscentre.ac.ke
@@ -2450,6 +2453,7 @@ admedit.net
 admedo.com
 cdn.admeira.ch
 admeld.com
+admeme.net
 admeridianads.com
 rtb-eu.admeridianopenrtb.com
 rtb-useast.admeridianopenrtb.com
@@ -4898,6 +4902,7 @@ annoyingacoustics.com
 activate.anntaylor.com
 smetrics.anntaylor.com
 annuentleers.com
+sentry.anny.cloud
 anodicvarnish.com
 anomalousmelt.com
 anomalousporch.com
@@ -7274,7 +7279,6 @@ c.bigmir.net
 i.bigmir.net
 bigmobileads.com
 bigmuzzytrckr.com
-bignutty.xyz
 bigpenisguide.com
 bigpicture.io
 bigpipes.co
@@ -7861,6 +7865,7 @@ bookerstudent.com
 bookeryboutre.com
 web-vitals.booking.com
 bookingbuddy.com
+bookljlihooli.com
 bookmanzyzzyva.com
 bookmsg.com
 adtech-events.bookmyshow.com
@@ -7931,6 +7936,7 @@ bottlerobust.com
 bottleschance.com
 bottlestonightapp.com
 boudja.com
+boudutoo.net
 bouhaisaufy.com
 tag.boulanger.fr
 bounceads.net
@@ -8048,6 +8054,7 @@ brandnewsnorted.com
 marketing.brandonindustries.com
 brandreachsys.com
 brandsandproduct.com
+brandsofzambia.com
 branestan.com
 branlesero.com
 brashstudiocrucial.com
@@ -8266,6 +8273,7 @@ btchdtv.com
 btcnews.one
 btctrade.lol
 btdnav.com
+btez8.xyz
 btglss.net
 btloader.com
 btncdn.com
@@ -8443,6 +8451,7 @@ butterflyunkindpractitioner.com
 buttn.cyou
 buttonladybug.com
 buxflow.com
+buxp.org
 buyadvupfor24.com
 gst.pulse.buyatoyota.com
 buyblotch.com
@@ -8584,6 +8593,7 @@ c-rings.net
 c0c3eda58e8cefc764eb2be4a530e2a91bb1edb958be470aa94443d8.com
 c0cd2idcl5.com
 c0e8977ddc.com
+c153yb4hps.ru
 c1exchange.com
 c1sf9.top
 c212.net
@@ -8641,6 +8651,7 @@ cadencesubject.com
 pdmsmrt.cadillac.com
 cadke.xyz
 cadlsyndicate.com
+cadouribune.md
 cadrctlnk.com
 cadreon.com
 cadsecs.com
@@ -9396,6 +9407,7 @@ s5.charliehebdo.fr
 bcob.charlotte.edu
 charltonmedia.com
 charmingblur.com
+charmingdating.life
 charmingplate.com
 charmshoist.com
 charrewuzzer.com
@@ -9527,6 +9539,7 @@ images.e.chiefs.com
 welcome.e.chiefs.com
 chieldsaine.com
 data-f59db3288b.chiemgau24.de
+chiese.site
 chignonrelics.com
 chikepod.com
 childlikecrowd.com
@@ -9588,6 +9601,7 @@ chivalrouscord.com
 chivaripandora.com
 chl3.net
 chl7rysobc3ol6xla.com
+chlcotrk.com
 chlift.com
 chlodd.com
 chloe-boreman.com
@@ -9795,6 +9809,7 @@ cj.net
 cjbmanagement.com
 cjdmbfn.com
 cjewz.com
+cjl58f3agc.com
 cjlheud.com
 cjlog.com
 cjlthgd.com
@@ -9844,6 +9859,7 @@ classic-recipes.com
 classicalapprovehist.com
 classicfoldingefface.com
 classicjack.com
+classicpartnerships.com
 classicseight.com
 classifieds1000.com
 lms.ebayk.liberty-prod.classifiedscloud.io
@@ -12033,6 +12049,7 @@ cofenator.ru
 coffeemildness.com
 coffeeteaware.com
 coffindress.com
+cofounderspecials.com
 cogenttriprepel.com
 coggingilya.com
 cognateparsley.com
@@ -12057,6 +12074,7 @@ coin-hive.com
 coin-of-fate.jp
 coinad.com
 coinad.media
+coinad.org
 coinads.io
 coinadster.com
 events-service.coinbase.com
@@ -12745,6 +12763,7 @@ commontools.net
 commonvivacious.com
 platform.communicatorcorp.com
 compaaria.com
+compactyunker.com
 blackabdo.company.site
 buyfingermoney.company.com
 theeaglebrand.company.site
@@ -12949,6 +12968,7 @@ contaxe.de
 contehos.com
 contema.ru
 contemplatepuddingbrain.com
+content.ad
 content-cooperation.com
 content-garden.com
 content-rec.com
@@ -13376,6 +13396,7 @@ crawlclocks.com
 crawledgoblet.com
 crawlercarriersales.com
 crazyegg.com
+crazygames.no
 mafvertizing.crazygames.com
 rafvertizing.crazygames.com
 wafvertizing.crazygames.com
@@ -13418,6 +13439,7 @@ aep-target.credit-suisse.com
 sdc2.credit-suisse.com
 tags.creditkarma.com
 track.creditkarma.ca
+creditorapido.xyz
 webmet.creditreform.de
 credulityicicle.com
 omplusuniversal.creedglobal.in
@@ -13774,6 +13796,7 @@ trck.cyberport.de
 cybertronads.com
 cyberzine.com
 cybrarro.com
+cycle100percent.com
 cycledaction.com
 cyclophilit.com
 cydippeespy.com
@@ -14151,6 +14174,7 @@ datingformeeting.com
 datinggoodtaste.life
 datingjuicy.life
 datinglocal.life
+datingmeetnet.com
 datingsplace.life
 datingtoday.top
 datingtopgirls.com
@@ -16043,6 +16067,7 @@ difficultfog.com
 difice-milton.com
 difies.com
 digestiondrawer.com
+diggtp001.com
 digi-tag.net
 digiadzone.com
 digiclk.com
@@ -16144,6 +16169,7 @@ sstats.directgeneral.com
 smetrics.directline.com
 directlyboilermarco.com
 directnessrhythmirony.com
+directorliabilityinsurance.com
 directorym.com
 directrankcl.com
 directrev.com
@@ -16453,6 +16479,7 @@ doctoressolis.com
 doctorpost.net
 stats.docu.info
 piwik.documentfoundation.org
+documentworkspace.io
 info.docupace.com
 docuprivacy.com
 get.docusign.com
@@ -19943,6 +19970,7 @@ freegeoip.app
 freehomepages.com
 s1.freehostedscripts.net
 freeimageheaven.com
+freeindoapp.com
 t.freelancer.com
 freelogs.com
 adat.freemail.hu
@@ -21392,6 +21420,7 @@ goinformer.com
 goingbicyclepolitically.com
 smetrics.goinggoing.com
 smetrics.goinggoinggone.com
+goingup.com
 gointhe.space
 goitsoluciones.com
 t.gojacks.com
@@ -21760,6 +21789,7 @@ greencuttlefish.com
 greendepth.com
 smetrics.greendot.com
 greenedenlarge.uno
+greengoplatform.com
 greeninst.com
 greenlinknow.com
 analytics.greenmountainenergy.com
@@ -23368,6 +23398,7 @@ hungoversleepconcourse.com
 hungryproductionsmalnutrition.com
 hunkal.com
 detnmz.hunker.com
+hunter-hub.com
 hunterdelivery.com
 hunterers.com
 smetrics.huntington.com
@@ -25486,6 +25517,7 @@ jhanna.net
 jhfhdkhkh.site
 jhkggrr.icu
 jhlazsot.icu
+jhoncj.com
 jhpirob.cc
 jhukfaosdjfa.com
 jhzfwl.cn
@@ -25744,6 +25776,7 @@ jtoutfitters.com
 marketing.jtsa.edu
 jtumdod.com
 www15.jtv.com
+analytics.ju-care.com
 juahar.com
 jualparfumgrosir.com
 jualumni-bd.org
@@ -26357,6 +26390,7 @@ klsdee.com
 klufjdo.com
 kma.biz
 kmapagpkik.com
+kmindex.ru
 kmisln.com
 kmjycmessage.com
 kmlxlkz.cn
@@ -28390,6 +28424,7 @@ mailstat.us
 mailtrack.me
 mailzips.com
 data-e89c765eef.main-echo.de
+main-ti-cod.com
 secure.main5poem.com
 mainadv.com
 mainapiary.com
@@ -37377,6 +37412,7 @@ revhunter.tech
 data-ee807be806.reviersport.de
 data-fdf4690b14.reviersport.de
 revive-adserver.com
+revive-adserver.net
 reviveservers.com
 revivestore.com
 revjet.com
@@ -39916,9 +39952,7 @@ amptracking.sky.de
 analytics.sky.com
 analytics.faw.sky.com
 sentry.prd.a.skygo.gdps.sky.com
-analytics.global.sky.com
 idstatus.sky.com
-metrics.sky.com
 smetrics.sky.com
 smetrics.sky.it
 somni.sky.at
@@ -45162,6 +45196,7 @@ usokps.com
 usonar.jp
 smetrics.usopen.org
 usounoul.com
+uspcworks.com
 inres.uspech.sk
 usplussports.com
 ussive.com
@@ -46133,7 +46168,6 @@ report.voovmeeting.com
 voowiche.com
 voraciousgrip.com
 data-452782981b.vorname.com
-cdn.voscast.com
 live.vot.media
 votacall.one
 votingbemixt.website
