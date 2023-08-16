@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1691706480 86400 3600 604800 30
+@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1692138600 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 10 Aug 2023 22:28 UTC
-; Version: 2023.0810.2228.34
+; Last modified: 15 Aug 2023 22:30 UTC
+; Version: 2023.0815.2230.45
 ; Syntax: RPZ
-; Number of entries: 13784
+; Number of entries: 13802
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -1452,6 +1452,8 @@ all-animes.com CNAME .
 *.all-animes.com CNAME .
 alldebrid.com CNAME .
 *.alldebrid.com CNAME .
+allfreeapk.com CNAME .
+*.allfreeapk.com CNAME .
 alliance4creativity.com CNAME .
 *.alliance4creativity.com CNAME .
 allofmp3.com CNAME .
@@ -1512,6 +1514,8 @@ animelon.com CNAME .
 *.animelon.com CNAME .
 animemolecules.com CNAME .
 *.animemolecules.com CNAME .
+animemoviespot.com CNAME .
+*.animemoviespot.com CNAME .
 animencodes.com CNAME .
 *.animencodes.com CNAME .
 animepahe.com CNAME .
@@ -6366,6 +6370,8 @@ anidb.info CNAME .
 *.anidb.info CNAME .
 anidex.info CNAME .
 *.anidex.info CNAME .
+azshare.info CNAME .
+*.azshare.info CNAME .
 batmanstream.info CNAME .
 *.batmanstream.info CNAME .
 baypiratetpb.info CNAME .
@@ -6776,6 +6782,8 @@ torrent.ir CNAME .
 *.1377x.is CNAME .
 1movies.is CNAME .
 *.1movies.is CNAME .
+bmovies.is CNAME .
+*.bmovies.is CNAME .
 cinecalidad.is CNAME .
 *.cinecalidad.is CNAME .
 cmovies.is CNAME .
@@ -7042,6 +7050,8 @@ srstop.link CNAME .
 *.srstop.link CNAME .
 0123movies.live CNAME .
 *.0123movies.live CNAME .
+5movies.live CNAME .
+*.5movies.live CNAME .
 afdah.live CNAME .
 *.afdah.live CNAME .
 aktube.live CNAME .
@@ -9296,6 +9306,8 @@ wearethereal.ninja CNAME .
 *.1movies.nl CNAME .
 audiobookbay.nl CNAME .
 *.audiobookbay.nl CNAME .
+bmovies.nl CNAME .
+*.bmovies.nl CNAME .
 code2chicken.nl CNAME .
 *.code2chicken.nl CNAME .
 crictime.nl CNAME .
@@ -9646,6 +9658,8 @@ bluebird-hd.org CNAME .
 *.bluebird-hd.org CNAME .
 boardscriptz.org CNAME .
 *.boardscriptz.org CNAME .
+boatairproxy.org CNAME .
+*.boatairproxy.org CNAME .
 boommovie.org CNAME .
 *.boommovie.org CNAME .
 bootcity.org CNAME .
@@ -11200,6 +11214,8 @@ proxygalaxy.pw CNAME .
 *.proxygalaxy.pw CNAME .
 proxypirate.pw CNAME .
 *.proxypirate.pw CNAME .
+proxyportal.pw CNAME .
+*.proxyportal.pw CNAME .
 theproxy.pw CNAME .
 *.theproxy.pw CNAME .
 tsundere.pw CNAME .
@@ -11290,6 +11306,8 @@ audiostuff.ro CNAME .
 *.audiostuff.ro CNAME .
 bittorrents.ro CNAME .
 *.bittorrents.ro CNAME .
+blackrevolution.ro CNAME .
+*.blackrevolution.ro CNAME .
 blackz.ro CNAME .
 *.blackz.ro CNAME .
 torrents.czteam.ro CNAME .

@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 10 Aug 2023 22:27 UTC
-# Version: 2023.0810.2227.14
+# Last modified: 15 Aug 2023 22:29 UTC
+# Version: 2023.0815.2229.16
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 2018
+# Number of entries: 2019
 #
 *.000a.de
 *.000space.com
@@ -311,6 +311,7 @@
 *.bilder.lc
 *.bilymak.cz
 *.biz.ly
+*.biz.ps
 *.biz.tc
 *.biz.uz
 *.bizhat.com

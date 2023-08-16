@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.dyndns. hostmaster.hagezi.dyndns. 1691620080 86400 3600 604800 30
+@ SOA rpz.hagezi.dyndns. hostmaster.hagezi.dyndns. 1692138420 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's DynDNS Blocklist
@@ -7,10 +7,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 09 Aug 2023 22:28 UTC
-; Version: 2023.0809.2228.51
+; Last modified: 15 Aug 2023 22:27 UTC
+; Version: 2023.0815.2227.46
 ; Syntax: RPZ
-; Number of entries: 3034
+; Number of entries: 3050
 ;
 120v.ac CNAME .
 *.120v.ac CNAME .
@@ -230,6 +230,8 @@ ipq.co CNAME .
 *.ipq.co CNAME .
 mypi.co CNAME .
 *.mypi.co CNAME .
+n4t.co CNAME .
+*.n4t.co CNAME .
 0000000000000000000000.com CNAME .
 *.0000000000000000000000.com CNAME .
 100mountain.com CNAME .
@@ -620,6 +622,8 @@ expired-dns.com CNAME .
 *.expired-dns.com CNAME .
 ezua.com CNAME .
 *.ezua.com CNAME .
+fagdns.com CNAME .
+*.fagdns.com CNAME .
 falcongreen.com CNAME .
 *.falcongreen.com CNAME .
 faqserv.com CNAME .
@@ -1120,6 +1124,8 @@ mynetgear.com CNAME .
 *.mynetgear.com CNAME .
 myonlineportal.com CNAME .
 *.myonlineportal.com CNAME .
+myq-see.com CNAME .
+*.myq-see.com CNAME .
 mysaol.com CNAME .
 *.mysaol.com CNAME .
 mysecondarydns.com CNAME .
@@ -1816,6 +1822,10 @@ tru.io CNAME .
 *.tru.io CNAME .
 star.is CNAME .
 *.star.is CNAME .
+16-b.it CNAME .
+*.16-b.it CNAME .
+32-b.it CNAME .
+*.32-b.it CNAME .
 64-b.it CNAME .
 *.64-b.it CNAME .
 benjamin.it CNAME .
@@ -2296,6 +2306,8 @@ viiic.net CNAME .
 *.viiic.net CNAME .
 vpndns.net CNAME .
 *.vpndns.net CNAME .
+vxe6.net CNAME .
+*.vxe6.net CNAME .
 webhop.net CNAME .
 *.webhop.net CNAME .
 webok.net CNAME .
@@ -2882,6 +2894,8 @@ nx.tc CNAME .
 *.nx.tc CNAME .
 pntl.tl CNAME .
 *.pntl.tl CNAME .
+biz.tm CNAME .
+*.biz.tm CNAME .
 info.tm CNAME .
 *.info.tm CNAME .
 shop.tm CNAME .
@@ -3042,6 +3056,8 @@ dyndns.ws CNAME .
 *.dyndns.ws CNAME .
 mypets.ws CNAME .
 *.mypets.ws CNAME .
+blogsite.xyz CNAME .
+*.blogsite.xyz CNAME .
 zapto.xyz CNAME .
 *.zapto.xyz CNAME .
 project.zone CNAME .

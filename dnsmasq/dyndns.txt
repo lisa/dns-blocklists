@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 09 Aug 2023 22:28 UTC
-# Version: 2023.0809.2228.51
+# Last modified: 15 Aug 2023 22:27 UTC
+# Version: 2023.0815.2227.46
 # Syntax: DNSMasq
-# Number of entries: 1517
+# Number of entries: 1525
 #
 address=/0000000000000000000000.com/#
 address=/0rg.us/#
@@ -15,6 +15,7 @@ address=/100mountain.com/#
 address=/10dv.com/#
 address=/120v.ac/#
 address=/1337.cx/#
+address=/16-b.it/#
 address=/1cooldns.com/#
 address=/1dumb.com/#
 address=/2288.org/#
@@ -24,6 +25,7 @@ address=/2fine.de/#
 address=/2mydns.net/#
 address=/2waky.com/#
 address=/3-a.net/#
+address=/32-b.it/#
 address=/3322.net/#
 address=/3322.org/#
 address=/360digit.com/#
@@ -130,6 +132,7 @@ address=/bigmoney.biz/#
 address=/bine.me/#
 address=/birdriver.org/#
 address=/biz.st/#
+address=/biz.tm/#
 address=/blacknapkins.org/#
 address=/blinklab.com/#
 address=/blizzie.net/#
@@ -137,6 +140,7 @@ address=/blogdns.com/#
 address=/blogdns.net/#
 address=/blogdns.org/#
 address=/blogsite.org/#
+address=/blogsite.xyz/#
 address=/blogsyte.com/#
 address=/bloodforthebloodgod.com/#
 address=/bloom.us/#
@@ -494,6 +498,7 @@ address=/ezxdev.org/#
 address=/f-parts.net/#
 address=/f3322.net/#
 address=/f3322.org/#
+address=/fagdns.com/#
 address=/fairuse.org/#
 address=/falcongreen.com/#
 address=/fantasyleague.cc/#
@@ -1004,6 +1009,7 @@ address=/mypicture.info/#
 address=/mypop3.net/#
 address=/mypop3.org/#
 address=/mypsx.net/#
+address=/myq-see.com/#
 address=/mysaol.com/#
 address=/mysecondarydns.com/#
 address=/mysecuritycamera.com/#
@@ -1019,6 +1025,7 @@ address=/myxop.com/#
 address=/myz.info/#
 address=/n-e-t.name/#
 address=/n0p.at/#
+address=/n4t.co/#
 address=/nard.ca/#
 address=/naru.to/#
 address=/nat-ddns.com/#
@@ -1456,6 +1463,7 @@ address=/vpndns.net/#
 address=/vpntraki.com/#
 address=/vpnx.nl/#
 address=/vr.lt/#
+address=/vxe6.net/#
 address=/wakingmoon.com/#
 address=/wanip.ch/#
 address=/warp9computers.com/#

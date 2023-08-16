@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 10 Aug 2023 22:28 UTC
-# Version: 2023.0810.2228.34
+# Last modified: 15 Aug 2023 22:30 UTC
+# Version: 2023.0815.2230.45
 # Syntax: DNSMasq
-# Number of entries: 6892
+# Number of entries: 6901
 #
 address=/zer0day.000webhostapp.com/#
 address=/0123456789nonexistent.com/#
@@ -271,6 +271,7 @@ address=/5mins.shop/#
 address=/ww8.5movierulz.vc/#
 address=/5movies.buzz/#
 address=/5movies.fm/#
+address=/5movies.live/#
 address=/5movies.run/#
 address=/5movies.to/#
 address=/5moviesfree.net/#
@@ -402,6 +403,7 @@ address=/alldj.org/#
 address=/alleenretail.org/#
 address=/allesanddro.de/#
 address=/allesender.de/#
+address=/allfreeapk.com/#
 address=/allfreesoftware.org/#
 address=/allhd.tv/#
 address=/alliance4creativity.com/#
@@ -496,6 +498,7 @@ address=/animelatino.org/#
 address=/animelayer.ru/#
 address=/animelon.com/#
 address=/animemolecules.com/#
+address=/animemoviespot.com/#
 address=/animencodes.com/#
 address=/animeout.xyz/#
 address=/animeow.me/#
@@ -676,6 +679,7 @@ address=/axxomovies.org/#
 address=/azibtorrent.com/#
 address=/azm.to/#
 address=/azmovies.xyz/#
+address=/azshare.info/#
 address=/b2s-share.com/#
 address=/b98.tv/#
 address=/baberepublic.com/#
@@ -901,6 +905,7 @@ address=/blackhatprotools.com/#
 address=/blackhatprotools.net/#
 address=/blackhatprotools.org/#
 address=/blackphoenix.info/#
+address=/blackrevolution.ro/#
 address=/tracker.blacksparrowmedia.net/#
 address=/blacktiesports.net/#
 address=/tracker.blackunicorn.xyz/#
@@ -969,6 +974,8 @@ address=/blues-brothers.biz/#
 address=/bluewarez.pl/#
 address=/blutopia.xyz/#
 address=/bmitbd.com/#
+address=/bmovies.is/#
+address=/bmovies.nl/#
 address=/bmovies.vip/#
 address=/bms-hosxp.com/#
 address=/bmtorrents.net/#
@@ -976,6 +983,7 @@ address=/bmwfilms.com/#
 address=/bnet-bd.com/#
 address=/bnwmovies.com/#
 address=/boardscriptz.org/#
+address=/boatairproxy.org/#
 address=/boatbay.club/#
 address=/bobbialbano.com/#
 address=/bobd.live/#
@@ -4558,6 +4566,7 @@ address=/proxyindex.net/#
 address=/proxylisthere.com/#
 address=/proxypirate.pw/#
 address=/proxypirate.tk/#
+address=/proxyportal.pw/#
 address=/proxyproxy.fi/#
 address=/proxyproxyproxyproxy.link/#
 address=/proxyrarbg.org/#

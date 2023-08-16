@@ -4382,8 +4382,22 @@ maleextra.com
 
 # https://github.com/hagezi/dns-blocklists/issues/1428
 ccms.shopee.io
+ccms.shopee.*
 patronus.idata.shopeemobile.com
 c-api-bit.shopeemobile.com
 endpoint.mms.shopee.co.id
+endpoint.mms.shopee.*
 pdamtbwkotasmi.co.id
+
+# https://github.com/hagezi/dns-blocklists/issues/1429
+*.sweet.tv
+
+# https://github.com/hagezi/dns-blocklists/issues/1431
+aa.online-metrix.net
+
+# https://github.com/hagezi/dns-blocklists/issues/1432
+figshare.com
+
+# https://github.com/hagezi/dns-blocklists/issues/1433
+techbargains.com
 

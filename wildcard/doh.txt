@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 07 Aug 2023 22:26 UTC
-# Version: 2023.0807.2226.54
+# Last modified: 15 Aug 2023 22:26 UTC
+# Version: 2023.0815.2226.15
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 735
+# Number of entries: 736
 #
 *.ns.00dani.me
 *.dns.0ooo.icu
@@ -732,6 +732,7 @@
 *.doh.xfinity.com
 *.dot.xfinity.com
 *.doh2.gslb2.xfinity.com
+*.xorbiadns.com
 *.2.dnscrypt-cert.browser.yandex.net
 *.lion.yazilimatolye.com
 *.ychen.cf

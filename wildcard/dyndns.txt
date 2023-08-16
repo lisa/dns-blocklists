@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 09 Aug 2023 22:28 UTC
-# Version: 2023.0809.2228.51
+# Last modified: 15 Aug 2023 22:27 UTC
+# Version: 2023.0815.2227.46
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1517
+# Number of entries: 1525
 #
 *.0000000000000000000000.com
 *.0rg.us
@@ -15,6 +15,7 @@
 *.10dv.com
 *.120v.ac
 *.1337.cx
+*.16-b.it
 *.1cooldns.com
 *.1dumb.com
 *.2288.org
@@ -24,6 +25,7 @@
 *.2mydns.net
 *.2waky.com
 *.3-a.net
+*.32-b.it
 *.3322.net
 *.3322.org
 *.360digit.com
@@ -130,6 +132,7 @@
 *.bine.me
 *.birdriver.org
 *.biz.st
+*.biz.tm
 *.blacknapkins.org
 *.blinklab.com
 *.blizzie.net
@@ -137,6 +140,7 @@
 *.blogdns.net
 *.blogdns.org
 *.blogsite.org
+*.blogsite.xyz
 *.blogsyte.com
 *.bloodforthebloodgod.com
 *.bloom.us
@@ -494,6 +498,7 @@
 *.f-parts.net
 *.f3322.net
 *.f3322.org
+*.fagdns.com
 *.fairuse.org
 *.falcongreen.com
 *.fantasyleague.cc
@@ -1004,6 +1009,7 @@
 *.mypop3.net
 *.mypop3.org
 *.mypsx.net
+*.myq-see.com
 *.mysaol.com
 *.mysecondarydns.com
 *.mysecuritycamera.com
@@ -1019,6 +1025,7 @@
 *.myz.info
 *.n-e-t.name
 *.n0p.at
+*.n4t.co
 *.nard.ca
 *.naru.to
 *.nat-ddns.com
@@ -1456,6 +1463,7 @@
 *.vpntraki.com
 *.vpnx.nl
 *.vr.lt
+*.vxe6.net
 *.wakingmoon.com
 *.wanip.ch
 *.warp9computers.com

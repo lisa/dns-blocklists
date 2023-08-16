@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 7 days
-! Last modified: 10 Aug 2023 22:28 UTC
-! Version: 2023.0810.2228.34
+! Last modified: 15 Aug 2023 22:30 UTC
+! Version: 2023.0815.2230.45
 ! Syntax: AdBlock
-! Number of entries: 6892
+! Number of entries: 6901
 !
 ||zer0day.000webhostapp.com^
 ||0123456789nonexistent.com^
@@ -271,6 +271,7 @@
 ||ww8.5movierulz.vc^
 ||5movies.buzz^
 ||5movies.fm^
+||5movies.live^
 ||5movies.run^
 ||5movies.to^
 ||5moviesfree.net^
@@ -402,6 +403,7 @@
 ||alleenretail.org^
 ||allesanddro.de^
 ||allesender.de^
+||allfreeapk.com^
 ||allfreesoftware.org^
 ||allhd.tv^
 ||alliance4creativity.com^
@@ -496,6 +498,7 @@
 ||animelayer.ru^
 ||animelon.com^
 ||animemolecules.com^
+||animemoviespot.com^
 ||animencodes.com^
 ||animeout.xyz^
 ||animeow.me^
@@ -676,6 +679,7 @@
 ||azibtorrent.com^
 ||azm.to^
 ||azmovies.xyz^
+||azshare.info^
 ||b2s-share.com^
 ||b98.tv^
 ||baberepublic.com^
@@ -901,6 +905,7 @@
 ||blackhatprotools.net^
 ||blackhatprotools.org^
 ||blackphoenix.info^
+||blackrevolution.ro^
 ||tracker.blacksparrowmedia.net^
 ||blacktiesports.net^
 ||tracker.blackunicorn.xyz^
@@ -969,6 +974,8 @@
 ||bluewarez.pl^
 ||blutopia.xyz^
 ||bmitbd.com^
+||bmovies.is^
+||bmovies.nl^
 ||bmovies.vip^
 ||bms-hosxp.com^
 ||bmtorrents.net^
@@ -976,6 +983,7 @@
 ||bnet-bd.com^
 ||bnwmovies.com^
 ||boardscriptz.org^
+||boatairproxy.org^
 ||boatbay.club^
 ||bobbialbano.com^
 ||bobd.live^
@@ -4558,6 +4566,7 @@
 ||proxylisthere.com^
 ||proxypirate.pw^
 ||proxypirate.tk^
+||proxyportal.pw^
 ||proxyproxy.fi^
 ||proxyproxyproxyproxy.link^
 ||proxyrarbg.org^
