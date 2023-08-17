@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.dyndns. hostmaster.hagezi.dyndns. 1692138420 86400 3600 604800 30
+@ SOA rpz.hagezi.dyndns. hostmaster.hagezi.dyndns. 1692225000 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's DynDNS Blocklist
@@ -7,10 +7,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 15 Aug 2023 22:27 UTC
-; Version: 2023.0815.2227.46
+; Last modified: 16 Aug 2023 22:30 UTC
+; Version: 2023.0816.2230.29
 ; Syntax: RPZ
-; Number of entries: 3050
+; Number of entries: 3060
 ;
 120v.ac CNAME .
 *.120v.ac CNAME .
@@ -24,6 +24,8 @@ fedea.com.ar CNAME .
 *.fedea.com.ar CNAME .
 img.com.ar CNAME .
 *.img.com.ar CNAME .
+dns.army CNAME .
+*.dns.army CNAME .
 notici.as CNAME .
 *.notici.as CNAME .
 cloudns.asia CNAME .
@@ -638,6 +640,8 @@ fintech-llc.com CNAME .
 *.fintech-llc.com CNAME .
 fivepals.com CNAME .
 *.fivepals.com CNAME .
+flazzard.com CNAME .
+*.flazzard.com CNAME .
 flowergardendaycare.com CNAME .
 *.flowergardendaycare.com CNAME .
 foroemprende.com CNAME .
@@ -748,6 +752,8 @@ from-wy.com CNAME .
 *.from-wy.com CNAME .
 garmanage.com CNAME .
 *.garmanage.com CNAME .
+garypatel.com CNAME .
+*.garypatel.com CNAME .
 gastright.com CNAME .
 *.gastright.com CNAME .
 geekgalaxy.com CNAME .
@@ -844,6 +850,8 @@ imagetemplate.com CNAME .
 *.imagetemplate.com CNAME .
 imexsac.com CNAME .
 *.imexsac.com CNAME .
+imprendum.com CNAME .
+*.imprendum.com CNAME .
 innograph.com CNAME .
 *.innograph.com CNAME .
 instanthq.com CNAME .
@@ -1998,6 +2006,8 @@ coccimiglio.net CNAME .
 *.coccimiglio.net CNAME .
 computersforpeace.net CNAME .
 *.computersforpeace.net CNAME .
+ctproduction.net CNAME .
+*.ctproduction.net CNAME .
 cupddns.net CNAME .
 *.cupddns.net CNAME .
 custom-gaming.net CNAME .

@@ -7,8 +7,8 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 14 Aug 2023 22:28 UTC
-! Version: 2023.0814.2228.46
+! Last modified: 16 Aug 2023 22:37 UTC
+! Version: 2023.0816.2237.16
 ! Syntax: AdGuard
 !
 ||agency^$denyallow=battlefield.agency|baam.agency|robotzebra.agency|uphotel.agency|ws.agency
@@ -35,7 +35,7 @@
 ||foo^$denyallow=helloworld.foo
 ||fun^$denyallow=155.fun|20anime.fun|355.fun|955.fun|abyss.fun|apilist.fun|apkmody.fun|applemc.fun|bad2000.fun|bc.fun|bestgore.fun|bigtopmidway.fun|bmbl.fun|boba.fun|bqg.fun|centertown.fun|chrispelli.fun|crosshatch.fun|dedmoroz.fun|dramaserial.fun|dy18.fun|egybist.fun|enza.fun|ero-labs.online|ezone.fun|fafr.fun|federated.fun|fedi.fun|filmapik21.fun|fortnite.fun|gaggle.fun|globalwarming.fun|groupthink.fun|hoagie.fun|infosexy.fun|inspiredlife.fun|isohunt.fun|its2.fun|jp0id.fun|klik.fun|lasersare.fun|libgen.fun|likenews.fun|lordserial.fun|mastodon.fun|memesoundboard.fun|mh18.fun|movies21.fun|neal.fun|nelson.fun|nic.fun|noods.fun|oldmovies.fun|omglol.fun|orwell.fun|pawb.fun|phillips.fun|plutonews.fun|poketube.fun|porncum.fun|puz.fun|rikapimatome.fun|sakamichi.fun|sexhd.fun|solarmovie.fun|streampiay.fun|supercool.fun|sxgr.fun|team1x1.fun|terbit21.fun|thepiratebay-plus.strem.fun|tideswing.fun|toku.fun|uploding.fun|videosxxx.fun|vigoo.fun|wondertrip.fun|wug.fun|x-videos.fun|xxx-sex.fun
 ||fyi^$denyallow=lunar.fyi|iusearchlinux.fyi
-||*.gdn^
+||gdn^$denyallow=cst.gdn
 ||gq^$denyallow=inege.gq|tvgelive.gq|siteproxy.gq|blockly.gq
 ||guru^$denyallow=crontab.guru|jav.guru
 ||*.hair^

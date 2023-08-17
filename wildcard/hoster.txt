@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 15 Aug 2023 22:29 UTC
-# Version: 2023.0815.2229.16
+# Last modified: 16 Aug 2023 22:31 UTC
+# Version: 2023.0816.2231.59
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 2019
+# Number of entries: 2021
 #
 *.000a.de
 *.000space.com
@@ -580,6 +580,7 @@
 *.byethost.com
 *.byethost3.com
 *.byto.de
+*.bz.tc
 *.c.pl
 *.ca.gp
 *.cafeblog.hu
@@ -864,6 +865,7 @@
 *.europa.lc
 *.ev.de
 *.evc.net
+*.evenweb.com
 *.exactpages.com
 *.exblog.jp
 *.excite.it

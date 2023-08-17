@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.doh-vpn-proxy-bypass. hostmaster.hagezi.doh-vpn-proxy-bypass. 1692138240 86400 3600 604800 30
+@ SOA rpz.hagezi.doh-vpn-proxy-bypass. hostmaster.hagezi.doh-vpn-proxy-bypass. 1692224820 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Enyrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 15 Aug 2023 22:24 UTC
-; Version: 2023.0815.2224.39
+; Last modified: 16 Aug 2023 22:27 UTC
+; Version: 2023.0816.2227.58
 ; Syntax: RPZ
-; Number of entries: 4892
+; Number of entries: 4906
 ;
 vpn.ac CNAME .
 *.vpn.ac CNAME .
@@ -695,6 +695,8 @@ freedns.controld.com CNAME .
 *.freedns.controld.com CNAME .
 corecloak.com CNAME .
 *.corecloak.com CNAME .
+coverproxy.com CNAME .
+*.coverproxy.com CNAME .
 covertproxy.com CNAME .
 *.covertproxy.com CNAME .
 crashes-analysis.com CNAME .
@@ -831,6 +833,8 @@ emban-networks.com CNAME .
 *.emban-networks.com CNAME .
 dns.emiliyan.com CNAME .
 *.dns.emiliyan.com CNAME .
+emuby.com CNAME .
+*.emuby.com CNAME .
 epicbrowser.com CNAME .
 *.epicbrowser.com CNAME .
 ettego.com CNAME .
@@ -2819,6 +2823,8 @@ bestvpnprovider.info CNAME .
 *.bestvpnprovider.info CNAME .
 bestyoutubeproxy.info CNAME .
 *.bestyoutubeproxy.info CNAME .
+brazilproxy.info CNAME .
+*.brazilproxy.info CNAME .
 broadr.info CNAME .
 *.broadr.info CNAME .
 canadaproxy.info CNAME .
@@ -3175,6 +3181,8 @@ block.abstergo.it CNAME .
 *.block.abstergo.it CNAME .
 doh.ccb-net.it CNAME .
 *.doh.ccb-net.it CNAME .
+circumvent.it CNAME .
+*.circumvent.it CNAME .
 doh.luigi.nexific.it CNAME .
 *.doh.luigi.nexific.it CNAME .
 tor2web.it CNAME .
@@ -3665,6 +3673,8 @@ hidethisip.net CNAME .
 *.hidethisip.net CNAME .
 dns.hinet.net CNAME .
 *.dns.hinet.net CNAME .
+hiproxy.net CNAME .
+*.hiproxy.net CNAME .
 pihole1.hoerli.net CNAME .
 *.pihole1.hoerli.net CNAME .
 pihole2.hoerli.net CNAME .
@@ -4415,6 +4425,8 @@ bypass.pw CNAME .
 *.bypass.pw CNAME .
 proxy.eti.pw CNAME .
 *.proxy.eti.pw CNAME .
+franceproxy.pw CNAME .
+*.franceproxy.pw CNAME .
 freevpn.pw CNAME .
 *.freevpn.pw CNAME .
 govpn.pw CNAME .
@@ -4703,6 +4715,8 @@ frandcomfort.us CNAME .
 *.frandcomfort.us CNAME .
 freevpn.us CNAME .
 *.freevpn.us CNAME .
+freewebproxy.us CNAME .
+*.freewebproxy.us CNAME .
 gifttrees.us CNAME .
 *.gifttrees.us CNAME .
 gpreport.us CNAME .

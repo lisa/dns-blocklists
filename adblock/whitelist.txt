@@ -4812,3 +4812,10 @@
 ! Sky Decoder
 @@|metrics.sky.com^
 @@|analytics.global.sky.com^
+! https://github.com/hagezi/dns-blocklists/issues/1436
+@@|stats.controld.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/1438
+@@|costco-tracking.getconvey.com^
+@@|freighttracking.costco.com^
+

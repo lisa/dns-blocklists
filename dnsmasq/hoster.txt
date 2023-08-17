@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 15 Aug 2023 22:29 UTC
-# Version: 2023.0815.2229.16
+# Last modified: 16 Aug 2023 22:31 UTC
+# Version: 2023.0816.2231.59
 # Syntax: DNSMasq
-# Number of entries: 2019
+# Number of entries: 2021
 #
 address=/000a.de/#
 address=/000space.com/#
@@ -580,6 +580,7 @@ address=/byet.host/#
 address=/byethost.com/#
 address=/byethost3.com/#
 address=/byto.de/#
+address=/bz.tc/#
 address=/c.pl/#
 address=/ca.gp/#
 address=/cafeblog.hu/#
@@ -864,6 +865,7 @@ address=/euro.lc/#
 address=/europa.lc/#
 address=/ev.de/#
 address=/evc.net/#
+address=/evenweb.com/#
 address=/exactpages.com/#
 address=/exblog.jp/#
 address=/excite.it/#
