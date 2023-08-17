@@ -1,13 +1,13 @@
 ### Statistics
 #### LIGHT
 ```
-548330 (95%) included | 878 (0%) removed | 27499 (5%) dead
+543118 (95%) included | 878 (0%) removed | 27065 (5%) dead
 
  Nr | Included | Dead | Removed |   Count | URL/File
-  1 |     100% |   0% |      0% |   49514 | Personal
+  1 |     100% |   0% |      0% |   49541 | Personal
   2 |      61% |   5% |     34% |     154 | Personal Wildcard Rules
-  3 |     100% |   0% |      0% |   16248 | Fake
-  4 |     100% |   0% |      0% |     818 | Threat Intelligence Feeds Light
+  3 |     100% |   0% |      0% |   13873 | Fake
+  4 |     100% |   0% |      0% |     503 | Threat Intelligence Feeds Light
   5 |      72% |  27% |      1% |    8912 | Analytics/Metrics Extension
   6 |     100% |   0% |      0% |      18 | Native Tracker Apple (iOS, macOS, tvOS)
   7 |      72% |   0% |     28% |     258 | Native Tracker Amazon (Devices, Shopping, Video)
@@ -20,13 +20,13 @@
 ```
 #### MULTI
 ```
-857322 (89%) included | 14720 (2%) removed | 92800 (10%) dead
+844595 (89%) included | 14724 (2%) removed | 86262 (9%) dead
 
  Nr | Included | Dead | Removed |   Count | URL/File
-  1 |     100% |   0% |      0% |  548330 | Predecessor: Multi Light
-  2 |     100% |   0% |      0% |   49514 | Personal
+  1 |     100% |   0% |      0% |  543118 | Predecessor: Multi Light
+  2 |     100% |   0% |      0% |   49541 | Personal
   3 |      61% |   5% |     34% |     154 | Personal Wildcard Rules
-  4 |     100% |   0% |      0% |   16248 | Fake
+  4 |     100% |   0% |      0% |   13873 | Fake
   5 |      72% |  27% |      1% |    8912 | Analytics/Metrics Extension
   6 |     100% |   0% |      0% |      18 | Native Tracker Apple (iOS, macOS, tvOS)
   7 |      72% |   0% |     28% |     258 | Native Tracker Amazon (Devices, Shopping, Video)
@@ -39,19 +39,19 @@
  14 |      81% |  10% |      9% |  107790 | AdGuard FirstParty (DNS, Base, International, Annoyances, Mobile, Spyware, Social)
  15 |      83% |  13% |      4% |   88834 | EasyList FirstParty (List, Privacy, Interanational, Annoyances, FanBoy, AntiAdBlock, AntiCV)
  16 |      92% |   8% |      0% |    3090 | uBlock FirstParty (Filters, Annoyances, Badware, Privacy, Resource Abuse)
- 17 |     100% |   0% |      0% |   72937 | Threat Intelligence Feeds Medium
+ 17 |     100% |   0% |      0% |   72092 | Threat Intelligence Feeds Medium
  18 |     100% |   0% |      0% |   81769 | Popupads Extension
  19 |      93% |   0% |      7% |  155965 | Balanced Extension
 ```
 #### PRO
 ```
-1016976 (91%) included | 6358 (1%) removed | 96931 (9%) dead
+1034206 (91%) included | 6362 (1%) removed | 95219 (8%) dead
 
  Nr | Included | Dead | Removed |   Count | URL/File
-  1 |     100% |   0% |      0% |  857322 | Predecessor: Multi Normal
-  2 |     100% |   0% |      0% |   49514 | Personal
+  1 |     100% |   0% |      0% |  844595 | Predecessor: Multi Normal
+  2 |     100% |   0% |      0% |   49541 | Personal
   3 |      63% |   5% |     32% |     154 | Personal Wildcard Rules
-  4 |     100% |   0% |      0% |   16248 | Fake
+  4 |     100% |   0% |      0% |   13873 | Fake
   5 |      72% |  27% |      1% |    8912 | Analytics/Metrics Extension
   6 |     100% |   0% |      0% |      18 | Native Tracker Apple (iOS, macOS, tvOS)
   7 |      99% |   0% |      1% |     258 | Native Tracker Amazon (Devices, Shopping, Video)
@@ -64,7 +64,7 @@
  14 |      89% |  10% |      1% |  107790 | AdGuard FirstParty (DNS, Base, International, Annoyances, Mobile, Spyware, Social)
  15 |      83% |  13% |      4% |   88834 | EasyList FirstParty (List, Privacy, Interanational, Annoyances, FanBoy, AntiAdBlock, AntiCV)
  16 |      92% |   8% |      0% |    3090 | uBlock FirstParty (Filters, Annoyances, Badware, Privacy, Resource Abuse)
- 17 |     100% |   0% |      0% |   72937 | Threat Intelligence Feeds Medium
+ 17 |     100% |   0% |      0% |   72092 | Threat Intelligence Feeds Medium
  18 |     100% |   0% |      0% |   81769 | Popupads Extension
  19 |      99% |   0% |      1% |  155965 | Balanced Extension
  20 |      78% |  12% |     10% |    5548 | Tracking Extension
@@ -72,13 +72,13 @@
 ```
 #### PRO.PLUS
 ```
-1123503 (89%) included | 6868 (1%) removed | 126855 (10%) dead
+1140273 (90%) included | 6879 (1%) removed | 125083 (10%) dead
 
  Nr | Included | Dead | Removed |   Count | URL/File
-  1 |     100% |   0% |      0% | 1016976 | Predecessor: Multi Pro
-  2 |     100% |   0% |      0% |   49514 | Personal
+  1 |     100% |   0% |      0% | 1034206 | Predecessor: Multi Pro
+  2 |     100% |   0% |      0% |   49541 | Personal
   3 |      74% |   5% |     21% |     154 | Personal Wildcard Rules
-  4 |     100% |   0% |      0% |   16248 | Fake
+  4 |     100% |   0% |      0% |   13873 | Fake
   5 |      72% |  27% |      1% |    8912 | Analytics/Metrics Extension
   6 |     100% |   0% |      0% |      18 | Native Tracker Apple (iOS, macOS, tvOS)
   7 |      99% |   0% |      1% |     258 | Native Tracker Amazon (Devices, Shopping, Video)
@@ -88,7 +88,7 @@
  11 |      79% |   0% |     21% |     122 | Native Tracker Microsoft (Windows, Office, MSN)
  12 |      96% |   3% |      1% |    6888 | Denylist Base
  13 |     100% |   0% |      0% |    2430 | Basic Extension
- 14 |     100% |   0% |      0% |   72937 | Threat Intelligence Feeds Medium
+ 14 |     100% |   0% |      0% |   72092 | Threat Intelligence Feeds Medium
  15 |     100% |   0% |      0% |   81769 | Popupads Extension
  16 |      99% |   0% |      1% |  155965 | Balanced Extension
  17 |      78% |  12% |     10% |    5548 | Tracking Extension
@@ -101,13 +101,13 @@
 ```
 #### ULTIMATE
 ```
-1480841 (91%) included | 3443 (0%) removed | 145340 (9%) dead
+1434566 (91%) included | 3448 (0%) removed | 141217 (9%) dead
 
  Nr | Included | Dead | Removed |   Count | URL/File
-  1 |     100% |   0% |      0% | 1123503 | Predecessor: Multi Pro++
-  2 |     100% |   0% |      0% |   49514 | Personal
+  1 |     100% |   0% |      0% | 1140273 | Predecessor: Multi Pro++
+  2 |     100% |   0% |      0% |   49541 | Personal
   3 |      83% |   5% |     12% |     154 | Personal Wildcard Rules
-  4 |     100% |   0% |      0% |   16248 | Fake
+  4 |     100% |   0% |      0% |   13873 | Fake
   5 |      72% |  27% |      1% |    8912 | Analytics/Metrics Extension
   6 |     100% |   0% |      0% |      18 | Native Tracker Apple (iOS, macOS, tvOS)
   7 |      99% |   0% |      1% |     258 | Native Tracker Amazon (Devices, Shopping, Video)
@@ -128,7 +128,7 @@
  22 |     100% |   0% |      0% |       9 | META Graph Tracker (Facebook, Instagram)
  23 |      83% |  15% |      2% |   38409 | Ads/Tracking Extension
  24 |     100% |   0% |      0% |     383 | Native Tracker TikTok Extended (Fingerprinting)
- 25 |     100% |   0% |      0% |  158460 | Threat Intelligence Feeds Normal
+ 25 |     100% |   0% |      0% |  123681 | Threat Intelligence Feeds Normal
  26 |     100% |   0% |      0% |  261053 | Ultimate Extension
  27 |      90% |   0% |     10% |    3316 | Denylist Compression Optimisation
 ```

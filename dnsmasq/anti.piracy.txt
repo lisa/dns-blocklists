@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 16 Aug 2023 22:33 UTC
-# Version: 2023.0816.2233.26
+# Last modified: 17 Aug 2023 08:01 UTC
+# Version: 2023.0817.0801.38
 # Syntax: DNSMasq
-# Number of entries: 6928
+# Number of entries: 6936
 #
 address=/zer0day.000webhostapp.com/#
 address=/0123456789nonexistent.com/#
@@ -1338,6 +1338,7 @@ address=/hkonline.com.bd/#
 address=/hox.com.br/#
 address=/icc.com.bd/#
 address=/k1.com.br/#
+address=/kloud.com.bd/#
 address=/movies-watch.com.pk/#
 address=/nagordola.com.bd/#
 address=/tracker.nartlof.com.br/#
@@ -2915,6 +2916,7 @@ address=/itera.bz/#
 address=/itmn.org/#
 address=/itnetzone.com/#
 address=/itoma.info/#
+address=/itorrent.io/#
 address=/itorrent.tv/#
 address=/itorrent.ws/#
 address=/itorrents.org/#
@@ -2978,6 +2980,7 @@ address=/joytorrent.com/#
 address=/jpdf4share.com/#
 address=/jpopsuki.eu/#
 address=/jsb.by/#
+address=/jshdtv.cn/#
 address=/jstorrent.com/#
 address=/juegostorrentpc.net/#
 address=/july25.com/#
@@ -3345,6 +3348,7 @@ address=/m4uhd.com/#
 address=/m4uhd.tv/#
 address=/tk.mabo.ltd/#
 address=/mabula.net/#
+address=/mac-torrents.cc/#
 address=/mac-torrents.com/#
 address=/mac-torrents.io/#
 address=/macappstorrent.com/#
@@ -3549,6 +3553,7 @@ address=/moe4sale.in/#
 address=/tracker.moeblog.cn/#
 address=/tracker.moecat.best/#
 address=/tracker.moeking.me/#
+address=/moeweb.pw/#
 address=/mohmo.net/#
 address=/mojaloss.net/#
 address=/mojaloss.stream/#
@@ -3619,6 +3624,7 @@ address=/moviekids.tv/#
 address=/movieking.cc/#
 address=/movielabor.com/#
 address=/moviemagnet.co/#
+address=/moviemaya.com/#
 address=/moviemela.live/#
 address=/movieminions.cc/#
 address=/movienoe.com/#
@@ -3761,6 +3767,7 @@ address=/murmurs.com/#
 address=/musgle.com/#
 address=/music-torrent.net/#
 address=/music-vid.com/#
+address=/musicatube.net/#
 address=/musichq.net/#
 address=/musicneeds.com/#
 address=/musicpleer.cloud/#
@@ -3777,6 +3784,7 @@ address=/my-free-mp3.cc/#
 address=/my-gamebox.com/#
 address=/myanonamouse.net/#
 address=/myauto.to/#
+address=/mybadbits.org/#
 address=/mybayprox.eu/#
 address=/mybdix.com/#
 address=/mybdplex.com/#

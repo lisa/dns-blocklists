@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 Aug 2023 23:56 UTC
-# Version: 2023.0816.2356.27
+# Last modified: 17 Aug 2023 08:05 UTC
+# Version: 2023.0817.0805.30
 # Syntax: Domains (without subdomains)
-# Number of entries: 49514
+# Number of entries: 49541
 #
 0008d6ba2e.com
 000space.com
@@ -1772,6 +1772,7 @@ enterpriseresearch.ac.uk
 iainsorong.ac.id
 imit.ac.in
 kanlayanee.ac.th
+ln.ac.th
 mite.ac.in
 metrics.nhm.ac.uk
 smetrics.nottingham.ac.uk
@@ -6466,6 +6467,7 @@ usp1.baidu.com
 stat.v.baidu.com
 wkctj.baidu.com
 zhanzhang.baidu.com
+mountain.zhidao.baidu.com
 river.zhidao.baidu.com
 znsv.baidu.com
 baidu-image-qqcom.com
@@ -7398,7 +7400,6 @@ biptolyla.com
 t.birchlane.com
 api-analytics.prod.birdapp.com
 stats.birgun.net
-birikina.it
 birkenstock-ca.com
 bis8j.com
 biscussexbug.xyz
@@ -25379,6 +25380,7 @@ itespurrom.com
 rabc1.iteye.com
 rabc2.iteye.com
 itgear.jp
+itiiuan.in
 itim.vn
 itineraryborn.com
 itineraryupper.com
@@ -25426,6 +25428,7 @@ iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
 iutur-ixp.com
 ivanie.com
 tracking.info.ivanti.com
+ivaserivaseeer.biz
 logger.ivi.ru
 p-events.ivideosmart.com
 ivitrack.com
@@ -25707,6 +25710,7 @@ jfjrcewoqm.com
 statistics.jfmedier.dk
 jfoaxwbatlic.com
 jfpfpmd.net
+jguery.online
 jh16csf.com
 jhanna.net
 jhfhdkhkh.site
@@ -25729,6 +25733,7 @@ jiape.cyou
 v3.jiathis.com
 jibaeolia.com
 analytics.jibecdn.com
+jica-go-jp.biz
 jicypigra.com
 jiedaibao.com
 ad.jiemian.com
@@ -25737,6 +25742,7 @@ jighucme.com
 jignairy.com
 jiguang.cn
 jijilida.com
+jilarohtas.com
 jillsclickcorner.com
 jimalae.com
 jimlowry.com
@@ -25769,6 +25775,7 @@ jjipogp.com
 jjkiahh.icu
 jjklrcw.com
 jjkwrqjklaaqa.top
+jjlgbyd.in
 jjmitsd.com
 jjnctjd.com
 analytics.jjshouse.com
@@ -25870,6 +25877,7 @@ joltidiotichighest.com
 joltouch.net
 joltperforming.com
 jomtingi.net
+jonausa.com
 joodoush.com
 jookaureate.com
 jookouky.net
@@ -26137,6 +26145,7 @@ kabuut.com
 data-a351401692.kachelmannwetter.com
 kadam.net
 tracking.kadewe.de
+kadimal.co
 kadisse.com
 kadwnhhistoli.xyz
 smetrics.kaercher.com
@@ -26198,6 +26207,7 @@ kami-ch.com
 kaminari.click
 kamost.com
 udc-neb.kampyle.com
+kanavagronomy.in
 kaneirrigation.com
 kangaroohiccups.com
 kanoodle.com
@@ -26487,7 +26497,9 @@ kingskillz.ru
 abroad-ad.kingsoft-office-service.com
 cloudservice22.kingsoft-office-service.com
 kingteeshops.com
+kingtexs-tvv.com
 kingtrck1.com
+kingyonlendir.link
 logging.kinhtedothi.vn
 kinkadservercdn.com
 data-5a40478bd4.kino.de
@@ -26942,12 +26954,15 @@ kuyhaa.cc
 kuyhaa-me.pw
 kvaaa.com
 kvcd7w375h.ru
+kveff.com
 kveii.com
 kvemm.com
 kvevv.com
 kveww.com
 kvezz.com
+kvhcc.com
 kvhee.com
+kvhnn.com
 tdep.kvk.nl
 kvkaa.com
 kvtaaa.top
@@ -27232,6 +27247,7 @@ aff-policy.lbesecapi.com
 aff-report.lbesecapi.com
 events.lbesecapi.com
 psi.lbesecapi.com
+lbjg7.com
 lbkalko.com
 lbljgxy.cc
 lby2kd27c.com
@@ -27389,6 +27405,7 @@ legreeft.xyz
 lehebraverooper.xyz
 sentry-01.lehrermarktplatz.de
 leiasedofold.xyz
+leibqdu.in
 leiki.com
 leisureinhibitdepartment.com
 leisurelyparoleexcitedly.com
@@ -27486,6 +27503,7 @@ leudsshikses.guru
 leukemianarrow.com
 levabing.com
 levajarool.com
+levcrypto.com
 level1cdn.com
 api.levelaccess.net
 levelbash.com
@@ -27728,6 +27746,7 @@ link-medias.com
 link-target.net
 track.link-tds.com
 link5view.com
+linkads.me
 linkangood.com
 linkbax.com
 linkbolic.com
@@ -27741,6 +27760,7 @@ ads.linkedin.com
 mid4.linkedin.com
 analytics.pointdrive.linkedin.com
 linkedin-ei.biz
+linkedopports.com
 linker.ba
 linker.bg
 linker.hr
@@ -27754,6 +27774,7 @@ linkgrand.com
 linkis.com
 l.linklyhq.com
 linkmepu.com
+linkmyc.com
 linkoffers.net
 linkonclick.com
 linkpartners.com
@@ -28409,6 +28430,7 @@ lurgaimt.net
 lurgaush.net
 luronews.com
 lusaisso.com
+lusciniar.online
 lustickmiasmic.com
 lustrous-cheek.com
 luuming.com
@@ -29247,6 +29269,7 @@ ssl.o.medicinenet.com
 elqtracking.medidata.com
 mediego.com
 matomonuedigi.mediendesign.de
+medienparadies.com
 log.medietall.no
 medio.com
 lightstep.medium.systems
@@ -30416,6 +30439,7 @@ mrtnsvr.com
 mryjufahpvik.com
 mryshl.com
 aka.ms-ads.co
+ms-sys-security.com
 msads.net
 tk.msccruises.com
 mschosting.com
@@ -30570,6 +30594,7 @@ musicalglutton.com
 musicinmysoul.biz
 musik-mp3.info
 data-99329e3cb2.musikexpress.de
+musinmymind.biz
 ffrmwn.musinsa.com
 tracking.musixmatch.com
 musmentportal.com
@@ -30784,6 +30809,7 @@ myprivatephotoalbum.top
 myprivatesearch.com
 marketing.mypureradiance.com
 myquicksearch.com
+myrappid.com
 tracking.myregus.com
 pg.myrepi.com
 myreqdcompany.com
@@ -38899,6 +38925,7 @@ scavelbuntine.life
 news.scbiznews.com
 sccpnd.xyz
 smetrics.sce.com
+scene7goal3.work
 scenepass.com
 scenespathreconciliation.com
 scenistgracy.life

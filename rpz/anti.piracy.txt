@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1692225180 86400 3600 604800 30
+@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1692259260 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 16 Aug 2023 22:33 UTC
-; Version: 2023.0816.2233.26
+; Last modified: 17 Aug 2023 08:01 UTC
+; Version: 2023.0817.0801.38
 ; Syntax: RPZ
-; Number of entries: 13856
+; Number of entries: 13872
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -206,6 +206,8 @@ hkonline.com.bd CNAME .
 *.hkonline.com.bd CNAME .
 icc.com.bd CNAME .
 *.icc.com.bd CNAME .
+kloud.com.bd CNAME .
+*.kloud.com.bd CNAME .
 nagordola.com.bd CNAME .
 *.nagordola.com.bd CNAME .
 netpoint.com.bd CNAME .
@@ -650,6 +652,8 @@ tp.m-team.cc CNAME .
 *.tp.m-team.cc CNAME .
 tracker.m-team.cc CNAME .
 *.tracker.m-team.cc CNAME .
+mac-torrents.cc CNAME .
+*.mac-torrents.cc CNAME .
 movcr.cc CNAME .
 *.movcr.cc CNAME .
 movie4u.cc CNAME .
@@ -1048,6 +1052,8 @@ hdbits.cn CNAME .
 *.hdbits.cn CNAME .
 tracker.hiyj.cn CNAME .
 *.tracker.hiyj.cn CNAME .
+jshdtv.cn CNAME .
+*.jshdtv.cn CNAME .
 tracker.loligirl.cn CNAME .
 *.tracker.loligirl.cn CNAME .
 tracker.moeblog.cn CNAME .
@@ -3554,6 +3560,8 @@ moviejesus.com CNAME .
 *.moviejesus.com CNAME .
 movielabor.com CNAME .
 *.movielabor.com CNAME .
+moviemaya.com CNAME .
+*.moviemaya.com CNAME .
 movienoe.com CNAME .
 *.movienoe.com CNAME .
 movieorca.com CNAME .
@@ -6722,6 +6730,8 @@ tracker.ipfsscan.io CNAME .
 *.tracker.ipfsscan.io CNAME .
 isohunt.io CNAME .
 *.isohunt.io CNAME .
+itorrent.io CNAME .
+*.itorrent.io CNAME .
 kinox.io CNAME .
 *.kinox.io CNAME .
 letsupload.io CNAME .
@@ -8600,6 +8610,8 @@ muhammadniaz.net CNAME .
 *.muhammadniaz.net CNAME .
 music-torrent.net CNAME .
 *.music-torrent.net CNAME .
+musicatube.net CNAME .
+*.musicatube.net CNAME .
 musichq.net CNAME .
 *.musichq.net CNAME .
 my-cinema.net CNAME .
@@ -10306,6 +10318,8 @@ mp4hdmovies.org CNAME .
 *.mp4hdmovies.org CNAME .
 mvgroup.org CNAME .
 *.mvgroup.org CNAME .
+mybadbits.org CNAME .
+*.mybadbits.org CNAME .
 mybite.org CNAME .
 *.mybite.org CNAME .
 f4cineplex.myftp.org CNAME .
@@ -11238,6 +11252,8 @@ leechinghell.pw CNAME .
 *.leechinghell.pw CNAME .
 mlwbd.pw CNAME .
 *.mlwbd.pw CNAME .
+moeweb.pw CNAME .
+*.moeweb.pw CNAME .
 myflixer.pw CNAME .
 *.myflixer.pw CNAME .
 tr.nyacat.pw CNAME .
