@@ -6,8 +6,8 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 17 Aug 2023 22:38 UTC
-! Version: 2023.0817.2238.07
+! Last modified: 18 Aug 2023 07:13 UTC
+! Version: 2023.0818.0713.40
 ! Syntax: AdBlock
 !
 ||agency^
