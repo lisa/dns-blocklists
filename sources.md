@@ -499,6 +499,7 @@ https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-mand
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-matomo.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-mcafee.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-microsoft.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-misc.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-orangecyber.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-orangelog4shell.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-personal.txt
@@ -513,6 +514,7 @@ https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-tag.
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-trendmicro.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-unit42-playbook.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-unit42-silverterrier.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-various.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-yarix.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-yoroi.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-zscaler.txt

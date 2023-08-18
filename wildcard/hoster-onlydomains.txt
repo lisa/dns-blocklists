@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 16 Aug 2023 22:31 UTC
-# Version: 2023.0816.2231.59
+# Last modified: 17 Aug 2023 22:32 UTC
+# Version: 2023.0817.2232.46
 # Syntax: Domains (without subdomains)
-# Number of entries: 2021
+# Number of entries: 2024
 #
 000a.de
 000space.com
@@ -1205,6 +1205,7 @@ kulichki.ru
 kunin-soutez.cz
 kunz-modeundmehr.de
 kurakova.pl
+kurzschliessen.de
 kylieblog.com
 kz.gp
 l.gp
@@ -1288,6 +1289,7 @@ mihanblog.com
 mindmix.ru
 mindnmagick.com
 mit-wenig-geld.de
+mobi.ps
 mochahost.com
 mojezkusenostsinvisalign.cz
 monika-koeppes-welt.de
@@ -1460,6 +1462,7 @@ pantheonsite.io
 papybio.fr
 parknhost.com
 parsiblog.com
+party.lc
 pc.lc
 pcdn.co
 pclandes.fr

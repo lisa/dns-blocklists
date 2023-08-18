@@ -7,8 +7,8 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 16 Aug 2023 22:37 UTC
-! Version: 2023.0816.2237.16
+! Last modified: 17 Aug 2023 22:38 UTC
+! Version: 2023.0817.2238.07
 ! Syntax: uBlock
 !
 ||agency^$doc,domain=~battlefield.agency|~baam.agency|~robotzebra.agency|~uphotel.agency|~ws.agency
@@ -54,7 +54,7 @@
 ||ooo^$doc,domain=~toast.ooo
 ||phd^$doc,domain=~rafael.phd
 ||prof^$doc,domain=~casey.prof
-||pw^$doc,domain=~libgen.pw|~petridish.pw|~palaugov.pw|~dpc.pw|~buttercup.pw|~rezka.pw|~darkcrystal.pw|~xor.pw|~fullhdfilmizlesene.pw|~gopass.pw|~vost.pw|~core.pw|~bittor.pw|~plutonium.pw|~nitter.pw
+||pw^$doc,domain=~libgen.pw|~petridish.pw|~palaugov.pw|~dpc.pw|~buttercup.pw|~rezka.pw|~darkcrystal.pw|~xor.pw|~fullhdfilmizlesene.pw|~gopass.pw|~vost.pw|~core.pw|~bittor.pw|~plutonium.pw|~nitter.pw|~kge.pw
 ||quest^$doc,domain=~0x00.quest|~amble.quest|~bookshelf.quest|~dice.quest|~dont-panic.quest|~epochal.quest|~federation.quest|~galaxy.quest|~mylegendary.quest|~nic.quest|~prometheus.quest|~squash.quest|~teacher.quest|~theculture.quest|~toot.quest
 ||rest^$doc,domain=~crystals.rest
 ||review^$doc

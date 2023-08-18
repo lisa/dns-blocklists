@@ -49,11 +49,11 @@
 #### ***Multi blocklist version and size overview:***
 | Version | Domains<br>Compressed | Pro++ | Pro | Normal | Light | [Fake](#fake) | [TIF](#tif) | [Personal](#personal) | [Native](#native) |
 |:--------|---:|:------:|:-----:|:----:|:----:|:---:|:------:|:----------:|:----------:|
-| [Light](#light)             | 543118<br>69133     |  |   |   |  | :green_circle: | :yellow_square: | :green_circle: | :yellow_square: |
-| [Normal](#normal)       | 844595<br>259857     |  |   |  | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :yellow_square: |
-| [Pro](#pro)              | 1034206<br>370812         |  |  | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :yellow_square: |
-| [Pro++](#proplus)    | 1140273<br>396398 |  | :green_circle: | :green_circle: | :green_circle: | :green_circle: |:yellow_square: | :green_circle: | :yellow_square: |
-| [Ultimate](#ultimate)    | 1434566<br>433785 | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :green_circle: |
+| [Light](#light)             | 530266<br>69304     |  |   |   |  | :green_circle: | :yellow_square: | :green_circle: | :yellow_square: |
+| [Normal](#normal)       | 828316<br>229299     |  |   |  | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :yellow_square: |
+| [Pro](#pro)              | 1014749<br>338233         |  |  | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :yellow_square: |
+| [Pro++](#proplus)    | 1088259<br>352046 |  | :green_circle: | :green_circle: | :green_circle: | :green_circle: |:yellow_square: | :green_circle: | :yellow_square: |
+| [Ultimate](#ultimate)    | 1411308<br>408944 | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :green_circle: |
            
 :green_circle: contains the list named in the column caption       
 :yellow_square: partially contains the list named in the column caption       
@@ -64,7 +64,7 @@
       
 *Hand brush - Cleans the Internet and protects your privacy! Blocks Ads, Tracking, Metrics, some Malware and Fake.*
           
-**Entries:** *543118 domains/hosts - 69133 compressed domains*                    
+**Entries:** *530266 domains/hosts - 69304 compressed domains*                    
          
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -82,7 +82,7 @@
       
 *Broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other "Crap".*
          
-**Entries:** *844595 domains/hosts - 259857 compressed domains*                   
+**Entries:** *828316 domains/hosts - 229299 compressed domains*                   
           
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -99,7 +99,7 @@
       
 *Big broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other "Crap".*
          
-**Entries:** *1034206 domains/hosts - 370812 compressed domains*                   
+**Entries:** *1014749 domains/hosts - 338233 compressed domains*                   
            
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -118,7 +118,7 @@
          
 *More aggressive version of the Multi PRO blocklist. It may contain few false positive domains that limit functionality. Therefore it should only be used by experienced users. Furthermore, an admin should be available to unblock incorrectly blocked domains. Reported false positive domains will be removed from the list!*
 
-**Entries:** *1140273 domains/hosts - 396398 compressed domains*               
+**Entries:** *1088259 domains/hosts - 352046 compressed domains*               
                                                 
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -139,7 +139,7 @@
          
 ***NOTE:*** *META graph trackers are blocked in Ultimate. This restricts the use of Facebook/Instagram and Facebook Messenger. To use Facebook/Instagram with Ultimate, unblock the following domains: [META Tracker](https://raw.githubusercontent.com/hagezi/dns-data-collection/main/share/facebook.txt)*
        
-**Entries:** *1434566 domains/hosts - 433785 compressed domains*               
+**Entries:** *1411308 domains/hosts - 408944 compressed domains*               
                                                 
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -165,7 +165,7 @@
 
 :green_circle: yes :yellow_square: partially :x: no
 		
-**Entries:** *13873 compressed domains*           
+**Entries:** *14006 compressed domains*           
        
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -189,7 +189,7 @@
 
 :green_circle: yes :yellow_square: partially :x: no
               		
-**Entries:** *1262090 domains/hosts - 738090 compressed domains*           
+**Entries:** *1306354 domains/hosts - 761958 compressed domains*           
          
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -220,7 +220,7 @@
 
 :green_circle: yes :yellow_square: partially :x: no
 		
-**Entries:** *2453 compressed domains*           
+**Entries:** *2458 compressed domains*           
             
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -267,7 +267,7 @@
 
 :green_circle: yes :yellow_square: partially :x: no
 		
-**Entries:** *264 compressed domains*                     
+**Entries:** *265 compressed domains*                     
             
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -291,7 +291,7 @@
 
 :green_circle: yes :yellow_square: partially :x: no
 		
-**Entries:** *1530 compressed domains*                     
+**Entries:** *1531 compressed domains*                     
             
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -315,7 +315,7 @@
 
 :green_circle: yes :yellow_square: partially :x: no
 		
-**Entries:** *2021 compressed domains*                     
+**Entries:** *2024 compressed domains*                     
             
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -359,7 +359,7 @@
 
 :green_circle: yes :yellow_square: partially :x: no
 		
-**Entries:** *6936 compressed domains*                     
+**Entries:** *6955 compressed domains*                     
             
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -383,7 +383,7 @@
 
 :green_circle: yes :yellow_square: partially :x: no
 		
-**Entries:** *168177 compressed domains*                     
+**Entries:** *168245 compressed domains*                     
             
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -407,7 +407,7 @@
 
 :green_circle: yes :yellow_square: partially :x: no
 		
-**Entries:** *49541 compressed domains*                    
+**Entries:** *49625 compressed domains*                    
        
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -472,13 +472,13 @@ Therefore, I* ***additionally*** *recommend the use of a browser content blocker
 
 ### ***RethinkDNS - free*** <a name="rethinkdns"></a>
 
-*In [RethinkDNS](https://rethinkdns.com) you can use my light, multi, pro, pro++, ultimate and tif list.*
+*In [RethinkDNS](https://rethinkdns.com) you can use my light, normal, pro, pro++, ultimate and tif list.*
 
 | Blocklists | DNS-over-HTTPS | DNS-over-TLS | Apple Mobileconfig |
 |:-----------|:---------------|:-------------|:-------------------|
-| Normal (PRO + TIF)  | `https://sky.rethinkdns.com/1:AAoACBAA` | `1-aafaacaqaa.max.rethinkdns.com` | [Visit](https://sky.rethinkdns.com/1:AAoACBAA) and click on the red apple  |
-| Aggressive (PRO plus + TIF) | `https://sky.rethinkdns.com/1:AAoACAgA` | `1-aafaacaiaa.max.rethinkdns.com` | [Visit](https://sky.rethinkdns.com/1:AAoACAgA) and click on the red apple |
-| Strikt (ULTIMATE) | `https://sky.rethinkdns.com/1:gAAAQA==` | `1-qaaaaqa.max.rethinkdns.com` | [Visit](https://sky.rethinkdns.com/1:gAAAQA==) and click on the red apple |
+| PRO + TIF  | `https://sky.rethinkdns.com/1:AAoACBAA` | `1-aafaacaqaa.max.rethinkdns.com` | [Visit](https://sky.rethinkdns.com/1:AAoACBAA) and click on the red apple  |
+| PRO plus + TIF | `https://sky.rethinkdns.com/1:AAoACAgA` | `1-aafaacaiaa.max.rethinkdns.com` | [Visit](https://sky.rethinkdns.com/1:AAoACAgA) and click on the red apple |
+| ULTIMATE | `https://sky.rethinkdns.com/1:gAAAQA==` | `1-qaaaaqa.max.rethinkdns.com` | [Visit](https://sky.rethinkdns.com/1:gAAAQA==) and click on the red apple |
             
 ### ***DNSforge (Germany) - free*** <a name="dnsforge"></a>
 
@@ -486,15 +486,15 @@ Therefore, I* ***additionally*** *recommend the use of a browser content blocker
 
 | Blocklists | DNS-over-HTTPS | DNS-over-TLS | DNS-over-QUIC |
 |:-----------|:---------------|:-------------|:-------------------|
-| Normal (LIGHT + more) | `https://dnsforge.de/dns-query` | `dnsforge.de` | `quic://dnsforge.de:853`  |
+| LIGHT + more | `https://dnsforge.de/dns-query` | `dnsforge.de` | `quic://dnsforge.de:853`  |
             
 ### ***DNSwarden - free*** <a name="dnswarden"></a>
 
-*In [DNSwarden](https://dnswarden.com/customfilter.html) you can use my light, multi, pro, pro++, ultimate and tif list.*
+*In [DNSwarden](https://dnswarden.com/customfilter.html) you can use my light, normal, pro, pro++, ultimate and tif list.*
             
 ### ***AdGuardDNS - limited free/paid*** <a name="adguarddns"></a>        
           
-*In [AdGuardDNS](https://adguard-dns.io) you can use my Multi normal list*          
+*In [AdGuardDNS](https://adguard-dns.io) you can use my Multi normal, tif, gambling and anti piracy list.*          
           
 ### ***ControlD - free/paid*** <a name="controld"></a>
 

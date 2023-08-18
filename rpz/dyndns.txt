@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.dyndns. hostmaster.hagezi.dyndns. 1692225000 86400 3600 604800 30
+@ SOA rpz.hagezi.dyndns. hostmaster.hagezi.dyndns. 1692311460 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's DynDNS Blocklist
@@ -7,10 +7,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 16 Aug 2023 22:30 UTC
-; Version: 2023.0816.2230.29
+; Last modified: 17 Aug 2023 22:31 UTC
+; Version: 2023.0817.2231.13
 ; Syntax: RPZ
-; Number of entries: 3060
+; Number of entries: 3062
 ;
 120v.ac CNAME .
 *.120v.ac CNAME .
@@ -1014,6 +1014,8 @@ laketahoesue.com CNAME .
 *.laketahoesue.com CNAME .
 larzzons.com CNAME .
 *.larzzons.com CNAME .
+ldtp.com CNAME .
+*.ldtp.com CNAME .
 lessmiths.com CNAME .
 *.lessmiths.com CNAME .
 lflink.com CNAME .

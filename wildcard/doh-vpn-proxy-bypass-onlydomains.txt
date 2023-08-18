@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 16 Aug 2023 22:27 UTC
-# Version: 2023.0816.2227.58
+# Last modified: 17 Aug 2023 22:28 UTC
+# Version: 2023.0817.2228.45
 # Syntax: Domains (without subdomains)
-# Number of entries: 2453
+# Number of entries: 2458
 #
 0000a-fast-proxy.de
 ns.00dani.me
@@ -1554,6 +1554,7 @@ prounlock.org
 provpn.info
 provpnaccounts.com
 prox.pw
+prox.rocks
 proxery.com
 proxfree.com
 proxie.us
@@ -1589,6 +1590,7 @@ proxy.org
 proxy.red
 proxy.sh
 proxy.sx
+proxy.yt
 proxy-123.com
 proxy-2014.com
 proxy-2015.info
@@ -1676,10 +1678,12 @@ proxysurfing.org
 proxythis.info
 proxytime.net
 proxyturbo.com
+proxyunblock.site
 proxyunblocker.org
 proxyunlock.com
 proxyvpn.eu
 proxyvpn.ml
+proxyvpnserver.com
 proxyway.com
 psiphon.ca
 psiphon3.com
@@ -1705,6 +1709,7 @@ dns12.quad9.net
 dns13.quad9.net
 dns9.quad9.net
 2.dnscrypt-cert.quad9.net
+quick-proxy.com
 doh.quickline.ch
 dot.quickline.ch
 quickprox.com

@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.hoster. hostmaster.hagezi.hoster. 1692225060 86400 3600 604800 30
+@ SOA rpz.hagezi.hoster. hostmaster.hagezi.hoster. 1692311520 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 16 Aug 2023 22:31 UTC
-; Version: 2023.0816.2231.59
+; Last modified: 17 Aug 2023 22:32 UTC
+; Version: 2023.0817.2232.46
 ; Syntax: RPZ
-; Number of entries: 4042
+; Number of entries: 4048
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -2114,6 +2114,8 @@ kr3w.de CNAME .
 *.kr3w.de CNAME .
 kunz-modeundmehr.de CNAME .
 *.kunz-modeundmehr.de CNAME .
+kurzschliessen.de CNAME .
+*.kurzschliessen.de CNAME .
 laviola-leeste.de CNAME .
 *.laviola-leeste.de CNAME .
 lernt.de CNAME .
@@ -3018,6 +3020,8 @@ now.lc CNAME .
 *.now.lc CNAME .
 on.lc CNAME .
 *.on.lc CNAME .
+party.lc CNAME .
+*.party.lc CNAME .
 pc.lc CNAME .
 *.pc.lc CNAME .
 photos.lc CNAME .
@@ -3762,6 +3766,8 @@ biz.ps CNAME .
 *.biz.ps CNAME .
 int.ps CNAME .
 *.int.ps CNAME .
+mobi.ps CNAME .
+*.mobi.ps CNAME .
 blogspot.pt CNAME .
 *.blogspot.pt CNAME .
 webnode.com.pt CNAME .

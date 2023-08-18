@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 16 Aug 2023 22:30 UTC
-# Version: 2023.0816.2230.29
+# Last modified: 17 Aug 2023 22:31 UTC
+# Version: 2023.0817.2231.13
 # Syntax: DNSMasq
-# Number of entries: 1530
+# Number of entries: 1531
 #
 address=/0000000000000000000000.com/#
 address=/0rg.us/#
@@ -881,6 +881,7 @@ address=/lanas.cl/#
 address=/land-4-sale.us/#
 address=/landomain.net/#
 address=/larzzons.com/#
+address=/ldtp.com/#
 address=/lebtimnetz.de/#
 address=/lee.mx/#
 address=/leitud.ee/#

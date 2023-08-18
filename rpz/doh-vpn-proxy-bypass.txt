@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.doh-vpn-proxy-bypass. hostmaster.hagezi.doh-vpn-proxy-bypass. 1692224820 86400 3600 604800 30
+@ SOA rpz.hagezi.doh-vpn-proxy-bypass. hostmaster.hagezi.doh-vpn-proxy-bypass. 1692311280 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Enyrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 16 Aug 2023 22:27 UTC
-; Version: 2023.0816.2227.58
+; Last modified: 17 Aug 2023 22:28 UTC
+; Version: 2023.0817.2228.45
 ; Syntax: RPZ
-; Number of entries: 4906
+; Number of entries: 4916
 ;
 vpn.ac CNAME .
 *.vpn.ac CNAME .
@@ -1649,6 +1649,8 @@ proxyturbo.com CNAME .
 *.proxyturbo.com CNAME .
 proxyunlock.com CNAME .
 *.proxyunlock.com CNAME .
+proxyvpnserver.com CNAME .
+*.proxyvpnserver.com CNAME .
 proxyway.com CNAME .
 *.proxyway.com CNAME .
 psiphon3.com CNAME .
@@ -1667,6 +1669,8 @@ pushvpn.com CNAME .
 *.pushvpn.com CNAME .
 pxaa.com CNAME .
 *.pxaa.com CNAME .
+quick-proxy.com CNAME .
+*.quick-proxy.com CNAME .
 quickprox.com CNAME .
 *.quickprox.com CNAME .
 quickproxies.com CNAME .
@@ -4465,6 +4469,8 @@ onion.rip CNAME .
 *.onion.rip CNAME .
 croxyproxy.rocks CNAME .
 *.croxyproxy.rocks CNAME .
+prox.rocks CNAME .
+*.prox.rocks CNAME .
 bi-tree.ru CNAME .
 *.bi-tree.ru CNAME .
 ukvpns.blogspot.ru CNAME .
@@ -4543,6 +4549,8 @@ mycelium.site CNAME .
 *.mycelium.site CNAME .
 proxysite.site CNAME .
 *.proxysite.site CNAME .
+proxyunblock.site CNAME .
+*.proxyunblock.site CNAME .
 rabbithole.site CNAME .
 *.rabbithole.site CNAME .
 starrynight.site CNAME .
@@ -4907,6 +4915,8 @@ dns.vinnyp.xyz CNAME .
 *.dns.vinnyp.xyz CNAME .
 webpro.xyz CNAME .
 *.webpro.xyz CNAME .
+proxy.yt CNAME .
+*.proxy.yt CNAME .
 cars-a.co.za CNAME .
 *.cars-a.co.za CNAME .
 pihole.datamatter.co.za CNAME .

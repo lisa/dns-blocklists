@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 16 Aug 2023 22:31 UTC
-# Version: 2023.0816.2231.59
+# Last modified: 17 Aug 2023 22:32 UTC
+# Version: 2023.0817.2232.46
 # Syntax: DNSMasq
-# Number of entries: 2021
+# Number of entries: 2024
 #
 address=/000a.de/#
 address=/000space.com/#
@@ -1205,6 +1205,7 @@ address=/kulichki.ru/#
 address=/kunin-soutez.cz/#
 address=/kunz-modeundmehr.de/#
 address=/kurakova.pl/#
+address=/kurzschliessen.de/#
 address=/kylieblog.com/#
 address=/kz.gp/#
 address=/l.gp/#
@@ -1288,6 +1289,7 @@ address=/mihanblog.com/#
 address=/mindmix.ru/#
 address=/mindnmagick.com/#
 address=/mit-wenig-geld.de/#
+address=/mobi.ps/#
 address=/mochahost.com/#
 address=/mojezkusenostsinvisalign.cz/#
 address=/monika-koeppes-welt.de/#
@@ -1460,6 +1462,7 @@ address=/pantheonsite.io/#
 address=/papybio.fr/#
 address=/parknhost.com/#
 address=/parsiblog.com/#
+address=/party.lc/#
 address=/pc.lc/#
 address=/pcdn.co/#
 address=/pclandes.fr/#
