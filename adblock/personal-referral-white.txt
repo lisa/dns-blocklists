@@ -6,6 +6,7 @@
 ! Expires: Updated regularly
 ! Syntax: AdBlock
 
+@@||t.1und1.de^
 @@||7eer.net^
 @@||adfoc.us^
 @@||adj.st^
@@ -16,6 +17,7 @@
 @@||auto-swiat.pl^
 @@||avantlink.com^
 @@||awstrack.me^
+@@||aylink.co^
 @@||bfast.com^
 @@||bizrate.com^
 @@||bnc.lt^
@@ -28,6 +30,7 @@
 @@||commission-junction.com^
 @@||conversantmedia.com^
 @@||converti.se^
+@@||createsend1.com^
 @@||dpbolvw.net^
 @@||emjcd.com^
 @@||evyy.net^
@@ -45,6 +48,7 @@
 @@||mandrillapp.com^
 @@||media01.eu^
 @@||micpn.com^
+@@||mkto-*.com^
 @@||mktoweb.com^
 @@||mmtro.com^
 @@||ojrq.net^
@@ -74,6 +78,7 @@
 @@||xg4ken.com^
 @@||redirect.*.aws.a2z.com^
 @@||px.a8.net^
+@@||l.accesslinkk.com^
 @@||t.adcell.com^
 @@||a1.adform.net^
 @@||track.adform.net^
@@ -105,14 +110,16 @@
 @@||prism.app-us1.com^
 @@||click.appcast.io^
 @@||c.apple.com^
-@@||customlinks.appsflyer.com^
 @@||app.appsflyer.com^
+@@||customlinks.appsflyer.com^
 @@||ad.atdmt.com^
 @@||clicks.aweber.com^
 @@||www.awin1.com^
 @@||api.bam-x.com^
 @@||click.emcom.bankofamerica.com^
 @@||analytics.barnebys.sh^
+@@||cname.beehiiv.com^
+@@||link.mail.beehiiv.com^
 @@||x.bestcheck.de^
 @@||click.em.blizzard.com^
 @@||go.blokada.org^
@@ -123,16 +130,21 @@
 @@||cts.businesswire.com^
 @@||click.myctm.canadiantire.ca^
 @@||cse3.chausport.com^
+@@||api.cleverpush.com^
+@@||static.cleverpush.com^
 @@||seu*.cleverreach.com^
 @@||monitor.clickcease.com^
 @@||target.clickfunnels.com^
 @@||readdle.cmail20.com^
 @@||k.cocooncenter.com^
 @@||tags.news.com.au^
+@@||app.convertkit.com^
 @@||el2.convertkit-mail.com^
 @@||click.cptrack.de^
 @@||click.mc.crimsontrace.com^
+@@||links.email.crunchbase.com^
 @@||track.customer.io^
+@@||link.dana.id^
 @@||clickserve.dartsearch.net^
 @@||ch0p.darty.com^
 @@||click.o.delta.com^
@@ -184,8 +196,10 @@
 @@||assets.ikhnaie.link^
 @@||ct.impactradius.com^
 @@||customtraffic.impactradius.com^
+@@||t.indeed.com^
 @@||email-tracking.infobip.com^
 @@||t23.intelliad.de^
+@@||t.ionos.de^
 @@||links.iterable.com^
 @@||click.email.jcpenney.com^
 @@||goto.jet.com^
@@ -231,10 +245,13 @@
 @@||c.office.com^
 @@||email.office.com^
 @@||click.mail.onedrive.com^
+@@||link.us.paramountplus.com^
 @@||go.pardot.com^
 @@||pi.pardot.com^
+@@||ablink.mail.parkmobile.io^
 @@||www.partner-ads.com^
 @@||c2*.piano.io^
+@@||metric.picodi.com^
 @@||ndirect.ppro.de^
 @@||geo1.presslabs.net^
 @@||track.productsup.io^
@@ -279,6 +296,8 @@
 @@||count.shopping.t-online.de^
 @@||goto.target.com^
 @@||tagm.tchibo.de^
+@@||tracking.tldrnewsletter.com^
+@@||c.trackmytarget.com^
 @@||cdn-magiclinks.trackonomics.net^
 @@||clk*.tradedoubler.com^
 @@||pdt.tradedoubler.com^
@@ -302,6 +321,3 @@
 @@||clck.yandex.ru^
 @@||redirect.appmetrica.yandex.*^
 @@||click.zoom.us^
-@@||c.trackmytarget.com^
-@@||metric.picodi.com^
-@@||mkto-*.com^

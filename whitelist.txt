@@ -3691,7 +3691,7 @@ livechat.ivpn.net
 # CNAMEs for volkswagen.de and others
 *.lighthouselabs.eu
 
-# Smartify app on iPhonw
+# Smartify app on iPhone
 api.smartify.org
 
 # https://github.com/hagezi/dns-blocklists/issues/1103
@@ -3960,7 +3960,7 @@ hw.zuimeitianqi.com
 sub.ykimg.com
 
 # https://github.com/hagezi/dns-blocklists/issues/1239
-www.smartnews.be
+smartnews.be
 
 # https://github.com/hagezi/dns-blocklists/issues/1238
 cdn.listrakbi.com
@@ -4121,8 +4121,6 @@ ts.hust.edu.vn
 
 # https://github.com/hagezi/dns-blocklists/issues/1328
 links.email.crunchbase.com
-
-# HP Smart Printing
 
 # Grocery delivery app 
 p*.meituan.net
@@ -4410,6 +4408,7 @@ ctl.prd.bi.getbux.com
 # Sky Decoder
 metrics.sky.com
 analytics.global.sky.com
+
 # https://github.com/hagezi/dns-blocklists/issues/1436
 stats.controld.com
 
