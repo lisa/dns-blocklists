@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 17 Aug 2023 22:36 UTC
-# Version: 2023.0817.2236.00
+# Last modified: 18 Aug 2023 11:35 UTC
+# Version: 2023.0818.1135.05
 # Syntax: Domains (without subdomains)
-# Number of entries: 168245
+# Number of entries: 168297
 #
 0-bet.com
 000000.com
@@ -9155,6 +9155,7 @@
 123873p.com
 123873t.com
 123873z.com
+12388.club
 123888999.com
 12388bet.com
 123893.vip
@@ -97722,6 +97723,7 @@ b5284.com
 b5296.com
 b52d.club
 b52k.club
+b52m.club
 b52vn.fun
 b52vn.org
 b530.net
@@ -108722,6 +108724,7 @@ taiwanlottery.com.tw
 te7.com.tw
 titansbet.com.au
 topbetta.com.au
+topodds.com.au
 topsport.com.au
 unibet.com.au
 chatter.uol.com.br
@@ -109374,6 +109377,7 @@ cuoc88.net
 cuoc8899.com
 cuoc8899.net
 cuoc8live.com
+cuocb52.me
 cuocba.com
 cuocba.net
 cuocbanh88.com
@@ -117741,6 +117745,7 @@ go88f.com
 go88r.pro
 go88s.tv
 go88vn.vip
+go88x.club
 go88xyz.com
 go99.vip
 goal123.biz
@@ -121804,6 +121809,7 @@ ho18.net
 ho518.net
 hoabanh.com
 hoabanh88.com
+hoahao.vip
 hoappasla.com
 hobi777.org
 hoki12.com
@@ -146078,6 +146084,7 @@ rikstoto.no
 rikvip.tv
 rikvip.uk
 rikvip.us
+tai.rikvip.id
 rikvipclub.us
 rikvipp.net
 rinduhokislot.com
@@ -147259,6 +147266,7 @@ sanfrancasino.com
 sang7.com
 sanhbai.com
 sanjiu88.com
+sanos.fun
 sanuk88.com
 saoma.bet
 sapg88.com
@@ -148305,6 +148313,7 @@ skybet.com
 skybook.ag
 skybook.com
 skycasino.com
+skyclub.city
 skyclub.mobi
 skycrown.com
 skygamelog.xyz
@@ -148318,6 +148327,7 @@ sl0tv-casino.com
 sl0tvcasino.co
 sl0tvcasinobest.com
 sl18588.com
+sl6618.com
 sl888.live
 sla19.com
 slacocasino.com
@@ -148590,6 +148600,7 @@ slotsrank.com
 slotsreceh.com
 slotsricos1x.com
 slotsrupiah.com
+slotstipper.com
 slotsultan99.com
 slotsup.com
 slotsvegascampaign.com
@@ -148741,6 +148752,7 @@ solutionbw.com
 som999.com
 somchai123.com
 somedsrm.com
+son76.xyz
 sona.games
 sona9.com
 song888b.com
@@ -148986,6 +148998,7 @@ ss8087.com
 ss81866.com
 ss83455.com
 ss8812.com
+ss8815.com
 ss8825.com
 ss8826.com
 ss8827.com
@@ -149312,6 +149325,7 @@ starsportagency.com
 starsports.bet
 starvlk.vip
 starwinz77.asia
+starzcasino.com
 stasiunslots.com
 stationcasinos.com
 statusbet.com
@@ -149557,6 +149571,7 @@ superslot888.live
 superslots.ag
 superslots.com
 superslots.store
+supertotobet1115.com
 supertvb.com
 supervip88.com
 superwin88.vip
@@ -149565,6 +149580,7 @@ supremecasino.com
 supremepicks.com
 supremeplay.com
 supremeplay.net
+surf.casino
 surf-barre.com
 surfcasino.com
 surfeurdor.com
@@ -149685,6 +149701,7 @@ svv288.com
 svv388.com
 svv3888.com
 svv92.com
+svvs388.com
 svvv288.com
 svvv388.com
 svw288.com
@@ -149711,6 +149728,7 @@ swv288.com
 swv388.com
 swxp7.com
 swzim.win
+sx282477.com
 sx8816.com
 sx99.vip
 sxdfj8.com
@@ -149786,6 +149804,7 @@ syqwljcz.vip
 online-casino-pro.sytes.net
 syy8g.com
 syyzysp.com
+sz1258.com
 sz333.net
 sz3uasuj.vip
 sz66.club
@@ -150075,6 +150094,7 @@ t3179.com
 t31888.com
 t3248.com
 t3274.com
+t3286.com
 t32888.com
 t3319.com
 t3348.com
@@ -150619,6 +150639,7 @@ ta88.com
 ta88a.com
 ta88r.com
 ta88vip.top
+taa789.com
 atlantis-evolution.tacgames.com
 taeballthai.com
 taegg.xyz
@@ -150635,7 +150656,9 @@ taiappaog777.com
 taiappj9.com
 taiappk8.com
 taib29.bet
+taib52.club
 taib52.com
+taib52.vin
 taibigwinner.info
 taibum.tv
 taibumclub.net
@@ -150665,6 +150688,7 @@ tainbet.net
 tais7.top
 tais7.vip
 taishangjunjun.com
+taiskyclub.online
 taisum.co
 taisun52.live
 taiuk88.net
@@ -151124,6 +151148,7 @@ tee868.com
 teh1xbet.com
 tei-mx.com
 tek789.com
+tel76.xyz
 tel8.vip
 telebot.online
 telegram8.vip
@@ -151373,6 +151398,7 @@ thethaovua88.com
 thethaovui.com
 thethaovui247.com
 thethsdnadagvx.com
+theve-gasparlay.com
 thevegasplug.com
 thevincere.com
 thevirtualcasino.com
@@ -151458,6 +151484,7 @@ tianningwy.com
 tiantang88.com
 tiantangfun88.com
 tiantianyaowan.com
+tianya3.com
 tianziduchang.com
 tianziducheng.com
 tianziguanwang.com
@@ -151718,6 +151745,7 @@ to6t.com
 to8756.com
 toberich.club
 tobet.com
+tobet88.bet
 tobet88.net
 tobet88.org
 tobet99.com
@@ -152273,6 +152301,9 @@ tt258.cn
 tt2698.com
 tt2823.com
 tt2china.com
+tt333.one
+tt377.one
+tt388.one
 tt3979.bond
 tt3979.cfd
 tt3979.click
@@ -152288,11 +152319,14 @@ tt3979.website
 tt3979vn.fun
 tt43370.com
 tt43374.com
+tt488.one
+tt555.one
 tt5889.com
 tt63gg.com
 tt8087.com
 tt81866.com
 tt83455.com
+tt877yttrrtuu.com
 tt9448.com
 tt99156.com
 tta688.com
@@ -152630,6 +152664,7 @@ ty1228.com
 ty1230.com
 ty1250.com
 ty1260.com
+ty1261.com
 ty126d.com
 ty1271.com
 ty1280.com
@@ -152895,6 +152930,7 @@ tycsx.com
 tycvvb.com
 tycw63.com
 tydbh.com
+tydldz.com
 tydnqqxlm.com
 tye435fe.fun
 tye435fe.live
@@ -152906,6 +152942,7 @@ tyomzn2e.yachts
 typhu88.biz
 typhu88.com
 typhu88.lat
+typhu88.press
 typhu88.rest
 typhu88.sbs
 typhu88vn.bond
@@ -153100,6 +153137,7 @@ tzvip4.com
 tzvip5.com
 tzvip7.com
 tzvip8.com
+u-dai.net
 u0051.com
 u0052.com
 u0053.com
@@ -153963,6 +154001,7 @@ ufa118bet.live
 ufa147.online
 ufa147s.live
 ufa1669.bet
+ufa1912.com
 ufa35plus.com
 ufa54.live
 ufa81.live
@@ -154088,6 +154127,7 @@ uniquecasino.fr
 unislots.com
 uniteby.xyz
 united1688.com
+unitygame.online
 uno888.com
 uno888a.com
 uno888c.com
@@ -154206,6 +154246,7 @@ usdtfa0.com
 ushntao.xyz
 usonlinecasino.com
 ussff.win
+usun11.com
 usuuxs.xyz
 usvip888.com
 usx4nw9czdxvngibsjq7ebfzspiawlkrsqjgwwytscdi0t53apx5p0ehbnxi.com
@@ -154972,6 +155013,7 @@ v728566.com
 v7286.com
 v7287.com
 v7335.com
+v7365.com
 v73888.com
 v75327.com
 v75378.com
@@ -155437,6 +155479,7 @@ vg898.com
 vg966.com
 vg977.com
 vg99.com
+vg991.com
 vgaming88.net
 vgfwja.com
 vgood88.com
@@ -155810,6 +155853,7 @@ vip6627.com
 vip6631.com
 vip6651.com
 vip6653.com
+vip665888.com
 vip666.org
 vip666bst.com
 vip666vip.com
@@ -156314,6 +156358,8 @@ vn570.com
 vn574.com
 vn584.com
 vn5858.com
+vn5876.com
+vn5896.com
 vn590.com
 vn594.com
 vn5959.com
@@ -156358,7 +156404,9 @@ vn88vui.live
 vn88win.live
 vn8918.com
 vn894.com
+vn9533.com
 vn9566.com
+vn9577.com
 vn9588.com
 vn9599.com
 vn9622.com
@@ -156422,6 +156470,7 @@ vndvwin.com
 vnf88.com
 vnfa88.com
 vng.app
+vng99.com
 vngame66.com
 vngoal88.com
 vngys.com
@@ -158328,6 +158377,7 @@ wanying20.com
 wanzuqiu8.com
 wanzuqiu8.net
 wap101.net
+wap1717.com
 wap495.com
 wappns006.com
 wappns007.com
@@ -158400,6 +158450,7 @@ wb72242g.com
 wb72242n.com
 wb72242p.com
 wb72242r.com
+wb72242v.com
 wb72242x.com
 wb72242z.com
 wb729r.vip
@@ -159205,6 +159256,7 @@ wl1m.com
 wl8cv.com
 wlbi2y.vip
 wlblls.xyz
+wlby650.com
 wlcjwoo.xyz
 wllhoutai.com
 wlsmta.com

@@ -4416,3 +4416,6 @@ stats.controld.com
 costco-tracking.getconvey.com
 freighttracking.costco.com
 
+# https://github.com/hagezi/dns-blocklists/issues/1442
+foxo.me
+

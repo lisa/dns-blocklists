@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 17 Aug 2023 22:32 UTC
-# Version: 2023.0817.2232.46
+# Last modified: 18 Aug 2023 11:31 UTC
+# Version: 2023.0818.1131.44
 # Syntax: DNSMasq
-# Number of entries: 2024
+# Number of entries: 2025
 #
 address=/000a.de/#
 address=/000space.com/#
@@ -1468,6 +1468,7 @@ address=/pcdn.co/#
 address=/pclandes.fr/#
 address=/pcriot.com/#
 address=/pe.gp/#
+address=/pe.hu/#
 address=/perfektionieren.de/#
 address=/perl.sh/#
 address=/persianblog.ir/#

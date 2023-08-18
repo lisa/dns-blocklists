@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.doh. hostmaster.hagezi.doh. 1692138360 86400 3600 604800 30
+@ SOA rpz.hagezi.doh. hostmaster.hagezi.doh. 1692358080 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 15 Aug 2023 22:26 UTC
-; Version: 2023.0815.2226.15
+; Last modified: 18 Aug 2023 11:28 UTC
+; Version: 2023.0818.1128.46
 ; Syntax: RPZ
-; Number of entries: 1472
+; Number of entries: 1470
 ;
 shield.afixer.app CNAME .
 *.shield.afixer.app CNAME .
@@ -337,8 +337,6 @@ google-public-dns-b.google.com CNAME .
 *.google-public-dns-b.google.com CNAME .
 dot.libredns.gr.com CNAME .
 *.dot.libredns.gr.com CNAME .
-dns.hakutakucn.com CNAME .
-*.dns.hakutakucn.com CNAME .
 adguard.haneulo.com CNAME .
 *.adguard.haneulo.com CNAME .
 httpdns-push.heytapmobile.com CNAME .

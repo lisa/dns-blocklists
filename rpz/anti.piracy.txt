@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1692311640 86400 3600 604800 30
+@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1692358380 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 17 Aug 2023 22:34 UTC
-; Version: 2023.0817.2234.16
+; Last modified: 18 Aug 2023 11:33 UTC
+; Version: 2023.0818.1133.17
 ; Syntax: RPZ
-; Number of entries: 13910
+; Number of entries: 13950
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -970,6 +970,8 @@ cpabien.club CNAME .
 *.cpabien.club CNAME .
 tracker.dicmusic.club CNAME .
 *.tracker.dicmusic.club CNAME .
+tr.doogh.club CNAME .
+*.tr.doogh.club CNAME .
 tracker.edkj.club CNAME .
 *.tracker.edkj.club CNAME .
 fast-torrent.club CNAME .
@@ -1024,6 +1026,8 @@ streamwoop.club CNAME .
 *.streamwoop.club CNAME .
 todori.club CNAME .
 *.todori.club CNAME .
+watchtvseries.unblckd.club CNAME .
+*.watchtvseries.unblckd.club CNAME .
 vod78d.club CNAME .
 *.vod78d.club CNAME .
 ytsyify.club CNAME .
@@ -1226,6 +1230,8 @@ tracker.tfile.co CNAME .
 *.tracker.tfile.co CNAME .
 thepirateproxy.co CNAME .
 *.thepirateproxy.co CNAME .
+toros.co CNAME .
+*.toros.co CNAME .
 torrent-games.co CNAME .
 *.torrent-games.co CNAME .
 torrentmovies.co CNAME .
@@ -2492,6 +2498,8 @@ dutchnova.com CNAME .
 *.dutchnova.com CNAME .
 tracker.dutchtracking.com CNAME .
 *.tracker.dutchtracking.com CNAME .
+tracker.dxdhd.com CNAME .
+*.tracker.dxdhd.com CNAME .
 dylan-park.com CNAME .
 *.dylan-park.com CNAME .
 dzot.com CNAME .
@@ -4696,6 +4704,8 @@ tikmovies.com CNAME .
 *.tikmovies.com CNAME .
 time-popcorn.com CNAME .
 *.time-popcorn.com CNAME .
+time4videostream.com CNAME .
+*.time4videostream.com CNAME .
 timenai.com CNAME .
 *.timenai.com CNAME .
 timepassbd.com CNAME .
@@ -4772,6 +4782,8 @@ torrentbd.com CNAME .
 *.torrentbd.com CNAME .
 torrentbox.com CNAME .
 *.torrentbox.com CNAME .
+torrentbully.com CNAME .
+*.torrentbully.com CNAME .
 torrentchannel.com CNAME .
 *.torrentchannel.com CNAME .
 torrentday.com CNAME .
@@ -4850,6 +4862,8 @@ torrentleex.com CNAME .
 *.torrentleex.com CNAME .
 torrentlike.com CNAME .
 *.torrentlike.com CNAME .
+torrentlocomotive.com CNAME .
+*.torrentlocomotive.com CNAME .
 torrentmas.com CNAME .
 *.torrentmas.com CNAME .
 torrentmatrix.com CNAME .
@@ -4974,6 +4988,8 @@ torrentwiz.com CNAME .
 *.torrentwiz.com CNAME .
 torrentwork.com CNAME .
 *.torrentwork.com CNAME .
+torrentz.com CNAME .
+*.torrentz.com CNAME .
 torrentzeta.com CNAME .
 *.torrentzeta.com CNAME .
 torrentzoa.com CNAME .
@@ -5060,6 +5076,8 @@ turkish123.com CNAME .
 *.turkish123.com CNAME .
 tuxdistro.com CNAME .
 *.tuxdistro.com CNAME .
+th11.tv-movieonline.com CNAME .
+*.th11.tv-movieonline.com CNAME .
 tv24bd.com CNAME .
 *.tv24bd.com CNAME .
 tvbfsy.com CNAME .
@@ -5440,6 +5458,8 @@ xtvi.com CNAME .
 *.xtvi.com CNAME .
 xubster.com CNAME .
 *.xubster.com CNAME .
+sx.xxtor.com CNAME .
+*.sx.xxtor.com CNAME .
 xxx-tracker.com CNAME .
 *.xxx-tracker.com CNAME .
 xxxtor.com CNAME .
@@ -6178,6 +6198,8 @@ warez.ge CNAME .
 *.4stream.gg CNAME .
 bt.acg.gg CNAME .
 *.bt.acg.gg CNAME .
+tracker.acg.gg CNAME .
+*.tracker.acg.gg CNAME .
 rarbg.gg CNAME .
 *.rarbg.gg CNAME .
 seriesonline.gg CNAME .
@@ -8984,6 +9006,8 @@ sladinki007.net CNAME .
 *.sladinki007.net CNAME .
 sline.net CNAME .
 *.sline.net CNAME .
+slobytes.net CNAME .
+*.slobytes.net CNAME .
 smileplex.net CNAME .
 *.smileplex.net CNAME .
 smilestv.net CNAME .
@@ -9088,6 +9112,8 @@ thepiratebay9.net CNAME .
 *.thepiratebay9.net CNAME .
 thepiratecity.net CNAME .
 *.thepiratecity.net CNAME .
+thepirateproxybaylist.net CNAME .
+*.thepirateproxybaylist.net CNAME .
 thepopcorntime.net CNAME .
 *.thepopcorntime.net CNAME .
 cricfree.theproxya.net CNAME .
@@ -10830,6 +10856,8 @@ torrentmaniacs.org CNAME .
 *.torrentmaniacs.org CNAME .
 torrentproject2.org CNAME .
 *.torrentproject2.org CNAME .
+torrentradar.org CNAME .
+*.torrentradar.org CNAME .
 torrentsbay.org CNAME .
 *.torrentsbay.org CNAME .
 tracker.torrentseeds.org CNAME .
@@ -10898,6 +10926,8 @@ tracker.v6speed.org CNAME .
 *.tracker.v6speed.org CNAME .
 dl3.vaiomusic.org CNAME .
 *.dl3.vaiomusic.org CNAME .
+teamspeak.value-wolf.org CNAME .
+*.teamspeak.value-wolf.org CNAME .
 vexmovies.org CNAME .
 *.vexmovies.org CNAME .
 vf-stream.org CNAME .
@@ -11258,6 +11288,8 @@ asnet.pw CNAME .
 *.asnet.pw CNAME .
 bayproxy.pw CNAME .
 *.bayproxy.pw CNAME .
+tracker.bittor.pw CNAME .
+*.tracker.bittor.pw CNAME .
 tracker.bluefrog.pw CNAME .
 *.tracker.bluefrog.pw CNAME .
 tracker.christianbro.pw CNAME .
@@ -11266,6 +11298,8 @@ tracker2.christianbro.pw CNAME .
 *.tracker2.christianbro.pw CNAME .
 demonoid.pw CNAME .
 *.demonoid.pw CNAME .
+tracker.dmhy.pw CNAME .
+*.tracker.dmhy.pw CNAME .
 fileupload.pw CNAME .
 *.fileupload.pw CNAME .
 filmxy.pw CNAME .
@@ -11510,6 +11544,8 @@ retracker.akado-ural.ru CNAME .
 *.retracker.akado-ural.ru CNAME .
 androeed.ru CNAME .
 *.androeed.ru CNAME .
+tracker.animasub.ru CNAME .
+*.tracker.animasub.ru CNAME .
 anime8.ru CNAME .
 *.anime8.ru CNAME .
 animeflv.ru CNAME .
@@ -12044,6 +12080,8 @@ kokodayo.site CNAME .
 *.kokodayo.site CNAME .
 lookmovie.site CNAME .
 *.lookmovie.site CNAME .
+tracker.lyretain.site CNAME .
+*.tracker.lyretain.site CNAME .
 moviego.site CNAME .
 *.moviego.site CNAME .
 mp3flac.site CNAME .
@@ -13306,6 +13344,8 @@ trungkien.us CNAME .
 *.trungkien.us CNAME .
 turktorrent.us CNAME .
 *.turktorrent.us CNAME .
+vidcloud.us CNAME .
+*.vidcloud.us CNAME .
 wapfun.us CNAME .
 *.wapfun.us CNAME .
 watchmoviesfree.us CNAME .

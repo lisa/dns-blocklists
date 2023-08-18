@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.doh-vpn-proxy-bypass. hostmaster.hagezi.doh-vpn-proxy-bypass. 1692311280 86400 3600 604800 30
+@ SOA rpz.hagezi.doh-vpn-proxy-bypass. hostmaster.hagezi.doh-vpn-proxy-bypass. 1692358020 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Enyrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 17 Aug 2023 22:28 UTC
-; Version: 2023.0817.2228.45
+; Last modified: 18 Aug 2023 11:27 UTC
+; Version: 2023.0818.1127.09
 ; Syntax: RPZ
-; Number of entries: 4916
+; Number of entries: 4920
 ;
 vpn.ac CNAME .
 *.vpn.ac CNAME .
@@ -1031,8 +1031,6 @@ guavi.com CNAME .
 *.guavi.com CNAME .
 gvirabi.com CNAME .
 *.gvirabi.com CNAME .
-dns.hakutakucn.com CNAME .
-*.dns.hakutakucn.com CNAME .
 adguard.haneulo.com CNAME .
 *.adguard.haneulo.com CNAME .
 happy-vpn.com CNAME .
@@ -1993,6 +1991,8 @@ tubeprox.com CNAME .
 *.tubeprox.com CNAME .
 tunnelbear.com CNAME .
 *.tunnelbear.com CNAME .
+turbossh.com CNAME .
+*.turbossh.com CNAME .
 turbovpn.com CNAME .
 *.turbovpn.com CNAME .
 turkmen-helper.com CNAME .
@@ -3001,6 +3001,8 @@ shrunkunseeingbacklight.info CNAME .
 *.shrunkunseeingbacklight.info CNAME .
 simplevpn.info CNAME .
 *.simplevpn.info CNAME .
+sitework.info CNAME .
+*.sitework.info CNAME .
 skynetwork.info CNAME .
 *.skynetwork.info CNAME .
 suedeproxy.info CNAME .
@@ -4453,6 +4455,8 @@ tiger.dns.qwer.pw CNAME .
 *.tiger.dns.qwer.pw CNAME .
 t2w.pw CNAME .
 *.t2w.pw CNAME .
+vpnfast.pw CNAME .
+*.vpnfast.pw CNAME .
 vpnproxy.pw CNAME .
 *.vpnproxy.pw CNAME .
 webproxy.pw CNAME .
