@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.personal. hostmaster.hagezi.personal. 1692363360 86400 3600 604800 30
+@ SOA rpz.hagezi.personal. hostmaster.hagezi.personal. 1692402600 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Personal DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 18 Aug 2023 12:56 UTC
-; Version: 2023.0818.1256.15
+; Last modified: 18 Aug 2023 23:50 UTC
+; Version: 2023.0818.2350.42
 ; Syntax: RPZ
-; Number of entries: 99352
+; Number of entries: 99354
 ;
 marketing.globalpointofcare.abbott CNAME .
 *.marketing.globalpointofcare.abbott CNAME .
@@ -6364,6 +6364,8 @@ analytics.58pic.com CNAME .
 *.5d8dd0486a.com CNAME .
 5df20e46f3.com CNAME .
 *.5df20e46f3.com CNAME .
+5dgja.com CNAME .
+*.5dgja.com CNAME .
 5dimes.com CNAME .
 *.5dimes.com CNAME .
 5eb6d14cbe.com CNAME .
@@ -7518,6 +7520,8 @@ ad-mapps.com CNAME .
 *.ad-mapps.com CNAME .
 ad-maven.com CNAME .
 *.ad-maven.com CNAME .
+ad-miner.com CNAME .
+*.ad-miner.com CNAME .
 ad-nex.com CNAME .
 *.ad-nex.com CNAME .
 ad-optima.com CNAME .
@@ -11406,6 +11410,8 @@ wchjfv.apartmenttherapy.com CNAME .
 *.wchjfv.apartmenttherapy.com CNAME .
 apatheticdrawerscolourful.com CNAME .
 *.apatheticdrawerscolourful.com CNAME .
+apathetictheory.com CNAME .
+*.apathetictheory.com CNAME .
 apbjhiu.com CNAME .
 *.apbjhiu.com CNAME .
 info.apbspeakers.com CNAME .
@@ -16370,6 +16376,8 @@ c3metrics.com CNAME .
 *.c3metrics.com CNAME .
 mine.c3pool.com CNAME .
 *.mine.c3pool.com CNAME .
+c3scores.com CNAME .
+*.c3scores.com CNAME .
 c3tag.com CNAME .
 *.c3tag.com CNAME .
 c43a3cd8f99413891.com CNAME .
@@ -25304,8 +25312,6 @@ fairu-schnellvpn.com CNAME .
 *.fairu-schnellvpn.com CNAME .
 info.fairwaywholesalelending.com CNAME .
 *.info.fairwaywholesalelending.com CNAME .
-fairymeeting.com CNAME .
-*.fairymeeting.com CNAME .
 fairytaleundergoneopenly.com CNAME .
 *.fairytaleundergoneopenly.com CNAME .
 faised.com CNAME .
@@ -25490,8 +25496,6 @@ fastmtn.com CNAME .
 *.fastmtn.com CNAME .
 fastnativead.com CNAME .
 *.fastnativead.com CNAME .
-fastnewstream.com CNAME .
-*.fastnewstream.com CNAME .
 fastonlineusers.com CNAME .
 *.fastonlineusers.com CNAME .
 ping.fastsimon.com CNAME .
@@ -26076,8 +26080,6 @@ firstlyliquidstereotype.com CNAME .
 *.firstlyliquidstereotype.com CNAME .
 site.firstnet.com CNAME .
 *.site.firstnet.com CNAME .
-firstohiobank.com CNAME .
-*.firstohiobank.com CNAME .
 firstpromoter.com CNAME .
 *.firstpromoter.com CNAME .
 app-clicks.firstrepublic.com CNAME .
@@ -27840,8 +27842,6 @@ sdk.open.talk.gepush.com CNAME .
 *.sdk.open.talk.gepush.com CNAME .
 gerbilshew.com CNAME .
 *.gerbilshew.com CNAME .
-gerepa.com CNAME .
-*.gerepa.com CNAME .
 gerfultendril.com CNAME .
 *.gerfultendril.com CNAME .
 germaniavid.com CNAME .
@@ -61768,6 +61768,8 @@ vkgtrack.com CNAME .
 *.vkgtrack.com CNAME .
 vkiapcavnoc.com CNAME .
 *.vkiapcavnoc.com CNAME .
+vkjsnvk.com CNAME .
+*.vkjsnvk.com CNAME .
 vkonrakte.com CNAME .
 *.vkonrakte.com CNAME .
 vkulake.com CNAME .
@@ -71190,8 +71192,6 @@ doublestat.info CNAME .
 *.doublestat.info CNAME .
 downloadmobilee.info CNAME .
 *.downloadmobilee.info CNAME .
-downloadsecurity.info CNAME .
-*.downloadsecurity.info CNAME .
 drivinfosproduits.info CNAME .
 *.drivinfosproduits.info CNAME .
 drivsinfosproduits.info CNAME .
@@ -83170,8 +83170,6 @@ detectca.easysol.net CNAME .
 *.detectca.easysol.net CNAME .
 ecftmll.net CNAME .
 *.ecftmll.net CNAME .
-ecole-saint-simon.net CNAME .
-*.ecole-saint-simon.net CNAME .
 ecologieurbaine.net CNAME .
 *.ecologieurbaine.net CNAME .
 ma1120-r.analytics.edgekey.net CNAME .
@@ -83804,8 +83802,6 @@ giftcardhero.net CNAME .
 *.giftcardhero.net CNAME .
 gilrauci.net CNAME .
 *.gilrauci.net CNAME .
-girlssohorny.net CNAME .
-*.girlssohorny.net CNAME .
 stat-api-yndx.cloud.gismeteo.net CNAME .
 *.stat-api-yndx.cloud.gismeteo.net CNAME .
 sentry.gitlab.net CNAME .
@@ -85724,6 +85720,8 @@ ahhrtt.pixnet.net CNAME .
 *.ahhrtt.pixnet.net CNAME .
 pixanalytics.pixnet.net CNAME .
 *.pixanalytics.pixnet.net CNAME .
+pixoctopus.pixnet.net CNAME .
+*.pixoctopus.pixnet.net CNAME .
 pktriot.net CNAME .
 *.pktriot.net CNAME .
 plexop.net CNAME .
@@ -87286,6 +87284,8 @@ adcheap.network CNAME .
 *.adcheap.network CNAME .
 adex.network CNAME .
 *.adex.network CNAME .
+admax.network CNAME .
+*.admax.network CNAME .
 admedia.network CNAME .
 *.admedia.network CNAME .
 adtival.network CNAME .
@@ -92522,8 +92522,6 @@ funoriblithe.space CNAME .
 *.funoriblithe.space CNAME .
 glganltcs.space CNAME .
 *.glganltcs.space CNAME .
-god-fols.space CNAME .
-*.god-fols.space CNAME .
 gointhe.space CNAME .
 *.gointhe.space CNAME .
 golfchapah.space CNAME .
@@ -93470,6 +93468,8 @@ jacketstapping.top CNAME .
 *.jacketstapping.top CNAME .
 jav-7mmtv.top CNAME .
 *.jav-7mmtv.top CNAME .
+jayhou.top CNAME .
+*.jayhou.top CNAME .
 web.jazztunnel.top CNAME .
 *.web.jazztunnel.top CNAME .
 jbalrqvennvrl.top CNAME .
@@ -99078,6 +99078,8 @@ waihoz.xyz CNAME .
 *.waihoz.xyz CNAME .
 waoeou.xyz CNAME .
 *.waoeou.xyz CNAME .
+watekade.xyz CNAME .
+*.watekade.xyz CNAME .
 wbqosw.xyz CNAME .
 *.wbqosw.xyz CNAME .
 wdygoi.xyz CNAME .

@@ -4823,3 +4823,6 @@
 @@|foxo.me^
 @@|www.foxo.me^
 
+! https://github.com/hagezi/dns-blocklists/issues/1444
+@@|cloudcache.tencentcs.com^
+

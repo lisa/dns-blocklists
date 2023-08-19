@@ -4419,3 +4419,6 @@ freighttracking.costco.com
 # https://github.com/hagezi/dns-blocklists/issues/1442
 foxo.me
 
+# https://github.com/hagezi/dns-blocklists/issues/1444
+cloudcache.tencentcs.com
+

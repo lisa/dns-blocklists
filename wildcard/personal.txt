@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 18 Aug 2023 12:56 UTC
-# Version: 2023.0818.1256.15
+# Last modified: 18 Aug 2023 23:50 UTC
+# Version: 2023.0818.2350.42
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 49676
+# Number of entries: 49677
 #
 *.0008d6ba2e.com
 *.000space.com
@@ -1181,6 +1181,7 @@
 *.5d69ce1b7a.com
 *.5d8dd0486a.com
 *.5df20e46f3.com
+*.5dgja.com
 *.5dimes.com
 *.5eb6d14cbe.com
 *.5f154926ee0c17ce06289b7825d08fb877f8ebe8d635b65622ce8a2f.com
@@ -2033,6 +2034,7 @@
 *.ad-m.asia
 *.ad-mapps.com
 *.ad-maven.com
+*.ad-miner.com
 *.ad-mix.de
 *.ad-move.jp
 *.ad-nex.com
@@ -2456,6 +2458,7 @@
 *.admasters.media
 *.admatrix.jp
 *.admax.me
+*.admax.network
 *.admaxim.com
 *.admaya.in
 *.adme-net.com
@@ -5036,6 +5039,7 @@
 *.yjxssk.apartments.com
 *.wchjfv.apartmenttherapy.com
 *.apatheticdrawerscolourful.com
+*.apathetictheory.com
 *.apbjhiu.com
 *.info.apbspeakers.com
 *.ape78cn2.com
@@ -8643,6 +8647,7 @@
 *.c303.pw
 *.c3metrics.com
 *.mine.c3pool.com
+*.c3scores.com
 *.c3tag.com
 *.c43a3cd8f99413891.com
 *.c44wergiu87heghoconutdx.com
@@ -16778,7 +16783,6 @@
 *.downloadoffice2010.org
 *.downloadprivate.com
 *.downloadpro.online
-*.downloadsecurity.info
 *.downloadyt.com
 *.downlon.com
 *.dowtyler.com
@@ -17425,7 +17429,6 @@
 *.eco-tag.jp
 *.ecodemitter.website
 *.ecofinads.com
-*.ecole-saint-simon.net
 *.ecologieurbaine.net
 *.ecomm.events
 *.tracking.ecompare24.com
@@ -18873,7 +18876,6 @@
 *.fairu-schnellvpn.com
 *.fairu-schnellvpn.xyz
 *.info.fairwaywholesalelending.com
-*.fairymeeting.com
 *.fairytaleundergoneopenly.com
 *.faised.com
 *.faiverty-station.com
@@ -19023,7 +19025,6 @@
 *.fastly-insights.com
 *.fastmtn.com
 *.fastnativead.com
-*.fastnewstream.com
 *.fastonlineusers.com
 *.fastpsh.top
 *.ping.fastsimon.com
@@ -19467,7 +19468,6 @@
 *.firstinvestmentupdates.com
 *.firstlyliquidstereotype.com
 *.site.firstnet.com
-*.firstohiobank.com
 *.firstpromoter.com
 *.app-clicks.firstrepublic.com
 *.firstsoftapp.com
@@ -20845,7 +20845,6 @@
 *.talk.nz4.gepush.com
 *.sdk.open.talk.gepush.com
 *.gerbilshew.com
-*.gerepa.com
 *.gerfultendril.com
 *.germaniavid.com
 *.germanplumpcries.com
@@ -21181,7 +21180,6 @@
 *.adobeanalytics-secure.girlscouts.org
 *.girlsluxcontact.life
 *.girlsphonenumbers.online
-*.girlssohorny.net
 *.girockor.com
 *.analytics.gismart.xyz
 *.stat-api-yndx.cloud.gismeteo.net
@@ -21503,7 +21501,6 @@
 *.filter.goclickz.net
 *.xml-v4.goclickz.net
 *.gocolow.com
-*.god-fols.space
 *.events.api.godaddy.com
 *.parking.godaddy.com
 *.seal.godaddy.com
@@ -25589,6 +25586,7 @@
 *.jawsspecific.com
 *.jayapriya.com
 *.jayde.com
+*.jayhou.top
 *.jayneburgess.com
 *.jazzmoist.com
 *.jazzspeechlessarena.com
@@ -34899,6 +34897,7 @@
 *.pixmines.com
 *.ahhrtt.pixnet.net
 *.pixanalytics.pixnet.net
+*.pixoctopus.pixnet.net
 *.counter.pixplug.in
 *.referer.pixplug.in
 *.visitor.pixplug.in
@@ -46519,6 +46518,7 @@
 *.vkgtrack.com
 *.vkiapcavnoc.com
 *.vkjqbb.xyz
+*.vkjsnvk.com
 *.vkonrakte.com
 *.1l-hit.vkplay.ru
 *.vkulake.com
@@ -46973,6 +46973,7 @@
 *.watchvideoplayer.com
 *.watchyourvids.online
 *.watchyourvids.space
+*.watekade.xyz
 *.tracking.waterfrontmedia.com
 *.smetrics.waters.com
 *.wateryzapsandwich.com
